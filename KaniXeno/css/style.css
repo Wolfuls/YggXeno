@@ -228,6 +228,7 @@
 	.win481 {
 		width: 100%;
 		height: 100%;
+		align: center;
 		vertical-align: middle;
 	}
 	
@@ -257,6 +258,7 @@
 	.win480{
 		width: 100%;
 		height: 100%;
+		align: center;
 		vertical-align: middle;
 	}
 	.win481 {
@@ -266,7 +268,7 @@
 		display:none;
 	}
 	.winc {
-		width:600px;
+		width:95vh;
 		height:90vh;
 	}
 	.foriframe {
