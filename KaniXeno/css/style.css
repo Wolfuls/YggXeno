@@ -215,35 +215,38 @@
 
 
 
-
-
-
-
-
-
-	
 @media screen and  (orientation: landscape) { /*ウィンドウ幅が481px以上の場合に適用*/
 
 	body {
 		background:rgba(0,0,0,1)
 		background-size: 1920px 100%;
 	 }
-
+	 
 	.win480 {
 		display:none;
 	}
-}
+	.win481 {
+		width: 100%;
+		height: 100%;
+		vertical-align: middle;
+	}
+	
 	.winb {
-		width:100%;
-		height:100vh;
-		background:rgba(0,0,0,0.8);
+		width:250px;
+		height:95vh;
 	}
+	
 	.winc {
+		width:1050px;
+		height:95vh;
+	}
+	
+	.foriframe {
 		width:100%;
-		height:100vh;
+		height:100%;
 		background:rgba(0,0,0,0.8);
 	}
-
+}
 
 @media screen and (orientation: portrait) { /*ウィンドウ幅が最大480pxまでの場合に適用*/
 
@@ -251,21 +254,26 @@
 	 height: 100%;
 	}
 		 
-	.image480{
-		width:100%;
+	.win480{
+		width: 100%;
+		height: 100%;
+		vertical-align: middle;
 	}
 	.win481 {
 		display:none;
 	}
 	.winb {
-		width:100%;
-		height:90vh;
+		display:none;
 	}
 	.winc {
-		width:750px;
+		width:600px;
 		height:90vh;
 	}
-	
+	.foriframe {
+		width:100%;
+		height:100%;
+		background:rgba(0,0,0,0.8);
+	}
 
 	.menu-btn {
 	    position: fixed;
