@@ -1,8 +1,3 @@
-
-	html {
-		height: 100vh;
-		}
-
 	body {
 		font-family:'メイリオ', 'Meiryo', sans-serif;
 		margin:10px;
@@ -14,6 +9,8 @@
 		animation: fadeIn 1s ease 0s 1 normal;
 		-webkit-animation: fadeIn 0.5s ease 0s 1 normal;
 	}
+	
+
 	a:before {
 		display:inline;
 	}
@@ -124,16 +121,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 	/* ハンバーガーボタン */
 	#menu-btn-check {
     display: none;
@@ -235,17 +222,18 @@
 	.winb {
 		width:250px;
 		height:95vh;
+		background: rgba(0,0,0,0.8);
 	}
 	
 	.winc {
 		width:1050px;
 		height:95vh;
+		background: rgba(0,0,0,0.8);
 	}
 	
 	.foriframe {
 		width:100%;
 		height:100%;
-		background:rgba(0,0,0,0.8);
 	}
 }
 
@@ -270,11 +258,6 @@
 	.winc {
 		width:95vh;
 		height:90vh;
-	}
-	.foriframe {
-		width:100%;
-		height:100%;
-		background:rgba(0,0,0,0.8);
 	}
 
 	.menu-btn {
