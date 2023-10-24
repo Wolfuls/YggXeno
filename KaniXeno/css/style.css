@@ -110,10 +110,10 @@ h1, h2, h3 {
   height: 100px;
   width: 100px;
   background-color: #212121;
-  position: fixed;
+  position: absolute; /* この行を変更 */
   bottom: 2%;
-  left: 2%;
-  z-index: 81;
+  right: 2%; /* この行を追加（左から右に変更） */
+  z-index: 81; /* この行を追加（z-indexを少し上げてみてください） */
 }
 
 .menu-btn span,
