@@ -1,0 +1,1451 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+<link rel="stylesheet" type="text/css" href="../css/style.css">
+<title>鋼鉄の蟹ドラシル</title>
+</head>
+<body>
+
+<div style="margin-top: 50px;">
+	<b><font size="5">▼エフェクト一覧：付加効果</b></font>
+	<hr>
+	<p>
+		応用技は「エフェクト」と呼ばれる特殊効果を組み合わせることで表現されます。<br>
+		エフェクトは「発動系統」「付加効果」「ＳＥ」の３つに分かれており、<br>
+		それぞれに具体的な効果や、消費ＰＰ、発動スペックなどが設定されています。<br>
+		３つのカテゴリに明確な線引きはありませんが、応用技の組み合わせを考える際に一部考慮の必要があります。
+	</p>
+	<p>
+		付加発動を内包する応用技は、付加効果を別途選択する必要があります。<br>
+		付加効果は自身の強化や敵の弱体化、状態異常など、対象に特殊な補正効果を付与するエフェクト群です。<br>
+		スペックやＰＰは別途消費するので消費コストや要求スペックが大きくなってしまう傾向にありますが、<br>
+		その分効果はバラエティに富んでおり、ユグドラＴＲＰＧというゲームの戦略性を考える上で要になる要素といえるでしょう。<br>
+	</p>
+	<p>
+		<ul>発動系統一覧
+			<li><a href="#強化系">強化系</a>
+			<li><a href="#減衰系">減衰系</a>
+			<li><a href="#回復系">回復系</a>
+			<li><a href="#拡張系">拡張系</a>
+			<li><a href="#制限系">制限系</a>
+			<li><a href="#幸運系">幸運系</a>
+			<li><a href="#追加系">追加系</a>
+			<li><a href="#混乱系">混乱系</a>
+			<li><a href="#複製系">複製系</a>
+		</ul>
+	</p>
+	<table bordercolor="#ffffff" cellspacing="0" bgcolor="#000000" border="0">
+		<tr>
+			<td>
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717">
+						<td bgcolor="#c0c0c0" rowspan="2">
+							<p id="強化系"><font color="#000000" size="5"><b>
+								▼強化系
+							</b></font>
+						</td>
+						<td width="20%">
+							要スペック
+						</td>
+						<td width="20%">
+							消費ＰＰ
+						</td>
+					</tr>
+					<tr bgcolor="#171717">
+						<td>
+							１ｓｐ
+						</td>
+						<td>
+							１ｐｐ（※）
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#2b2b2b" valign="top">
+						<td>
+							■オールレンジ
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■テリトリー
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■コンティニュー
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■重複可否
+						</td>
+						<td>
+							○
+						</td>
+					</tr>
+					<tr bgcolor="#2b2b2b">
+						<td valign="top">
+							■維持時間
+						</td>
+						<td valign="top">
+							１Ｒ
+						</td>
+						<td valign="top">
+							■上書き
+						</td>
+						<td>
+							あり
+						</td>
+						<td>
+							■命中判定
+						</td>
+						<td>
+							なし
+						</td>
+						<td>
+							■解除判定
+						</td>
+						<td>
+							なし
+						</td>
+					</tr>
+					<tr bgcolor="#2b2b2b">
+						<td colspan="2">
+							<b>
+								■組み合わせ不可
+							</b>
+						</td>
+						<td colspan="6">
+							●防御発動（強化【防】および強化【抵】のみ）<br>
+							●オールレンジ（重減衰の場合）
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■効果
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								効果持続中、任意のステータスに【能力精度÷３】の固定値ボーナスを得る。<br>
+								補正可能項目は以下の通り。
+							<hr size="1">
+								●行動値<br>
+								●攻撃力<br>
+								●防御力　●抵抗力<br>
+								●命中力　●回避力<br>
+								●解除判定時のパラメータ<br>
+								●探索技能判定（応用技１つで補正できる技能は２つまで）
+							</p>
+						</td>
+					</tr>
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000" size="5">
+								■派生効果【重強化】
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								 強化系を２つ以上併用した場合、この【重強化】扱いとなる。チェインも含む。<br>
+								 重強化はコンティニューとの併用不可。
+							</p>
+							<p>
+								 また、単一の応用技内で強化系を２つ以上配置した場合、<font color="ff0000">２つ目以降の強化系は消費ｐｐが２ｐｐとなる。</font><br>
+								  強化項目が別であっても重強化の対象となる。
+							</p>
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■補足
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								●筋力等のパラメーターをはじめとして「補正可能項目」に<br>
+								　指定されていない判定は補正対象にできない。<br>
+								●強化項目が【防御/抵抗】の場合、【防御発動】との併用は不可。<br>
+								●上書きルールは基本的に有効だが、ＳＥ【コンティニュー】適用時は<br>
+								　同じく【コンティニュー】を適用した強化系でなければ上書きされない。 
+							</p>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+		<td>
+		　
+		</td>
+		</tr>		
+		<tr>
+			<td>
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717">
+						<td bgcolor="#c0c0c0" rowspan="2">
+							<p id="減衰系"><font color="#000000" size="5"><b>
+								▼減衰系
+							</b></font>
+						</td>
+						<td width="20%">
+							要スペック
+						</td>
+						<td width="20%">
+							消費ＰＰ
+						</td>
+					</tr>
+					<tr bgcolor="#171717">
+						<td>
+							１ｓｐ
+						</td>
+						<td>
+							１ｐｐ（※）
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#2b2b2b" valign="top">
+						<td>
+							■オールレンジ
+						</td>
+						<td>
+							単減衰のみ○
+						</td>
+						<td>
+							■テリトリー
+						</td>
+						<td>
+							単減衰のみ○
+						</td>
+						<td>
+							■コンティニュー
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■重複可否
+						</td>
+						<td>
+							○
+						</td>
+					</tr>
+					<tr bgcolor="#2b2b2b">
+						<td valign="top">
+							■維持時間
+						</td>
+						<td valign="top">
+							１Ｒ
+						</td>
+						<td valign="top">
+							■上書き
+						</td>
+						<td>
+							あり
+						</td>
+						<td>
+							■命中判定
+						</td>
+						<td>
+							あり
+						</td>
+						<td>
+							■解除判定
+						</td>
+						<td>
+							なし
+						</td>
+					</tr>
+					<tr bgcolor="#2b2b2b">
+						<td colspan="2">
+							<b>
+								■組み合わせ不可
+							</b>
+						</td>
+						<td colspan="6">
+							●オールレンジ（重減衰の場合）
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■効果
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								効果持続中、任意のステータスに【能力精度÷３】の固定値ペナルティを与える。<br>
+								補正可能項目は以下の通り。
+							<hr size="1">
+								●行動値<br>
+								●攻撃力<br>
+								●防御力　●抵抗力<br>
+								●命中力　●回避力<br>
+								●解除判定時のパラメータ<br>
+								●探索技能判定（応用技１つで補正できる技能は２つまで）
+							</p>
+						</td>
+					</tr>
+				</table>
+				<table border="0" width="100%" cellspacing="15">
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<p id="減衰系"><b><font color="#000000" size="5">
+								■派生効果①【重減衰】
+							</p></b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								 減衰系を２つ以上併用した場合、この【重減衰】扱いとなる。チェインも含む。<br>
+								 重減衰はコンティニューとの併用不可。
+							</p>
+							<p>
+								 また、単一の応用技内で減衰系を２つ以上配置した場合、<font color="ff0000">２つ目以降の減衰系は消費ｐｐが２ｐｐとなる。</font><br>
+								  強化項目が別であっても重減衰の対象となる。
+							</p>
+						</td>
+					</tr>
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<p id="減衰系"><b><font color="#000000" size="5">
+								■派生効果②【瞬間減衰】
+							</p></b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								 維持時間が【単発】となる減衰系。<br>
+								その代わり命中判定を行う必要がなく、強化系と同じタイミングから効果を適用できる。
+							</p>
+						</td>
+					</tr>
+				</table>
+				<table border="0" width="100%" cellspacing="7">
+					<tr>
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■補足
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								●筋力等のパラメーターをはじめとして「補正可能項目」に<br>
+								　指定されていない判定は補正対象にできない。
+							</p>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+		<td>
+		　
+		</td>
+		</tr>
+		<tr>
+			<td>
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717">
+						<td bgcolor="#c0c0c0" rowspan="2">
+							<p id="減衰系"><font color="#000000" size="5"><b>
+								▼回復系
+							</b></font>
+						</td>
+						<td width="20%">
+							要スペック
+						</td>
+						<td width="20%">
+							消費ＰＰ
+						</td>
+					</tr>
+					<tr bgcolor="#171717">
+						<td>
+							１ｓｐ
+						</td>
+						<td>
+							２ｐｐ
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#2b2b2b" valign="top">
+						<td>
+							■オールレンジ
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■テリトリー
+						</td>
+						<td>
+							×
+						</td>
+						<td>
+							■コンティニュー
+						</td>
+						<td>
+							×
+						</td>
+						<td>
+							■重複可否
+						</td>
+						<td>
+							○
+						</td>
+					</tr>
+					<tr bgcolor="#2b2b2b">
+						<td valign="top">
+							■維持時間
+						</td>
+						<td valign="top">
+							単発
+						</td>
+						<td valign="top">
+							■上書き
+						</td>
+						<td>
+							なし
+						</td>
+						<td>
+							■命中判定
+						</td>
+						<td>
+							なし
+						</td>
+						<td>
+							■解除判定
+						</td>
+						<td>
+							なし
+						</td>
+					</tr>
+					<tr bgcolor="#2b2b2b">
+						<td colspan="2">
+							<b>
+								■組み合わせ不可
+							</b>
+						</td>
+						<td colspan="6">
+							●ドレイン
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■効果
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								<font color="ffff00">対象のＨＰを【（ダメージ判定：能力攻撃）÷２】分回復する。</font><br>
+								この効果でＨＰの最大値を上回る回復が発生した場合、<font color="ffff00">超過分も【臨時ＨＰ】として蓄えることができる。</font>
+							</p>
+						</td>
+					</tr>
+				</table>
+				<table border="0" width="100%" cellspacing="15">
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<p id="減衰系"><b><font color="#000000" size="5">
+								■派生効果【重回復】
+							</p></b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								 回復系を２つ以上併用した場合、この【重回復】扱いとなる。チェインも含む。<br>
+								重回復の場合、２つ目以降の回復系の効果は<font color="ffff00">「この回復判定時のダイス数を＋３ｄする」</font>ものとなる。
+							</p>
+						</td>
+					</tr>
+				</table>
+				<table border="0" width="100%" cellspacing="7">
+					<tr>
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■補足
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								●回復量を決定する上では能力攻撃を参照するため、<br>
+								　【ＳＥ：リスク】【ＡＥ：コンセントレイション】など、攻撃力への補正で回復量を上げることもできる。 <br>
+								●臨時ＨＰの上限は【最大ＨＰの２倍】まで。<br>
+								　また、臨時ＨＰはシーンチェンジ＆バトル開始＆バトル終了のタイミングで消滅する。
+							</p>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+		<td>
+		　
+		</td>
+		</tr>
+		<tr>
+			<td>
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717">
+						<td bgcolor="#c0c0c0" rowspan="2">
+							<p id="拡張系"><font color="#000000" size="5"><b>
+								▼拡張系
+							</b></font>
+						</td>
+						<td width="20%">
+							要スペック
+						</td>
+						<td width="20%">
+							消費ＰＰ
+						</td>
+					</tr>
+					<tr bgcolor="#171717">
+						<td>
+							１ｓｐ
+						</td>
+						<td>
+							１ｐｐ
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#2b2b2b" valign="top">
+						<td>
+							■オールレンジ
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■テリトリー
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■コンティニュー
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■重複可否
+						</td>
+						<td>
+							○
+						</td>
+					</tr>
+					<tr bgcolor="#2b2b2b">
+						<td valign="top">
+							■維持時間
+						</td>
+						<td valign="top">
+							１Ｒ
+						</td>
+						<td valign="top">
+							■上書き
+						</td>
+						<td>
+							あり
+						</td>
+						<td>
+							■命中判定
+						</td>
+						<td>
+							なし
+						</td>
+						<td>
+							■解除判定
+						</td>
+						<td>
+							なし
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■効果
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								<font color="ffff00">対象の発動スペックに【＋１】のボーナスを与える。</font>
+							</p>
+						</td>
+					</tr>
+				</table>
+				<table border="0" width="100%" cellspacing="15">
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<p id="減衰系"><b><font color="#000000" size="5">
+								■派生効果【重拡張】
+							</p></b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								 拡張系を２つ以上併用した場合、この【重拡張】扱いとなる。チェインも含む。
+							</p>
+						</td>
+					</tr>
+				</table>
+				<table border="0" width="100%" cellspacing="7">
+					<tr>
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■補足
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								●自身に使うことも可能。<br>
+								　ただし、拡張系によってスペックにボーナスを得るのは拡張系を使用したリザルト以降。<br>
+								　つまり、実際に上昇したスペックで応用技を使えるようになるのは次のアクション以降となる。
+							</p>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+		<td>
+		　
+		</td>
+		</tr>
+		<tr>
+			<td>
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717">
+						<td bgcolor="#c0c0c0" rowspan="2">
+							<p id="拡張系"><font color="#000000" size="5"><b>
+								▼制限系
+							</b></font>
+						</td>
+						<td width="20%">
+							要スペック
+						</td>
+						<td width="20%">
+							消費ＰＰ
+						</td>
+					</tr>
+					<tr bgcolor="#171717">
+						<td>
+							１ｓｐ
+						</td>
+						<td>
+							２ｐｐ
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#2b2b2b" valign="top">
+						<td>
+							■オールレンジ
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■テリトリー
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■コンティニュー
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■重複可否
+						</td>
+						<td>
+							○
+						</td>
+					</tr>
+					<tr bgcolor="#2b2b2b">
+						<td valign="top">
+							■維持時間
+						</td>
+						<td valign="top">
+							１Ｒ
+						</td>
+						<td valign="top">
+							■上書き
+						</td>
+						<td>
+							あり
+						</td>
+						<td>
+							■命中判定
+						</td>
+						<td>
+							あり
+						</td>
+						<td>
+							■解除判定
+						</td>
+						<td>
+							なし
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■効果
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								<font color="ffff00">対象の発動スペックに【－１】のペナルティを与える。</font>
+							</p>
+						</td>
+					</tr>
+				</table>
+				<table border="0" width="100%" cellspacing="15">
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<p id="減衰系"><b><font color="#000000" size="5">
+								■派生効果【重制限】
+							</p></b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								 制限系を２つ以上併用した場合、この【重制限】扱いとなる。チェインも含む。
+							</p>
+						</td>
+					</tr>
+				</table>
+				<table border="0" width="100%" cellspacing="7">
+					<tr>
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■補足
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								●スペックの下限は【０】である。
+							</p>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+		<td>
+		　
+		</td>
+		</tr>
+		<tr>
+			<td>
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717">
+						<td bgcolor="#c0c0c0" rowspan="2">
+							<p id="拡張系"><font color="#000000" size="5"><b>
+								▼幸運系
+							</b></font>
+						</td>
+						<td width="20%">
+							要スペック
+						</td>
+						<td width="20%">
+							消費ＰＰ
+						</td>
+					</tr>
+					<tr bgcolor="#171717">
+						<td>
+							１ｓｐ
+						</td>
+						<td>
+							２ｐｐ
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#2b2b2b" valign="top">
+						<td>
+							■オールレンジ
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■テリトリー
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■コンティニュー
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■重複可否
+						</td>
+						<td>
+							○
+						</td>
+					</tr>
+					<tr bgcolor="#2b2b2b">
+						<td valign="top">
+							■維持時間
+						</td>
+						<td valign="top">
+							１Ｒ
+						</td>
+						<td valign="top">
+							■上書き
+						</td>
+						<td>
+							あり
+						</td>
+						<td>
+							■命中判定
+						</td>
+						<td>
+							なし
+						</td>
+						<td>
+							■解除判定
+						</td>
+						<td>
+							なし
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■効果
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								<font color="ffff00">維持時間中に（ダメージ判定以外の）判定を行う場合、<br>
+								１ロール目の５・６をクリティカル、１・２をファンブルにする。</font>
+							</p>
+						</td>
+					</tr>
+				</table>
+				<table border="0" width="100%" cellspacing="15">
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<p id="減衰系"><b><font color="#000000" size="5">
+								■派生効果【ギャンブル】
+							</p></b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								２つ以上の幸運系が適用されているユニットは、代わりにこの【ギャンブル】を適用する。<br>
+								ギャンブル状態のユニットが（ダメージ判定以外の）判定を行う場合、<br>
+								１ロール目の４・５・６をクリティカル、１・２・３をファンブルにする。
+							</p>
+						</td>
+					</tr>
+				</table>
+				<table border="0" width="100%" cellspacing="7">
+					<tr>
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■補足
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								●他者の幸運系、【性質系：幸運】、幸運テリトリーなどで幸運系が重なった場合もギャンブル化する。 <br>
+								●性質上、３つ目以降の幸運系は意味がない。
+							</p>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+		<td>
+		　
+		</td>
+		</tr>
+		<tr>
+			<td>
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717">
+						<td bgcolor="#c0c0c0" rowspan="2">
+							<p id="追加系"><font color="#000000" size="5"><b>
+								▼追加系
+							</b></font>
+						</td>
+						<td width="20%">
+							要スペック
+						</td>
+						<td width="20%">
+							消費ＰＰ
+						</td>
+					</tr>
+					<tr bgcolor="#171717">
+						<td>
+							１ｓｐ
+						</td>
+						<td>
+							２ｐｐ
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#2b2b2b" valign="top">
+						<td>
+							■オールレンジ
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■テリトリー
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■コンティニュー
+						</td>
+						<td>
+							×
+						</td>
+						<td>
+							■重複可否
+						</td>
+						<td>
+							○
+						</td>
+					</tr>
+					<tr bgcolor="#2b2b2b">
+						<td valign="top">
+							■維持時間
+						</td>
+						<td valign="top">
+							任意（消費）
+						</td>
+						<td valign="top">
+							■上書き
+						</td>
+						<td>
+							なし
+						</td>
+						<td>
+							■命中判定
+						</td>
+						<td>
+							なし
+						</td>
+						<td>
+							■解除判定
+						</td>
+						<td>
+							なし
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■効果
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								<font color="ffff00">対象の指定ロールに【＋１ｄ】のボーナスを与える。</font><br>
+								補正可能項目は以下の通り。<br>
+							<hr size="1">
+								●命中力　●回避力<br>
+								●解除判定時のパラメータ<br>
+								●探索技能判定（応用技１つで補正できる技能は２つまで）
+							</p>
+						</td>
+					</tr>
+				</table>
+				<table border="0" width="100%" cellspacing="15">
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<p id="減衰系"><b><font color="#000000" size="5">
+								■派生効果【重追加】
+							</p></b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								追加系＋追加系、といった形で 重複して発動する事も可能。
+							</p>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+		<td>
+		　
+		</td>
+		</tr>
+		<tr>
+			<td>
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717">
+						<td bgcolor="#c0c0c0" rowspan="2">
+							<p id="混乱系"><font color="#000000" size="5"><b>
+								▼混乱系
+							</b></font>
+						</td>
+						<td width="20%">
+							要スペック
+						</td>
+						<td width="20%">
+							消費ＰＰ
+						</td>
+					</tr>
+					<tr bgcolor="#171717">
+						<td>
+							１ｓｐ
+						</td>
+						<td>
+							２ｐｐ
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#2b2b2b" valign="top">
+						<td>
+							■オールレンジ
+						</td>
+						<td>
+							○
+						</td>
+						<td>
+							■テリトリー
+						</td>
+						<td>
+							×
+						</td>
+						<td>
+							■コンティニュー
+						</td>
+						<td>
+							×
+						</td>
+						<td>
+							■重複可否
+						</td>
+						<td>
+							×
+						</td>
+					</tr>
+					<tr bgcolor="#2b2b2b">
+						<td valign="top">
+							■維持時間
+						</td>
+						<td valign="top">
+							任意
+						</td>
+						<td valign="top">
+							■上書き
+						</td>
+						<td>
+							なし
+						</td>
+						<td>
+							■命中判定
+						</td>
+						<td>
+							あり
+						</td>
+						<td>
+							■解除判定
+						</td>
+						<td>
+							あり
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■効果
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								対象のプリアクション・リアクションで偶奇判定。<br>
+								<font color="8080ff">
+								●偶数→通常行動<br>
+								●奇数→アクション時は対象ランダムで宣言行動。<br>
+								　　　　リアクション時は自動回避失敗。となる。
+								</font>
+							</p>
+							<table border="1">
+								<tr bgcolor="#171717">
+									<td colspan="2">
+										▼ランダム対象（ＧＭ裁量で対象のチョイスは自由）
+									</td>
+								</tr>
+								<tr>
+									<td>
+										●自分
+									</td>
+									<td>
+										自分に暴発。自動命中。<br>
+										防御力などによるダメージ軽減は適用。
+									</td>
+								</tr>
+								<tr>
+									<td>
+										●キャラ
+									</td>
+									<td>
+										敵味方含めた周辺キャラに暴発。刹那対抗で命中回避判定。<br>
+										混乱を付与したキャラクターの陣営は暴発対象から除く。
+									</td>
+								</tr>
+								<tr>
+									<td>
+										●オブジェクト
+									</td>
+									<td>
+										周辺の建物などに暴発。キャラクターに影響はないが、<br>
+										場合によってなんらかの影響がでる場合があるかもしれない。
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+				<table border="0" width="100%" cellspacing="7">
+					<tr>
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■補足
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								●偶奇判定は行動内容の宣言後（ＡＥ宣言含む）に行う。
+							</p>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+		<td>
+		　
+		</td>
+		</tr>
+		<tr>
+			<td>
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717">
+						<td bgcolor="#c0c0c0" rowspan="2">
+							<p id="複製系"><font color="#000000" size="5"><b>
+								▼複製系
+							</b></font>
+						</td>
+						<td width="20%">
+							要スペック
+						</td>
+						<td width="20%">
+							消費ＰＰ
+						</td>
+					</tr>
+					<tr bgcolor="#171717">
+						<td>
+							１ｓｐ
+						</td>
+						<td>
+							３ｐｐ
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#2b2b2b" valign="top">
+						<td>
+							■オールレンジ
+						</td>
+						<td>
+							×
+						</td>
+						<td>
+							■テリトリー
+						</td>
+						<td>
+							×
+						</td>
+						<td>
+							■コンティニュー
+						</td>
+						<td>
+							×
+						</td>
+						<td>
+							■重複可否
+						</td>
+						<td>
+							×
+						</td>
+					</tr>
+					<tr bgcolor="#2b2b2b">
+						<td valign="top">
+							■維持時間
+						</td>
+						<td valign="top">
+							任意（特殊）
+						</td>
+						<td valign="top">
+							■上書き
+						</td>
+						<td>
+							なし
+						</td>
+						<td>
+							■命中判定
+						</td>
+						<td>
+							あり
+						</td>
+						<td>
+							■解除判定
+						</td>
+						<td>
+							あり
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="7">
+					<tr bgcolor="#171717" valign="top">
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■効果
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								<font color="ffff00">自身のステータスを、対象の数値と同じにする。</font><br>
+								コピーできる範囲は決まっており、応用技作成時にセットリストの選択が必要。
+							</p>
+							<table border="1">
+								<tr bgcolor="#171717">
+									<td colspan="2">
+										▼セットリスト（複数選択可）
+									</td>
+								</tr>
+								<tr>
+									<td>
+										●アタックセット
+									</td>
+									<td>
+										<font color="ffff00">各種攻撃力＋命中力＋回避力をコピー</font><br>
+										<font color="8080ff">※クリーチャーがアタックセットを複製する場合、能力攻撃力を参照する。</font>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										●シールドセット
+									</td>
+									<td>
+										<font color="ffff00">行動値＋防御力＋抵抗力をコピー</font>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										●スキルセット
+									</td>
+									<td>
+										<font color="ffff00">各種探索技能値＋解除判定パラメータをコピー</font>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										●エフェクトセット
+									</td>
+									<td>
+										<font color="ffff00">異能概要＋応用技をコピー</font>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										●オールセット
+									</td>
+									<td>
+										<font color="ffff00">上記全セットをコピー</font>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+				<table border="0" width="100%" cellspacing="7">
+					<tr>
+						<td bgcolor="#c0c0c0" colspan="8">
+							<b><font color="#000000">
+								■補足
+							</b></font>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8">
+							<p>
+								●ＨＰ・ＰＰ・暴走率は複製できない。<br>
+								●複製時に参照するのは本来のステータスであり、<br>
+								　能力補正や活性などによる判定ボーナス・ペナルティは参照しない。<br>
+								●セット内容を問わず、複製系は複製系によって上書きされる。<br>
+								　このため、複数のユニットから同時に複製することは不可能。
+							</p>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</div>
+
+
+
+
+</body>
+</html>
