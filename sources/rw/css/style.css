@@ -1,0 +1,393 @@
+/* Base Settings */
+body {
+  font-family: 'メイリオ', 'Meiryo', sans-serif;
+  margin: 10px;
+  padding: 0;
+  color: #ffffff;
+  background: rgba(0,0,0,0.8);
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: fadeIn 1s ease 0s 1 normal;
+}
+
+iframe {
+ 	background: transparent;
+   	border: none;
+}
+
+.block-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.block {
+  border: 2px solid #444; /* 枠線 */
+  padding: 10px;           /* 内側の余白 */
+  flex: 0 0 350px;
+}
+
+.minifont {
+  font-size: 14px;
+  }
+
+.borderless {
+  margin: 0;
+  padding: 0;
+  border-spacing: 0;
+  }
+
+/* Flexbox */
+.flex-container {
+  display: flex;
+}
+.flex-container > * {
+  flex-grow: 1;
+}
+
+a:link, a:visited {
+  color: #ffff00;
+  display: inline;
+}
+
+a:hover {
+  color: #00ffff;
+}
+
+.button-hover:hover {
+  background: linear-gradient(45deg, rgba(128,255,255,0), rgba(128,255,255,0.5));
+  color: #00ff00;
+}
+
+ul, ol {
+  margin: 0;
+}
+
+.frame {
+  height: 175px;
+  width: 175px;
+}
+
+h1, h2, h3 {
+  vertical-align: middle;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  0% {opacity: 0}
+  100% {opacity: 1}
+}
+
+/* Popup */
+.lb {
+  display: flex;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0,0,0,0.8);
+  opacity: 0;
+  transition: .3s opacity ease;
+  pointer-events: none;
+  z-index: 100;
+}
+.lb img {
+  width: auto !important;
+  max-height: 100% !important;
+  cursor: pointer;
+}
+.lb:target {
+  opacity: 1;
+  pointer-events: auto;
+  z-index: 101;
+}
+
+.ygg_index {
+  max-height: 600px;
+}
+
+/* Hamburger Menu */
+#menu-btn-check {
+  display: none;
+}
+.menu-content {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  right: 100%;
+  background-color: rgba(0,0,0,0.5);
+  transition: all 0.5s;
+  z-index: 80;
+}
+
+.menu-btn {
+  cursor: pointer;
+  height: 80px;
+  width: 80px;
+  background-color: #212121;
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  z-index: 81;
+  opacity: 0.3; /* 普段は半透明 */
+  transition: left 0.5s ease, opacity 0.3s ease; /* 移動と共に透明度解除 */
+}
+.menu-btn.visible {
+  opacity: 0.8;
+}
+
+.menu-btn span,
+.menu-btn span:before,
+.menu-btn span:after {
+  content: "";
+  position: absolute;
+  height: 5px;
+  width: 65px;
+  background: white;
+  margin: auto;
+}
+.menu-btn span {
+  top: 50%;
+  left: 10%;
+}
+.menu-btn span:before,
+.menu-btn span:after {
+  top: 0;
+  bottom: 0;
+}
+.menu-btn span:before {
+  transform: translateY(-20px);
+}
+.menu-btn span:after {
+  transform: translateY(20px);
+}
+#menu-btn-check:checked ~ .menu-content {
+  right: 0;
+}
+#menu-btn-check:checked ~ .menu-btn span {
+  background-color: rgba(255, 255, 255, 0);
+}
+#menu-btn-check:checked ~ .menu-btn span:before {
+  bottom: 0;
+  transform: rotate(45deg);
+}
+#menu-btn-check:checked ~ .menu-btn span:after {
+  top: 0;
+  transform: rotate(-45deg);
+}
+
+#menu-btn-check:checked ~ .menu-btn {
+  left: 80%; /* 開いたときの位置。適宜調整 */
+  opacity: 1;      /* 不透明に */
+  transition: left 0.5s ease;
+}
+
+
+/* Menu Window */
+.menuwin {
+  grid-area: menuwin;
+  width: 300px;
+  background: rgba(0,0,0,0.8);
+}
+
+/* Table Cell */
+.table-cell {
+  position: relative;
+  cursor: pointer;
+  padding: 5px;
+  color: #ffff00;
+}
+.table-cell a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+  color: inherit;
+}
+.table-cell:hover {
+  filter: brightness(1.5);
+}
+
+/* Responsive Design */
+
+ /* 縦長 */
+@media screen and (max-width: 768px) {
+  .change1 {
+    display: none;
+  }
+  .menuwin {
+    display: none;
+  }
+  .mainwin {
+    width: 100%;
+    height: 95vh;
+  }
+  .hamburger-menu {
+    width: 80%;
+  }
+}
+ /* 横長 */
+@media screen and (min-width: 769px) {
+  .change2 {
+    display: none;
+  }
+  .menuwin {
+    grid-area: menuwin;
+    width: 300px;
+    height: 95vh;
+  }
+  .hamburger-menu {
+    display: none;
+  }
+}
+
+
+
+ /* 画像ギャラリー用 */
+    .name-container {
+        width: 150px;
+        display: inline-block;
+        vertical-align: middle;
+        margin: 15px;
+        border: 1px solid #f1f1f1;
+        padding: 10px;
+        cursor: pointer;
+        transition: transform 0.2s, border 0.2s;
+    }
+    .name-container:hover {
+        transform: scale(1.2);
+        border: 2px solid #f1f1f1;
+        text-align: center;
+    }
+    .thumbnail-container {
+        width: 125px;
+        height: 175px;
+        display: inline-block;
+        vertical-align: middle;
+        margin: 15px;
+        border: 1px solid #f1f1f1;
+        padding: 10px;
+        cursor: pointer;
+        transition: transform 0.2s, border 0.2s;
+    }
+    .thumbnail-container:hover {
+        transform: scale(1.2);
+        border: 2px solid #f1f1f1;
+        text-align: center;
+    }
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 1;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(0,0,0,0.8);
+        justify-content: center;
+        align-items: center;
+    }
+    .modal-content {
+        margin: auto;
+        display: block;
+        max-width: 60%;
+        max-height: 85%;
+        text-align: left;
+        width: auto;
+        height: auto;
+        vertical-align: middle;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        animation: fadeIn 0.5s;
+        padding: 20px;
+        color: #fff;
+        overflow-y: auto; /* オーバーフローをスクロールに設定 */
+    }
+    .modal-content:hover {
+        cursor: pointer;
+    }
+    .prev, .next {
+        cursor: pointer;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 10%;
+        color: white;
+        font-weight: bold;
+        font-size: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        user-select: none;
+        transition: background-color 0.3s;
+    }
+    .prev {
+        left: 0;
+    }
+    .next {
+        right: 0;
+    }
+    .prev:hover, .next:hover {
+        background-color: rgba(0,0,0,0.8);
+    }
+    .close {
+        position: absolute;
+        top: 15px;
+        right: 35px;
+        color: #f1f1f1;
+        font-size: 40px;
+        font-weight: bold;
+        transition: 0.3s;
+        z-index: 81;
+    }
+    .close:hover,
+    .close:focus {
+        color: #bbb;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    .expanded-img-container {
+        display: none;
+        position: fixed;
+        z-index: 2;
+        padding-top: 30px;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0,0,0,0.9);
+        justify-content: center;
+        align-items: center;
+    }
+    .expanded-img-content {
+        margin: auto;
+        display: block;
+        max-width: 90%;
+        max-height: 90%;
+        width: auto;
+        height: auto;
+    }
+    .expanded-img-content img {
+        max-width: 80%;
+        max-height: 80%;
+        align-items: center;
+    }
+    .expanded-img-close {
+        position: absolute;
+        top: 15px;
+        right: 35px;
+        color: #f1f1f1;
+        font-size: 40px;
+        font-weight: bold;
+        transition: 0.3s;
+    }
+    .expanded-img-close:hover,
+    .expanded-img-close:focus {
+        color: #bbb;
+        text-decoration: none;
+        cursor: pointer;
+    } 

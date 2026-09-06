@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+  <meta http-equiv="Pragma" content="no-cache">
+  <link rel="stylesheet" type="text/css" href="../../css/style.css">
+  <title>鋼鉄の蟹ドラシル</title>
+<style>
+    body {
+        font-family: 'メイリオ', 'Meiryo', sans-serif;
+        margin: 10px;
+        padding: 0;
+        color: #ffffff;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+
+    <iframe src="bs_menu.html" frameborder="0" width="100%" onload="resizeIframe(this)"></iframe>
+<hr>
+
+<h1>▼ラバソ</h1>
+
+<div style="display: inline-block; height: 150px; vertical-align: middle;"></div>
+<!-- Thumbnail texts -->
+<div class="thumbnail-container" onclick="openModal();currentSlide(1)"><img src="img/rb_001.jpg" width="125px"><br>節馬 条</div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(2)"><img src="img/rb_002.jpg" width="125px"><br>雪向 咲</div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(3)"><img src="img/rb_003.jpg" width="125px"><br>卯白 分</div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(4)"><img src="img/rb_004.jpg" width="125px"><br>チエリ・チヨコリィート</div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(5)"><img src="img/rb_005.jpg" width="125px"><br>アイゼン・ポー・ハクラト</div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(6)"><img src="img/rb_006.jpg" width="125px"><br>彩土 美奈</div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(7)"><img src="img/rb_007.jpg" width="125px"><br>360°ちゃん</div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(8)"><img src="img/rb_008.jpg" width="125px"><br>右藤 ビシュナル</div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(9)"><img src="img/rb_009.jpg" width="125px"><br>夜面 鈴音</div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(10)"><img src="img/rb_010.jpg" width="125px"><br>菜々芽 碧花</div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(11)"><img src="img/rb_011.jpg" width="125px"><br>馬庭 狩那</div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(12)"><img src="img/rb_012.jpg" width="125px"><br>左沢 虹</div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(13)"><img src="img/rb_013.jpg" width="125px"><br>右藤 イータ</div>
+
+
+
+
+
+
+<!--
+<div class="thumbnail-container" onclick="openModal();currentSlide(16)"><img src="img/rb_016.jpg" width="125px"><br></div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(17)"><img src="img/rb_017.jpg" width="125px"><br></div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(18)"><img src="img/rb_018.jpg" width="125px"><br></div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(19)"><img src="img/rb_019.jpg" width="125px"><br></div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(20)"><img src="img/rb_020.jpg" width="125px"><br></div>
+<div class="thumbnail-container" onclick="openModal();currentSlide(21)"><img src="img/rb_021.jpg" width="125px"><br></div>
+-->
+
+<!-- The Modal/Lightbox -->
+<div id="myModal" class="modal">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <div class="modal-content" id="modal-text">
+        <div id="modal-inner-content"></div>
+    </div>
+    <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
+    <a class="next" onclick="changeSlide(1)">&#10095;</a>
+</div>
+
+<!-- Expanded Image Modal -->
+<div id="expandedImgContainer" class="expanded-img-container">
+    <span class="expanded-img-close" onclick="closeExpandedImg()">&times;</span>
+    <div class="expanded-img-content">
+        <img id="expandedImg" src="">
+    </div>
+</div>
+
+<script>
+let slideIndex = 1;
+
+function openModal() {
+    document.getElementById('myModal').style.display = "flex";
+    showSlides(slideIndex);
+}
+
+function closeModal() {
+    document.getElementById('myModal').style.display = "none";
+}
+
+function changeSlide(n) {
+    showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+    showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+    const contents = [
+
+        '<p align="center"><img src="img/rb_001.jpg" width="250px"></p><table bordercolor="#000000" cellspacing="0" cellpadding="10" bgcolor="#4b4b4b" border="1" align="center"><tr><td bgcolor="#ffffff" valign="middle" align="center" colspan="3"><font color="000000"><b>節馬 条</b></font></td><tr><td valign="middle" align="center" rowspan="3"><b>オーバー・ウォッチ</b></td><td align="right">①：</td><td align="left">あなたはSPE【 奇跡 】を得る。</td></tr><tr><td align="right">②：</td><td align="left">あなたはSPE【 奇跡 】を命中判定にも使用する事ができる。</td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i>それは「有り得たかもしれない別のあなた」なのかもしれない。</i></td></tr></table>',
+        '<p align="center"><img src="img/rb_002.jpg" width="250px"></p><table bordercolor="#000000" cellspacing="0" cellpadding="10" bgcolor="#4b4b4b" border="1" align="center"><tr><td bgcolor="#ffffff" valign="middle" align="center" colspan="3"><font color="000000"><b>雪向 咲</b></font></td></tr><tr><td valign="middle" align="center" rowspan="4"><b>記憶の片鱗</b></td><td colspan="2">暴走症状を発症している間、この特性の効果は無効となる。</td></tr><tr><td align="right">①：</td><td align="left">あなたはAE【エール】をLv２以上宣言できる。</td></tr><tr><td align="right">②：</td><td align="left">あなたがレベル２以上のAE【エール】を宣言する場合、最終的な消費PPをそのレベル分軽減する。</td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i>善意は尊いが、それが理由で身を滅ぼすことだってある。</i></td></tr></table>',
+        '<p align="center"><img src="img/rb_003.jpg" width="250px"></p><table bordercolor="#000000" cellspacing="0" cellpadding="10" bgcolor="#4b4b4b" border="1" align="center"><tr><td bgcolor="#ffffff" valign="middle" align="center" colspan="3"><font color="000000"><b>卯白 分</b></font></td></tr><tr><td valign="middle" align="center" rowspan="3"><b>緋色の研究</b></td><td align="right">①：</td><td align="left">シナリオ中に２度まで使用できる。<br>同シナリオ中に取得条件を満たしているカルマを１つ宣言する。<br>あなたのカルマを、宣言したカルマに変更する。<br><font color="8080ff">（使用回数等はリセットされる）<br>（同シナリオ中、既に取得したカルマは選べない）</font></td></tr><tr><td align="right">②：</td><td align="left">バトル中に１度だけ、プリアクション・初回リアクションで宣言できる。<br>その判定を【 SS 】で判定する。</td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i>世を欺き、義を貫く。二十面相の探偵が見る夢は。</i></td></tr></table>',
+        '<p align="center"><img src="img/rb_004.jpg" width="250px"></p><table bordercolor="#000000" cellspacing="0" cellpadding="10" bgcolor="#4b4b4b" border="1" align="center"><tr><td bgcolor="#ffffff" valign="middle" align="center" colspan="3"><font color="000000"><b>チエリ＝チヨコリィート</b></font></td></tr><tr><td valign="middle" align="center" rowspan="3"><b>EKHI</b></td><td align="right">①：</td><td align="left">あなたは限定系【ASSERT DOMINANCE!】の効果を味方に対しても適用できる。</td></tr><tr><td align="right">②：</td><td align="left">限定系【ASSERT DOMINANCE!】でダメージロールを無効にした場合に発動する。<br>あなたは次のダメージロールに、【無効にしたダメージ判定】分のボーナスを得る。<br><font color="8080ff">（同バトル中のみ有効）</font></td></td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i>火に油を注ぐ、とはよく言ったものだ。</i></td></tr></table>',
+        '<p align="center"><img src="img/rb_005.jpg" width="250px"></p><table bordercolor="#000000" cellspacing="0" cellpadding="10" bgcolor="#4b4b4b" border="1" align="center"><tr><td bgcolor="#ffffff" valign="middle" align="center" colspan="3"><font color="000000"><b>アイゼン・ポー・ハクラト</b></font></td></tr><tr><td valign="middle" align="center" rowspan="2"><b>獣狩りの炎</b></td><td align="right">①：</td><td align="left">あなたが状態異常【火炎放射器】で上書きルールを発生させた場合に発動する。<br>上書き後の【火炎放射器】による継続ダメージは、【上書き前の継続ダメージ＋３】となる。</td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i>燃え上がれ。怒りに燃える闘志があるなら。</i></td></tr><tr><td valign="middle" align="center" rowspan="2"><b>不死身の身体（自称）</b></td><td align="right">○：</td><td align="left">あなたが【復活バースト】を使用する場合、暴走率を５％上昇させて発動できる。<br>その回復量は３倍になる。</td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i>本当に不死かは死ぬまでわからない。</i></td></tr><tr><td valign="middle" align="center" rowspan="2"><b>三重の脅威</b></td><td align="right">○：</td><td align="left">あなたが【威圧】判定を行う場合、暴走率を５％上昇させて発動できる。<br>その判定結果は３倍になる。</td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i>「三人寄れば文殊の知恵」。「一人の好士より三人の愚者」。「三人寄れば師匠の出来」。「ハクラト」。</i></td></tr></table>',
+        '<p align="center"><img src="img/rb_006.jpg" width="250px"></p><table bordercolor="#000000" cellspacing="0" cellpadding="10" bgcolor="#4b4b4b" border="1" align="center"><tr><td bgcolor="#ffffff" valign="middle" align="center" colspan="3"><font color="000000"><b>彩土 美奈</b></font></td></tr><tr><td valign="middle" align="center" rowspan="4"><b>並列思考/精神統一</b></td><td align="right">①：</td><td align="left">あなたが全体攻撃以外の応用技を宣言する場合、効果を及ぼす対象をエフェクトごとに任意に決定できる。<br><font color="8080ff">（詳細な処理は全体攻撃に準ずる）</font></td></tr><tr><td align="right">②：</td><td align="left">あなたが【SE/オールレンジ】を宣言する場合、その効果を無効にし、効果を単体化する事ができる。<br>その場合、そのアクションは【あなたの発動スペック】だけ、命中判定と威力にボーナスを得る。</td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i>十を同時に考えられても、答えは一つに絞れない。</i></td></tr></table>',
+        '<p align="center"><img src="img/rb_007.jpg" width="250px"></p><table bordercolor="#000000" cellspacing="0" cellpadding="10" bgcolor="#4b4b4b" border="1" align="center"><tr><td bgcolor="#ffffff" valign="middle" align="center" colspan="3"><font color="000000"><b>360°（ミロード）ちゃん</b></font></td></tr><tr><td valign="middle" align="center" rowspan="4"><b>pro.</b></td><td align="right">①：</td><td align="left">あなたが能力攻撃によって他者にダメージ判定を行う場合、【防御】【抵抗】の内、低い方を参照する。</td></tr><tr><td align="right">②：</td><td align="left">あなたの攻撃発動によって【倍差命中】【スマッシュクリティカル】【ヘッドショット】のいずれかが発生した場合に発動する。<br>【その攻撃発動で与えたダメージ÷５】の数だけ、以下のアイテムを得る。<br>●おいしいクッキー／使用タイミング：AC/EN／効果：【ＨＰ】と【ＰＰ】を１回復する。この効果はＨＰおよびＰＰの上限を無視する（２倍まで）。</td></tr><tr><td align="right">③：</td><td align="left">【おいしいクッキー】があなたを対象に使用される場合、【暴走率】も回復対象となる。</td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i>上手だね＾＾</i></td></tr></table>',
+        '<p align="center"><img src="img/rb_008.jpg" width="250px"></p><table bordercolor="#000000" cellspacing="0" cellpadding="10" bgcolor="#4b4b4b" border="1" align="center"><tr><td bgcolor="#ffffff" valign="middle" align="center" colspan="3"><font color="000000"><b>右藤 ビシュナル</b>（１つを選択）</font></td></tr><tr><td valign="middle" align="center" rowspan="3"><b>歩けば犬が棒で打つ</b></td><td colspan="2">この特性の効果はバトル中に１度しか使用できない。</td></tr><tr><td align="right">○：</td><td align="left">AEが宣言された場合、命中判定前にAEを使用したユニットを対象として発動できる。<br>対象は偶奇判定を行う。<br>奇数が出た場合、そのアクション中に相手が宣言したAEの効果を全て無効にする。<br><font color="8080ff">（消費は通常通り行う）</font></td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i>何を言っているのかがわかったところで、何を考えているかまではわからないということだ。</i></td></tr><tr><td valign="middle" align="center" rowspan="3"><b>ミサイルミサイルミサイルミサ</b></td><td align="right">①：</td><td align="left">あなたが他者にダメージ判定を行う場合、【基礎攻撃力/能力】を【１０ｄ＋０】として扱う。</td></tr><td align="right">②：</td><td align="left">あなたが特殊武装【ロケットランチャー】を使用する場合、【命中】を対象としてリスクロールを行ってもよい。<br>行った場合、あなたはこのACで【ロケットランチャー】の残弾を消費しない。 <br><font color="ff0000">このリスクロールの効果で【発作】【自爆】を適用する場合、【暴走症状/暴発】扱いで対象ランダムの命中判定を発生させる。</font></td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i>「あぁ～ん！？　なんだァ～この犬は、鍋にして食ってやるぜ！」<br>――【チーム世紀末覇者】メンバー『ホワタ』、最期の言葉</i></td></tr><tr><td bgcolor="#ffffff" valign="middle" align="center" colspan="3"><font color="000000"><b>ブラッド・キッド</b></font></td></tr><tr><td valign="middle" align="center" rowspan="3"><b>カインド・ガーディアン</b></td><td colspan="2">この特性の効果はセッション中に２度まで使用できる。</td></tr><tr><td align="right">○：</td><td align="left">【右藤 ビシュナル】が使用するアタッチメント【ブラッド・キッド】は以下の効果となる。<br>●あなたが判定を行い、【１】の出目が１つ以下だった場合に発動できる。<br>あなたはダイスを振りなおす。</td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i>いざとなったら支えるさ。</i></td></tr></table>',
+        '<p align="center"><img src="img/rb_009.jpg" width="250px"></p><table bordercolor="#000000" cellspacing="0" cellpadding="10" bgcolor="#4b4b4b" border="1" align="center"><tr><td bgcolor="#ffffff" valign="middle" align="center" colspan="3"><font color="000000"><b>夜面 鈴音</b></font></td></tr><tr><td valign="middle" align="center" rowspan="4"><b>秘密を見せる長夜</b></td></tr><tr><td align="right">①：</td><td align="left">あなたが技能判定を行う初回プリアクション時、任意の探索武装１つを宣言して発動できる。<br>暴走率を２％上昇し、この判定にその武装の効果を適用する。</td></tr><tr><td align="right">➁：</td><td align="left">あなたが応用技を使用する場合、PPを【２点】追加で支払うことで、以下の効果を追加する。<br>●このターンのエンドフェイズ時、あなたのHPは【このラウンドに使用した応用技の種類×２d】回復する。</td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i></i></td></tr></table>',
+        '<p align="center"><img src="img/rb_010.jpg" width="250px"></p><table bordercolor="#000000" cellspacing="0" cellpadding="10" bgcolor="#4b4b4b" border="1" align="center"><tr><td bgcolor="#ffffff" valign="middle" align="center" colspan="3"><font color="000000"><b>菜々芽 碧花</b></font></td></tr><tr><td valign="middle" align="center" rowspan="4"><b>心鎌エ</b></td></tr><tr><td align="right">①：</td><td align="left">あなたが回避判定に成功した場合、【６ｐｐ】消費して発動できる。<br>その攻撃を行ったユニットを対象として、【SE/リフレクション】扱いで攻撃を反射する。<br>この反射時、相手の回避判定固定値は半分になる。</td></tr><tr><td align="right">➁：</td><td align="left">あなたが①の効果以外で【SE/リフレクション】を使用する場合、反射先を任意に選ぶことができる。<br>この反射時、基礎判定値はそれぞれ【命中力】【回避力】を参照して行う。</td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i>刈り取ることを選んだのか、それとも何かに駆り立てられたのか。</i></td></tr></table>',
+        '<p align="center"><img src="img/rb_011.jpg" width="250px"></p><table bordercolor="#000000" cellspacing="0" cellpadding="10" bgcolor="#4b4b4b" border="1" align="center"><tr><td bgcolor="#ffffff" valign="middle" align="center" colspan="3"><font color="000000"><b>馬庭 狩那</b></font></td></tr><tr><td valign="middle" align="center" rowspan="6"><b>エキシビジョン（Lv0）</b></td></tr><tr><td align="right">①：</td><td align="left">セッション開始時に発動する。この特性のレベルを【＋２ｄ】する。</td></tr><tr><td align="right">➁：</td><td align="left">あなたはこの特性のレベルを減少させ（下限０）、そのレベルによって以下の効果を使用できる。<br>●１：同シーンでアイテムが使用された際、その内1つを選んで使用できる。<br>　　　そのアクションでアイテムは消費されず、残り使用回数も減少しない。<br>●２：自身または他者の任意の判定結果時に使用できる。その判定をやり直す。<br>●３：自身または他者のアクション終了時に宣言できる。<br>　　　あなたはSPE/瞬動扱いでサブアクションを得る。<br>　　　この効果で得たサブアクション中、あなたはAEを宣言できない。</td></tr><tr><td align="right">③：</td><td align="left">この特性のレベルが【0】となった場合に発動する。<br>次のアクション終了時またはバトル終了時、あなたのHPは【-20】となる。</td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i>彼の反骨は時間だって例外ではない。</i></td></tr></table>',
+        '<p align="center"><img src="img/rb_012.jpg" width="250px"></p><table bordercolor="#000000" cellspacing="0" cellpadding="10" bgcolor="#4b4b4b" border="1" align="center"><tr><td bgcolor="#ffffff" valign="middle" align="center" colspan="3"><font color="000000"><b>左沢 虹</b></font></td></tr><tr><td valign="middle" align="center" rowspan="3"><b>スペシャルプライス</b></td><td align="right">①：</td><td align="left">セッション開始時、あなたは消費アイテムを【価値：5Rd】分だけ入手する。<br>この効果で入手した消費アイテムは所持制限の影響を受けない。</td></tr><tr><td align="right">➁：</td><td align="left">あなたおよびその味方はそれぞれ、因子を【2Rd】消費して以下の効果を使用できる<font color="8080ff" size="2">（１人につき１度まで）</font>。<br>●自身の【HPおよびPP】、または【暴走率】を、【（ PC/左沢 虹 の活性レベル）d】だけ回復する。</font></td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i>在りし日に、彼女は商いを始めた。まずは魂を売るところから始めた。</i></td></tr></table>',
+        '<p align="center"><img src="img/rb_013.jpg" width="250px"></p><table bordercolor="#000000" cellspacing="0" cellpadding="10" bgcolor="#4b4b4b" border="1" align="center"><tr><td bgcolor="#ffffff" valign="middle" align="center" colspan="3"><font color="000000"><b>右藤 イータ</b></font></td></tr><tr><td valign="middle" align="center" rowspan="3"><b><ruby>一向に終焉を迎える気配のない運命<rp>《</rp><rt>デウス・エクス・トラクトーリオ</rt><rp>》</rp></ruby></b></td><td align="right">①：</td><td align="left">あなたの【AE/エール】は以下の効果を得る。<br>●対象がこのアクションでダメージ判定を受ける場合、<br>　判定結果ダイスを【あなたの活性レベル】分だけ選んで適用できる。<br>　その出目を【１】にする。</td></tr><tr><td align="right">➁：</td><td align="left">同シーンのユニットが【HPが0以下となるダメージ】を受けた際、<br>行為発動扱いで【1pp】を消費して発動できる。<br>そのユニットのHPは【1】残る（気絶判定は行う。この気絶判定は無効にできない）。<br>この効果は使用する度に、同セッション中の発動コストが【1pp】上昇する。</font></td></tr><tr><td bgcolor="#151515" align="right" colspan="2"><i>君を死なせはしない。とりあえず今日のところは。</i></td></tr></table>',
+
+
+    ];
+
+
+
+
+
+    if (n > contents.length) { slideIndex = 1 }
+    if (n < 1) { slideIndex = contents.length }
+    const content = contents[slideIndex - 1];
+    document.getElementById("modal-inner-content").innerHTML = content;
+}
+
+function expandImg(img) {
+    const expandedImg = document.getElementById("expandedImg");
+    const expandedImgContainer = document.getElementById("expandedImgContainer");
+    expandedImg.src = img.src;
+    expandedImgContainer.style.display = "block";
+}
+
+function closeExpandedImg() {
+    document.getElementById("expandedImgContainer").style.display = "none";
+}
+</script>
+
+
+<!--
+        '<p align="center"><img src="img/rb_015.jpg" width="250px"></p><table bordercolor="#000000" cellspacing="0" cellpadding="10" bgcolor="#4b4b4b" border="1" align="center">　</table>',
+-->
+
+
+
+</body>
+</html>

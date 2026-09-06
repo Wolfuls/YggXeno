@@ -1,0 +1,510 @@
+<html>
+<head>
+<meta	http-equiv="Content-Type" content="text/html" charset="utf-8">
+<link	rel="stylesheet" type="text/css" href="../css/style.css">
+<title>鋼鉄の蟹ドラシル</title>
+</head>
+<body>
+
+<div	style="margin-bottom:	50px;">
+	<table border="0" cellspacing="0" cellpadding="0" align="left" width="100%">
+		<tr>
+			<td>
+				<p><font color="8080ff">
+					――【　バースト　】、それは力の「前借り」である。<br>
+					代償はあなたの未来だ。
+				</p></font>
+				<p>
+					【　バースト　】は、獲得した因子ダイスを消費して宣言できる特殊効果です。<br>
+					因子ダイスがマイナスになるような宣言も可能ですが、そのままセッション終了を迎えた場合は<br>
+					ペナルティが発生します。<font color="8080ff">（詳細はクリア処理のページ参照）</font>
+				</p>
+				<p>
+					使用できるバーストの種類は、以下のとおりです。<br>
+					なお、実際の宣言の際はＡＥ【ブースト】との混同を回避するため、<br>
+					【回復Ｂ】【復活Ｂ】のように略すのを推奨します。
+				</p>
+				<hr	size="1">
+				<h1	id="バースト一覧" style="background-color:#969696;color:#000000;font-size:150%">▼バースト一覧</h1>
+	<hr>
+
+	<table cellspacing="0" cellpadding="10" bordercolor="#000000" border="1" bgcolor="#151515">
+<!-- 回復バースト -->
+<tr>
+  <td valign="middle" align="center" width="220">
+    <p style="margin:0;"><b style="font-size:1.2em;">回復バースト</b></p>
+
+    <table cellspacing="1" cellpadding="3" border="0" style="margin-top:6px;">
+      <tr>
+        <td bgcolor="#000000" align="right">
+          <span style="color:#8080ff; font-size:0.9em;">コスト</span>
+        </td>
+        <td bgcolor="#000000" align="left">
+          <span style="color:#8080ff; font-size:0.9em;">Lv1につき1Rd</span>
+        </td>
+      </tr>
+    </table>
+  </td>
+
+  <td>
+    <table cellspacing="0" cellpadding="5" bgcolor="#969696" border="0" width="100%">
+
+      <tr bgcolor="#969696">
+        <td>
+          <table cellspacing="0" cellpadding="0" border="0">
+            <tr>
+              <td style="padding-right:8px;"><b style="color:#000000;">▼効果</b></td>
+              <!-- アイコン（宣言タイミング由来） -->
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt="EN" src="../image/ef_icon/EN.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td bgcolor="#171717">
+          <p class="minifont">
+            消費Rd×1dだけ、HPまたはPPを回復する。<br>
+            HPを回復する場合は「HPバースト」、PPを回復する場合は「PPバースト」とも呼称する。<br>
+            <span style="color:#ff0000;">なお、即死復活バーストとは併用できない。</span>
+          </p>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+<tr><td colspan="2" height="10"></td></tr>
+
+<!-- 抑制バースト -->
+<tr>
+  <td valign="middle" align="center" width="220">
+    <p style="margin:0;"><b style="font-size:1.2em;">抑制バースト</b></p>
+
+    <table cellspacing="1" cellpadding="3" border="0" style="margin-top:6px;">
+      <tr>
+        <td bgcolor="#000000" align="right">
+          <span style="color:#8080ff; font-size:0.9em;">コスト</span>
+        </td>
+        <td bgcolor="#000000" align="left">
+          <span style="color:#8080ff; font-size:0.9em;">Lv1につき2Rd</span>
+        </td>
+      </tr>
+    </table>
+  </td>
+
+  <td>
+    <table cellspacing="0" cellpadding="5" bgcolor="#969696" border="0" width="100%">
+
+      <tr bgcolor="#969696">
+        <td>
+          <table cellspacing="0" cellpadding="0" border="0">
+            <tr>
+              <td style="padding-right:8px;"><b style="color:#000000;">▼効果</b></td>
+              <!-- アイコン -->
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt="EN" src="../image/ef_icon/EN.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td bgcolor="#171717">
+          <p class="minifont">消費因子2Rdにつき暴走率を1d回復する。</p>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+<tr><td colspan="2" height="10"></td></tr>
+
+<!-- 暴走バースト -->
+<tr>
+  <td valign="middle" align="center" width="220">
+    <p style="margin:0;"><b style="font-size:1.2em;">暴走バースト</b></p>
+
+    <table cellspacing="1" cellpadding="3" border="0" style="margin-top:6px;">
+      <tr>
+        <td bgcolor="#000000" align="right">
+          <span style="color:#8080ff; font-size:0.9em;">コスト</span>
+        </td>
+        <td bgcolor="#000000" align="left">
+          <span style="color:#8080ff; font-size:0.9em;">Lv1につき1Rd</span>
+        </td>
+      </tr>
+    </table>
+  </td>
+
+  <td>
+    <table cellspacing="0" cellpadding="5" bgcolor="#969696" border="0" width="100%">
+
+      <tr bgcolor="#969696">
+        <td>
+          <table cellspacing="0" cellpadding="0" border="0">
+            <tr>
+              <td style="padding-right:8px;"><b style="color:#000000;">▼効果</b></td>
+              <!-- アイコン -->
+              <td><img alt="IN" src="../image/ef_icon/IN.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td bgcolor="#171717">
+          <p class="minifont">消費因子1Rdにつき暴走率を2d上昇させる。</p>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+<tr><td colspan="2" height="10"></td></tr>
+
+<!-- 解除バースト -->
+<tr>
+  <td valign="middle" align="center" width="220">
+    <p style="margin:0;"><b style="font-size:1.2em;">解除バースト</b></p>
+
+    <table cellspacing="1" cellpadding="3" border="0" style="margin-top:6px;">
+      <tr>
+        <td bgcolor="#000000" align="right">
+          <span style="color:#8080ff; font-size:0.9em;">コスト</span>
+        </td>
+        <td bgcolor="#000000" align="left">
+          <span style="color:#8080ff; font-size:0.9em;">Lv1につき1Rd</span>
+        </td>
+      </tr>
+    </table>
+  </td>
+
+  <td>
+    <table cellspacing="0" cellpadding="5" bgcolor="#969696" border="0" width="100%">
+
+      <tr bgcolor="#969696">
+        <td>
+          <table cellspacing="0" cellpadding="0" border="0">
+            <tr>
+              <td style="padding-right:8px;"><b style="color:#000000;">▼効果</b></td>
+              <!-- アイコン -->
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt="EN" src="../image/ef_icon/EN.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td bgcolor="#171717">
+          <p class="minifont">
+            解除判定がある応用技効果を、消費Rdの数だけ選んで強制解除する。<br>
+            チェイン発動の場合も組合せた応用技をそれぞれカウントする。
+          </p>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+<tr><td colspan="2" height="10"></td></tr>
+
+<!-- 復活バースト -->
+<tr>
+  <td valign="middle" align="center" width="220">
+    <p style="margin:0;"><b style="font-size:1.2em;">復活バースト</b></p>
+
+    <table cellspacing="1" cellpadding="3" border="0" style="margin-top:6px;">
+      <tr>
+        <td bgcolor="#000000" align="right">
+          <span style="color:#8080ff; font-size:0.9em;">コスト</span>
+        </td>
+        <td bgcolor="#000000" align="left">
+          <span style="color:#8080ff; font-size:0.9em;">2～4Rd</span>
+        </td>
+      </tr>
+    </table>
+  </td>
+
+  <td>
+    <table cellspacing="0" cellpadding="5" bgcolor="#969696" border="0" width="100%">
+
+      <tr bgcolor="#969696">
+        <td>
+          <table cellspacing="0" cellpadding="0" border="0">
+            <tr>
+              <td style="padding-right:8px;"><b style="color:#000000;">▼効果</b></td>
+              <!-- アイコン -->
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt="EN" src="../image/ef_icon/EN.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td bgcolor="#171717">
+          <p class="minifont">
+            HPを0まで戻し、そこから2d回復して復活する。<br>
+            <span style="color:#8080ff;">（気絶復活の場合は残りHPにそのまま＋2d）</span><br>
+            戦闘不能状態の内、どのHP帯かで因子の消費量と詳細な効果が変化する。
+          </p>
+          <p class="minifont">
+            ●気絶復活：コスト2Rd。アクションを消費することで他者にも使用可。<br>
+            ●瀕死復活：コスト3Rd。蘇生回数が0でなければ、蘇生に挑戦してから宣言でもOK。<br>
+            ●即死復活：コスト4Rd。回復バーストと併用不可。
+          </p>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+<tr><td colspan="2" height="10"></td></tr>
+
+<!-- 発動バースト -->
+<tr>
+  <td valign="middle" align="center" width="220">
+    <p style="margin:0;"><b style="font-size:1.2em;">発動バースト</b></p>
+
+    <table cellspacing="1" cellpadding="3" border="0" style="margin-top:6px;">
+      <tr>
+        <td bgcolor="#000000" align="right">
+          <span style="color:#8080ff; font-size:0.9em;">コスト</span>
+        </td>
+        <td bgcolor="#000000" align="left">
+          <span style="color:#8080ff; font-size:0.9em;">1Rd</span>
+        </td>
+      </tr>
+    </table>
+  </td>
+
+  <td>
+    <table cellspacing="0" cellpadding="5" bgcolor="#969696" border="0" width="100%">
+
+      <tr bgcolor="#969696">
+        <td>
+          <table cellspacing="0" cellpadding="0" border="0">
+            <tr>
+              <td style="padding-right:8px;"><b style="color:#000000;">▼効果</b></td>
+              <!-- アイコン（AC/RE併記→VS有効） -->
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt="AC" src="../image/ef_icon/AC.jpg"></td>
+              <td><img alt="RE" src="../image/ef_icon/RE.jpg"></td>
+              <td><img alt="VS" src="../image/ef_icon/VS.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td bgcolor="#171717">
+          <p class="minifont">
+            リザルト終了まで、自身に適用されている「バースト以外の特殊効果」について、一部例外を除いて全て無視する。<br>
+            ただし、因子コスト以外にも以下のペナルティがある。
+          </p>
+          <p class="minifont"><span style="color:#ff0000;">
+            ●各AEとの併用不可<br>
+            ●疲労状態およびカウンター中は使用できない<br>
+            ●発動バーストを使用するラウンドは解除バーストおよび解除判定不可<br>
+            ●無視する効果は選べず、自身の異能や有利な効果であっても無視する。
+          </span></p>
+          <p class="minifont">
+            なお、マイナス効果を解除するわけではなく一時的に適用しないだけなので、発動バースト終了後は各補正が復活する。
+          </p>
+        </td>
+      </tr>
+		<tr bgcolor="#969696">
+			<td><b style="color:#000000;">▼無効にしない補正</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#171717">
+				<p class="minifont">
+                     ●各種バースト<br>
+                     ●維持時間が「常時」の特殊効果……暴走活性、性質系、限定系など<br>
+                     　<span style="color:#8080ff;">※維持時間が「永続」の効果はこれに含まない</span><br>
+                     ●判定ルールとしての補正……会心ボーナス、スマッシュクリティカルなど<br>
+                     ●その他、例外の旨が記載されている効果
+                </p>
+			</td>
+		</tr>
+		<tr bgcolor="#969696">
+			<td><b style="color:#000000;">▼補足</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#171717">
+				<p class="minifont">
+					「特殊効果」の定義は以下の通り。<br>
+                     ●各種エフェクト　●各種特殊武装　●各種消費アイテム<br>
+                     ●各種ＳＰＥ　●各種カルマ　●各種ＡＥ<br>
+                     ●暴走侵蝕<br>
+                     ●各種バースト<span style="color:#8080ff;">（※ただし上記の通り、発動Bにおいては無効対象外）</font>
+                </p>
+			</td>
+		</tr>
+    </table>
+  </td>
+</tr>
+
+<tr><td colspan="2" height="10"></td></tr>
+
+<!-- 判定バースト -->
+<tr>
+  <td valign="middle" align="center" width="220">
+    <p style="margin:0;"><b style="font-size:1.2em;">判定バースト</b></p>
+
+    <table cellspacing="1" cellpadding="3" border="0" style="margin-top:6px;">
+      <tr>
+        <td bgcolor="#000000" align="right">
+          <span style="color:#8080ff; font-size:0.9em;">コスト</span>
+        </td>
+        <td bgcolor="#000000" align="left">
+          <span style="color:#8080ff; font-size:0.9em;">Lv1につき1Rd</span>
+        </td>
+      </tr>
+    </table>
+  </td>
+
+  <td>
+    <table cellspacing="0" cellpadding="5" bgcolor="#969696" border="0" width="100%">
+
+      <tr bgcolor="#969696">
+        <td>
+          <table cellspacing="0" cellpadding="0" border="0">
+            <tr>
+              <td style="padding-right:8px;"><b style="color:#000000;">▼効果</b></td>
+              <!-- アイコン（判定時＝定義外→UQ） -->
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt="AC"  src="../image/ef_icon/AC.jpg"></td>
+              <td><img alt="RE"  src="../image/ef_icon/RE.jpg"></td>
+              <td><img alt="VS"  src="../image/ef_icon/VS.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td bgcolor="#171717">
+          <p class="minifont">
+            消費した因子ダイス×1dだけ、その判定にボーナスを得る。<br>
+            言わば因子版のブースト。<br>
+            AEのブーストと違い、刹那対抗や発動バースト中でも使用可能なメリットがある。
+          </p>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+<tr><td colspan="2" height="10"></td></tr>
+
+<!-- 連携バースト -->
+<tr>
+  <td valign="middle" align="center" width="220">
+    <p style="margin:0;"><b style="font-size:1.2em;">連携バースト</b></p>
+
+    <table cellspacing="1" cellpadding="3" border="0" style="margin-top:6px;">
+      <tr>
+        <td bgcolor="#000000" align="right">
+          <span style="color:#8080ff; font-size:0.9em;">コスト</span>
+        </td>
+        <td bgcolor="#000000" align="left">
+          <span style="color:#8080ff; font-size:0.9em;">1Rd</span>
+        </td>
+      </tr>
+    </table>
+  </td>
+
+  <td>
+    <table cellspacing="0" cellpadding="5" bgcolor="#969696" border="0" width="100%">
+
+      <tr bgcolor="#969696">
+        <td>
+          <table cellspacing="0" cellpadding="0" border="0">
+            <tr>
+              <td style="padding-right:8px;"><b style="color:#000000;">▼効果</b></td>
+              <!-- アイコン（直後＝リザルト処理相当→RS） -->
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt="RE"  src="../image/ef_icon/RE.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+              <td><img alt=""  src="../image/ef_icon/none.jpg"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td bgcolor="#171717">
+          <p class="minifont">
+            そのアクションに参加し、アクション・リアクション中の味方に対しワンアクション行う。<br>
+            1つのユニットに連携バーストを使用できるユニットは1体のみ。
+          </p>
+          <p class="minifont">
+            この効果による能力補正の維持時間は全て【単発】となる。<br>
+            そのため、効果は瞬間的に積み上がり、上書きルールも適用されない。
+          </p>
+          <p class="minifont">
+            ▼連携できないアクション<br>
+            ・敵に対する攻撃行動全般<br>
+            ・重防御 <span style="color:#8080ff;">（防御発動派生効果。単防御はOK）</span><br>
+            ・付加効果【無効化系】<br>
+            ・SE【リフレクション】【パーフェクト】<br>
+            ・特殊武装
+          </p>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+	</table>
+</div>
+
+</body>
+
+

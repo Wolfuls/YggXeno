@@ -1,0 +1,8164 @@
+{
+  "edition": "個人用閲覧版・全ページ",
+  "source_archive": "ygg-archive-2026-09-05T16-15-21-572Z",
+  "acquired_date_jst": "2026-09-06",
+  "pages": [
+    {
+      "source": "oldygg.html",
+      "file": "contents.html",
+      "title": "総目次",
+      "kind": "contents"
+    },
+    {
+      "source": "yg00.html",
+      "file": "yg00.html",
+      "title": "公式TOP・更新履歴",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "PsychicTRPG"
+        ]
+      ],
+      "tables": {
+        "0": "flow",
+        "1": "flow",
+        "2": "flow",
+        "4": "definitions",
+        "3": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg001.html",
+      "file": "yg001.html",
+      "title": "世界観の入口",
+      "kind": "frame-index",
+      "menu_source": "yg001b.html",
+      "frame_destinations": [
+        "yg001b.html",
+        "yg001c.html"
+      ]
+    },
+    {
+      "source": "yg001b.html",
+      "file": "yg001b.html",
+      "title": "世界観の目次",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "世界観"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg001c.html",
+      "file": "yg001c.html",
+      "title": "世界観イントロダクション",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "ここは能力者たちの箱庭 鉄でできた世界樹（ユグドラシル） 不自由な自由を、どうぞお楽しみ下さい。"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg002.html",
+      "file": "yg002.html",
+      "title": "キャラメイキングの入口",
+      "kind": "frame-index",
+      "menu_source": "yg002b.html",
+      "frame_destinations": [
+        "yg002b.html",
+        "yg12.html"
+      ]
+    },
+    {
+      "source": "yg002b.html",
+      "file": "yg002b.html",
+      "title": "キャラメイキングの目次",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "キャラ作成"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg003.html",
+      "file": "yg003.html",
+      "title": "敵・NPC作成の入口",
+      "kind": "frame-index",
+      "menu_source": "yg003b.html",
+      "frame_destinations": [
+        "yg003b.html",
+        "yg104.html"
+      ]
+    },
+    {
+      "source": "yg003b.html",
+      "file": "yg003b.html",
+      "title": "敵・NPC作成の目次",
+      "kind": "content",
+      "toc": [],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg01.html",
+      "file": "yg01.html",
+      "title": "旧・全体目次",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "PsychicTRPG"
+        ],
+        [
+          "section-02",
+          ""
+        ],
+        [
+          "section-05",
+          "コラム"
+        ],
+        [
+          "section-03",
+          "プレイについて"
+        ],
+        [
+          "section-06",
+          "敵・ＮＰＣ作成方法"
+        ],
+        [
+          "section-04",
+          ""
+        ],
+        [
+          "section-07",
+          "電脳ロワイヤル"
+        ]
+      ],
+      "tables": {
+        "1": "flow",
+        "2": "flow",
+        "3": "headed-panel",
+        "4": "flow",
+        "5": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg02.html",
+      "file": "yg02.html",
+      "title": "過去の更新履歴",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "更新履歴"
+        ]
+      ],
+      "tables": {
+        "2": "definitions",
+        "3": "definitions",
+        "5": "definitions",
+        "4": "flow",
+        "6": "definitions",
+        "1": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg03.html",
+      "file": "yg03.html",
+      "title": "人工島ユグドラシル",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "人工島【 ユグドラシル 】"
+        ],
+        [
+          "section-02",
+          "島内構成"
+        ],
+        [
+          "section-03",
+          "外観・人工比率"
+        ],
+        [
+          "section-04",
+          "外界へのライン・ユグドラシルのある場所"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg04.html",
+      "file": "yg04.html",
+      "title": "ラグナロク事件",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "ラグナロク事件"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg05.html",
+      "file": "yg05.html",
+      "title": "上層アースガルズ",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "上層【 アースガルズ 】 関連ワード"
+        ],
+        [
+          "section-02",
+          "上層【 アースガルズ 】"
+        ],
+        [
+          "section-03",
+          "司法機関グングニル"
+        ],
+        [
+          "section-04",
+          "ルーン企業連"
+        ],
+        [
+          "section-05",
+          "上層ゲート"
+        ],
+        [
+          "section-06",
+          "セントラルタワー【 フリズスキャルブ 】"
+        ],
+        [
+          "section-07",
+          "治安維持部隊【 グレイプニル 】"
+        ],
+        [
+          "section-08",
+          "広報部【 ニーベルング 】"
+        ],
+        [
+          "section-09",
+          "能力研究所【 フラメル 】"
+        ],
+        [
+          "section-10",
+          "ビフレスト空港"
+        ],
+        [
+          "section-11",
+          "生産プラント【 ヴァナヘイム 】"
+        ],
+        [
+          "section-12",
+          "ミーミル自然公園"
+        ],
+        [
+          "section-13",
+          "ルーンカンパニー"
+        ],
+        [
+          "section-14",
+          "ノーマル特区【 エデン 】"
+        ],
+        [
+          "section-15",
+          "ソウイルカンパニー"
+        ],
+        [
+          "section-16",
+          "エイワズシリーズ"
+        ],
+        [
+          "section-17",
+          "エイワズカンパニー"
+        ],
+        [
+          "section-18",
+          "ＹＤＦ【 中央隊 】"
+        ],
+        [
+          "section-19",
+          "ＹＤＦ【 エデン隊 】"
+        ]
+      ],
+      "tables": {
+        "1": "headed-panel",
+        "2": "flow",
+        "3": "headed-panel",
+        "4": "flow",
+        "5": "headed-panel",
+        "6": "flow",
+        "7": "headed-panel",
+        "8": "headed-panel",
+        "9": "flow",
+        "10": "headed-panel",
+        "11": "flow",
+        "12": "flow",
+        "13": "headed-panel",
+        "14": "flow",
+        "15": "flow",
+        "16": "headed-panel",
+        "17": "flow",
+        "18": "flow",
+        "19": "headed-panel",
+        "20": "flow",
+        "21": "headed-panel",
+        "22": "flow",
+        "23": "headed-panel",
+        "24": "headed-panel",
+        "25": "flow",
+        "26": "flow",
+        "27": "headed-panel",
+        "28": "flow",
+        "29": "headed-panel",
+        "30": "flow",
+        "31": "flow",
+        "32": "headed-panel",
+        "33": "flow",
+        "34": "flow",
+        "35": "headed-panel",
+        "36": "flow",
+        "37": "headed-panel",
+        "38": "flow",
+        "39": "flow",
+        "40": "headed-panel",
+        "41": "flow",
+        "42": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg06.html",
+      "file": "yg06.html",
+      "title": "中層ミズガルズ",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "中層【 ミズガルズ 】 関連ワード"
+        ],
+        [
+          "section-02",
+          "中層【 ミズガルズ 】"
+        ],
+        [
+          "section-03",
+          "民主機構オルレアン"
+        ],
+        [
+          "section-04",
+          "チーム世紀末覇者"
+        ],
+        [
+          "section-05",
+          "中層ゲート"
+        ],
+        [
+          "section-06",
+          "ライラックホーム"
+        ],
+        [
+          "section-07",
+          "民間警備隊【 バスターライラック 】"
+        ],
+        [
+          "section-08",
+          "管理局【 スヴァリン 】"
+        ],
+        [
+          "section-09",
+          "BAR【 パープルアイズ 】"
+        ],
+        [
+          "section-10",
+          "職人組合【 モーターソグニル 】"
+        ],
+        [
+          "section-11",
+          "動力プラント【 ニザヴェリール 】"
+        ],
+        [
+          "section-12",
+          "ウトガルド工場地帯"
+        ],
+        [
+          "section-13",
+          "生産プラント【 セスルームニル 】"
+        ],
+        [
+          "section-14",
+          "レディースチーム【 蒼龍 - ブルードラゴン - 】"
+        ],
+        [
+          "section-15",
+          "モヒカン三連星"
+        ],
+        [
+          "section-16",
+          "ＹＤＦ【 トランプ隊 】"
+        ]
+      ],
+      "tables": {
+        "1": "headed-panel",
+        "2": "flow",
+        "3": "headed-panel",
+        "4": "flow",
+        "5": "headed-panel",
+        "6": "flow",
+        "7": "headed-panel",
+        "8": "headed-panel",
+        "9": "flow",
+        "10": "headed-panel",
+        "11": "flow",
+        "12": "flow",
+        "13": "headed-panel",
+        "14": "flow",
+        "15": "flow",
+        "16": "headed-panel",
+        "17": "flow",
+        "18": "flow",
+        "19": "headed-panel",
+        "20": "flow",
+        "21": "flow",
+        "22": "headed-panel",
+        "23": "flow",
+        "24": "headed-panel",
+        "25": "flow",
+        "26": "headed-panel",
+        "27": "flow",
+        "28": "headed-panel",
+        "29": "flow",
+        "30": "flow",
+        "31": "headed-panel",
+        "32": "flow",
+        "33": "flow",
+        "34": "headed-panel",
+        "35": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg07.html",
+      "file": "yg07.html",
+      "title": "下層ヘルヘイム",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "下層【 ヘルヘイム 】"
+        ],
+        [
+          "section-02",
+          "下層【 ヘルヘイム 】"
+        ],
+        [
+          "section-03",
+          "抑制機構テセウス"
+        ],
+        [
+          "section-04",
+          "闇商会スヴァルトアルフ"
+        ],
+        [
+          "section-05",
+          "サン・フィモン教会"
+        ],
+        [
+          "section-06",
+          "武装親衛隊【 ヘル 】"
+        ],
+        [
+          "section-07",
+          "情報室【 ヨルムンガンド 】"
+        ],
+        [
+          "section-08",
+          "特殊部隊【 フェンリル 】"
+        ],
+        [
+          "section-09",
+          "ニブルヘイム港"
+        ],
+        [
+          "section-10",
+          "登録売買"
+        ],
+        [
+          "section-11",
+          "漁業組合【 エーリヴァーガル 】"
+        ],
+        [
+          "section-12",
+          "グニパヘリル街"
+        ],
+        [
+          "section-13",
+          "地下闘技場【 ヘイズルーン 】"
+        ],
+        [
+          "section-14",
+          "グリゴリシリーズ"
+        ],
+        [
+          "section-15",
+          "ＹＤＦ【 １３番隊 】"
+        ]
+      ],
+      "tables": {
+        "1": "headed-panel",
+        "2": "flow",
+        "3": "headed-panel",
+        "4": "flow",
+        "5": "headed-panel",
+        "6": "flow",
+        "7": "headed-panel",
+        "8": "flow",
+        "9": "headed-panel",
+        "10": "flow",
+        "11": "flow",
+        "12": "headed-panel",
+        "13": "flow",
+        "14": "flow",
+        "15": "headed-panel",
+        "16": "flow",
+        "17": "flow",
+        "18": "headed-panel",
+        "19": "flow",
+        "20": "headed-panel",
+        "21": "flow",
+        "22": "headed-panel",
+        "23": "flow",
+        "24": "flow",
+        "25": "headed-panel",
+        "26": "flow",
+        "27": "headed-panel",
+        "28": "flow",
+        "29": "flow",
+        "30": "headed-panel",
+        "31": "flow",
+        "32": "flow",
+        "33": "headed-panel",
+        "34": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg08.html",
+      "file": "yg08.html",
+      "title": "グングニル",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "司法機関【 グングニル 】"
+        ],
+        [
+          "section-02",
+          "アレク＝ハールバルズ"
+        ]
+      ],
+      "tables": {
+        "1": "portraits",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg09.html",
+      "file": "yg09.html",
+      "title": "オルレアン",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "民主機構【 オルレアン 】"
+        ],
+        [
+          "section-02",
+          "アリス＝ディアーネ"
+        ]
+      ],
+      "tables": {
+        "1": "portraits",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg10.html",
+      "file": "yg10.html",
+      "title": "テセウス",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "抑制機構【 テセウス 】"
+        ],
+        [
+          "section-02",
+          "ジョン＝ドゥ"
+        ]
+      ],
+      "tables": {
+        "1": "portraits",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg100.html",
+      "file": "yg100.html",
+      "title": "フラメル",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "能力研究所【 フラメル 】"
+        ],
+        [
+          "section-02",
+          "シェリー＝フランシェール"
+        ]
+      ],
+      "tables": {
+        "1": "portraits",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg102.html",
+      "file": "yg102.html",
+      "title": "トリガー条件",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "トリガー条件"
+        ]
+      ],
+      "tables": {
+        "1": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg104.html",
+      "file": "yg104.html",
+      "title": "ＮＰＣ作成手順",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "敵・ＮＰＣ作成方法"
+        ]
+      ],
+      "tables": {
+        "1": "flow",
+        "2": "flow",
+        "3": "flow",
+        "4": "flow",
+        "5": "flow",
+        "6": "flow",
+        "8": "flow",
+        "9": "flow",
+        "7": "flow",
+        "10": "flow",
+        "11": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg105.html",
+      "file": "yg105.html",
+      "title": "ＮＰＣ値を決定",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "①ＮＰＣ値を決定する。"
+        ],
+        [
+          "section-02",
+          "身体値 ●感覚値 ●精神値"
+        ]
+      ],
+      "tables": {
+        "1": "definitions",
+        "2": "definitions",
+        "3": "data",
+        "0": "flow"
+      },
+      "data_tables": [
+        "3"
+      ]
+    },
+    {
+      "source": "yg106.html",
+      "file": "yg106.html",
+      "title": "ＮＰＣ特性を決定",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "②ＮＰＣ特性を決定する。"
+        ]
+      ],
+      "tables": {
+        "1": "flow",
+        "2": "data",
+        "3": "definitions-with-note",
+        "4": "definitions-with-note",
+        "0": "flow"
+      },
+      "data_tables": [
+        "2"
+      ]
+    },
+    {
+      "source": "yg107.html",
+      "file": "yg107.html",
+      "title": "他データを決定",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "③他データの決定。"
+        ]
+      ],
+      "tables": {
+        "1": "definitions",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg109.html",
+      "file": "yg109.html",
+      "title": "簡易作成：PC値",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "①ＰＣ値を決定する。"
+        ],
+        [
+          "section-02",
+          "身体値 ●感覚値 ●精神値"
+        ]
+      ],
+      "tables": {
+        "1": "definitions",
+        "2": "definitions",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg110.html",
+      "file": "yg110.html",
+      "title": "簡易作成：キャラ特性",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "②簡易キャラ特性を決定する。"
+        ]
+      ],
+      "tables": {
+        "1": "definitions",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg111.html",
+      "file": "yg111.html",
+      "title": "簡易作成：特殊武装",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "④特殊武装を追加する。"
+        ],
+        [
+          "section-02",
+          "アタッチメント"
+        ],
+        [
+          "section-03",
+          "ロケットランチャー"
+        ],
+        [
+          "section-04",
+          "パイルバンカー"
+        ],
+        [
+          "section-05",
+          "手榴弾"
+        ],
+        [
+          "section-06",
+          "レールガン"
+        ],
+        [
+          "section-07",
+          "ドリル"
+        ],
+        [
+          "section-08",
+          "バーサクアンプル"
+        ],
+        [
+          "section-09",
+          "ドーピングシナプス"
+        ],
+        [
+          "section-10",
+          "ブラスター"
+        ],
+        [
+          "section-11",
+          "高周波ブレード"
+        ],
+        [
+          "section-12",
+          "電子ドラッグ"
+        ],
+        [
+          "section-13",
+          "フラッシュガン"
+        ],
+        [
+          "section-14",
+          "火炎放射器"
+        ],
+        [
+          "section-15",
+          "催涙弾"
+        ],
+        [
+          "section-16",
+          "スタンガン"
+        ],
+        [
+          "section-17",
+          "ワイヤーネット"
+        ],
+        [
+          "section-18",
+          "筋力増強アンプル"
+        ],
+        [
+          "section-19",
+          "神経強化シナプス"
+        ],
+        [
+          "section-20",
+          "スモーク"
+        ],
+        [
+          "section-21",
+          "サイキックジャミング"
+        ],
+        [
+          "section-22",
+          "神経ジャマー"
+        ],
+        [
+          "section-23",
+          "トランスキャンセラー"
+        ],
+        [
+          "section-24",
+          "クリエイトノイザー"
+        ],
+        [
+          "section-25",
+          "アーマー"
+        ],
+        [
+          "section-26",
+          "ブラックボックス"
+        ],
+        [
+          "section-27",
+          "パワードスーツ"
+        ],
+        [
+          "section-28",
+          "スキャンスコープ"
+        ],
+        [
+          "section-29",
+          "高感度センサー"
+        ],
+        [
+          "section-30",
+          "高演算電脳"
+        ],
+        [
+          "section-31",
+          "高性能マニピュレーター"
+        ],
+        [
+          "section-32",
+          "光学迷彩"
+        ],
+        [
+          "section-33",
+          "高出力ブースター"
+        ],
+        [
+          "section-34",
+          "心拍スカウター"
+        ]
+      ],
+      "tables": {
+        "2": "slash-definitions",
+        "3": "slash-definitions",
+        "4": "slash-definitions",
+        "5": "slash-definitions",
+        "6": "slash-definitions",
+        "7": "slash-definitions",
+        "8": "slash-definitions",
+        "9": "slash-definitions",
+        "10": "slash-definitions",
+        "11": "slash-definitions",
+        "12": "slash-definitions",
+        "14": "data",
+        "13": "slash-definitions",
+        "16": "data",
+        "15": "slash-definitions",
+        "18": "data",
+        "17": "slash-definitions",
+        "20": "data",
+        "19": "slash-definitions",
+        "21": "slash-definitions",
+        "22": "slash-definitions",
+        "23": "slash-definitions",
+        "25": "data",
+        "24": "slash-definitions",
+        "26": "slash-definitions",
+        "27": "slash-definitions",
+        "28": "slash-definitions",
+        "29": "slash-definitions",
+        "30": "slash-definitions",
+        "31": "slash-definitions",
+        "32": "slash-definitions",
+        "33": "slash-definitions",
+        "34": "slash-definitions",
+        "35": "slash-definitions",
+        "36": "slash-definitions",
+        "37": "slash-definitions",
+        "38": "slash-definitions",
+        "39": "slash-definitions",
+        "1": "catalogue",
+        "0": "flow"
+      },
+      "data_tables": [
+        "14",
+        "16",
+        "18",
+        "20",
+        "25"
+      ]
+    },
+    {
+      "source": "yg112.html",
+      "file": "yg112.html",
+      "title": "簡易作成：固有能力",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "⑤固有の能力を作成する。"
+        ],
+        [
+          "section-02",
+          "発動系統・付加効果・ＳＥの詳細説明はこちら"
+        ],
+        [
+          "section-03",
+          "作成注意まとめ"
+        ]
+      ],
+      "tables": {
+        "2": "flow",
+        "3": "flow",
+        "4": "flow",
+        "5": "flow",
+        "1": "columns",
+        "6": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg113.html",
+      "file": "yg113.html",
+      "title": "簡易作成：他データ",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "③他データの決定。"
+        ]
+      ],
+      "tables": {
+        "1": "definitions",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg114.html",
+      "file": "yg114.html",
+      "title": "アンチ能力",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "アンチ能力"
+        ],
+        [
+          "section-02",
+          "アンチ能力の研究経過"
+        ]
+      ],
+      "tables": {
+        "1": "flow",
+        "2": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg115.html",
+      "file": "yg115.html",
+      "title": "リフレクション発動パターン",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "リフレクション発動パターン"
+        ],
+        [
+          "section-02",
+          "リフレクション防御"
+        ],
+        [
+          "section-03",
+          "リフレクショントラップ"
+        ],
+        [
+          "section-04",
+          "オートリフレクション"
+        ],
+        [
+          "section-05",
+          "セミオートリフレクション"
+        ],
+        [
+          "section-06",
+          "攻撃吸収"
+        ]
+      ],
+      "tables": {
+        "1": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg116.html",
+      "file": "yg116.html",
+      "title": "入島の流れ",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "入島の流れ"
+        ],
+        [
+          "section-02",
+          "下層ニブルヘイム港からの入島"
+        ],
+        [
+          "section-03",
+          "上層ビフレスト空港からの入島"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg117.html",
+      "file": "yg117.html",
+      "title": "職業例",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "職業例"
+        ]
+      ],
+      "tables": {
+        "2": "flow",
+        "3": "definitions-with-note",
+        "4": "definitions-with-note",
+        "5": "definitions-with-note",
+        "6": "definitions-with-note",
+        "1": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg119.html",
+      "file": "yg119.html",
+      "title": "SO発動・チェイン発動",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "ＳＯ発動"
+        ],
+        [
+          "section-02",
+          "チェイン発動"
+        ],
+        [
+          "section-03",
+          "補足Ｑ＆Ａ"
+        ],
+        [
+          "section-04",
+          "オールレンジ技のチェインは可能か？"
+        ],
+        [
+          "section-05",
+          "物理系の技と精神発動の技をチェインした場合、命中判定はどうなるか？"
+        ]
+      ],
+      "tables": {
+        "2": "flow",
+        "1": "flow",
+        "4": "flow",
+        "3": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg12.html",
+      "file": "yg12.html",
+      "title": "キャラメイキング手順",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "キャラメイキング手順"
+        ]
+      ],
+      "tables": {
+        "1": "flow",
+        "2": "flow",
+        "3": "flow",
+        "4": "flow",
+        "5": "flow",
+        "6": "flow",
+        "7": "flow",
+        "8": "flow",
+        "9": "flow",
+        "10": "flow",
+        "11": "flow",
+        "12": "flow",
+        "13": "flow",
+        "14": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg120.html",
+      "file": "yg120.html",
+      "title": "電脳ロワイヤル",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "電脳ロワイヤル"
+        ],
+        [
+          "section-02",
+          "電脳ロワイヤル概要"
+        ],
+        [
+          "section-03",
+          "ポイント制"
+        ],
+        [
+          "section-04",
+          "ステージ進行"
+        ],
+        [
+          "section-05",
+          "アピールタイム＆抑制ロール"
+        ],
+        [
+          "section-06",
+          "チーム戦ルール"
+        ],
+        [
+          "section-07",
+          "電ロワ特殊ルール"
+        ]
+      ],
+      "tables": {
+        "3": "flow",
+        "4": "flow",
+        "5": "flow",
+        "6": "flow",
+        "7": "flow",
+        "8": "flow",
+        "9": "flow",
+        "11": "slash-definitions",
+        "10": "flow",
+        "12": "flow",
+        "13": "flow",
+        "14": "flow",
+        "15": "flow",
+        "2": "flow",
+        "16": "flow",
+        "1": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg121.html",
+      "file": "yg121.html",
+      "title": "ステージ表",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "電脳ロワイヤルステージ表"
+        ],
+        [
+          "section-02",
+          "ダイス目【１】＊【ダーティ】ステージ"
+        ],
+        [
+          "section-03",
+          "ダイス目【２】＊【サスペンス】ステージ"
+        ],
+        [
+          "section-04",
+          "ダイス目【３】＊【タクティクス】ステージ"
+        ],
+        [
+          "section-05",
+          "ダイス目【４】＊【フィジカル】ステージ"
+        ],
+        [
+          "section-06",
+          "ダイス目【５】＊【バラエティ】ステージ"
+        ],
+        [
+          "section-07",
+          "ダイス目【６】＊【エンターテイメント】ステージ"
+        ]
+      ],
+      "tables": {
+        "1": "flow",
+        "4": "flow",
+        "5": "data",
+        "6": "flow",
+        "7": "data",
+        "8": "flow",
+        "9": "data",
+        "10": "flow",
+        "11": "data",
+        "12": "flow",
+        "13": "data",
+        "14": "flow",
+        "15": "data",
+        "3": "flow",
+        "2": "flow",
+        "0": "flow"
+      },
+      "data_tables": [
+        "5",
+        "7",
+        "9",
+        "11",
+        "13",
+        "15"
+      ]
+    },
+    {
+      "source": "yg122.html",
+      "file": "yg122.html",
+      "title": "回復・戦闘不能",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "回復・戦闘不能について"
+        ],
+        [
+          "section-02",
+          "ＨＰ＆ＰＰ回復方法"
+        ],
+        [
+          "section-03",
+          "回復バースト"
+        ],
+        [
+          "section-04",
+          "能力による回復"
+        ],
+        [
+          "section-05",
+          "ＡＥ【応急処置】による回復"
+        ],
+        [
+          "section-06",
+          "アイテムによる回復"
+        ],
+        [
+          "section-07",
+          "シーン休憩による回復"
+        ],
+        [
+          "section-08",
+          "睡眠休憩による回復"
+        ],
+        [
+          "section-09",
+          "瀕死＆即死"
+        ],
+        [
+          "section-10",
+          "瀕死状態"
+        ],
+        [
+          "section-11",
+          "即死状態"
+        ],
+        [
+          "section-12",
+          "ＡＥ【蘇生 】"
+        ],
+        [
+          "section-13",
+          "疲労状態"
+        ],
+        [
+          "section-14",
+          "気絶状態"
+        ]
+      ],
+      "tables": {
+        "3": "headed-panel",
+        "4": "headed-panel",
+        "7": "definitions",
+        "6": "slash-definitions",
+        "5": "headed-panel",
+        "8": "headed-panel",
+        "9": "headed-panel",
+        "11": "slash-definitions",
+        "10": "headed-panel",
+        "2": "flow",
+        "1": "headed-panel",
+        "15": "flow",
+        "16": "flow",
+        "14": "headed-panel",
+        "18": "flow",
+        "19": "flow",
+        "17": "headed-panel",
+        "13": "flow",
+        "23": "definitions",
+        "22": "flow",
+        "21": "headed-panel",
+        "20": "flow",
+        "12": "headed-panel",
+        "24": "headed-panel",
+        "25": "headed-panel",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg123.html",
+      "file": "yg123.html",
+      "title": "効果消滅・維持・上書き・解除判定",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "効果消滅タイミングについて"
+        ],
+        [
+          "section-02",
+          "維持時間"
+        ],
+        [
+          "section-03",
+          "上書ルール"
+        ],
+        [
+          "section-04",
+          "解除判定"
+        ]
+      ],
+      "tables": {
+        "2": "definitions",
+        "1": "headed-panel",
+        "4": "definitions",
+        "3": "headed-panel",
+        "6": "definitions",
+        "5": "headed-panel",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg124.html",
+      "file": "yg124.html",
+      "title": "消費アイテム",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "消費アイテム"
+        ],
+        [
+          "section-02",
+          "因子ダイス１０個分までです。"
+        ],
+        [
+          "section-03",
+          "消費アイテム一覧"
+        ],
+        [
+          "section-04",
+          "マグナムタフネス"
+        ],
+        [
+          "section-05",
+          "マグナムタフネスＥＸ"
+        ],
+        [
+          "section-06",
+          "マグナムタフネスＺ"
+        ],
+        [
+          "section-07",
+          "トランス"
+        ],
+        [
+          "section-08",
+          "ライズ"
+        ],
+        [
+          "section-09",
+          "ネクスト"
+        ],
+        [
+          "section-10",
+          "ユートピア"
+        ],
+        [
+          "section-11",
+          "パンドラ"
+        ],
+        [
+          "section-12",
+          "マグナムタフネスブラック"
+        ],
+        [
+          "section-13",
+          "消費武装一覧"
+        ],
+        [
+          "section-14",
+          "使い捨てランチャー"
+        ],
+        [
+          "section-15",
+          "違法グレネード"
+        ],
+        [
+          "section-16",
+          "ＥＣＭ【Ｐ】【Ｅ】【Ｔ】【Ｃ】"
+        ],
+        [
+          "section-17",
+          "各種予備弾"
+        ],
+        [
+          "section-18",
+          "バーサーカー"
+        ],
+        [
+          "section-19",
+          "ハイウェイ"
+        ],
+        [
+          "section-20",
+          "煙幕"
+        ]
+      ],
+      "tables": {
+        "3": "definitions",
+        "4": "definitions",
+        "2": "headed-panel",
+        "6": "definitions",
+        "7": "definitions",
+        "5": "headed-panel",
+        "9": "definitions",
+        "10": "definitions",
+        "8": "headed-panel",
+        "12": "definitions",
+        "13": "definitions",
+        "11": "headed-panel",
+        "15": "definitions",
+        "16": "definitions",
+        "14": "headed-panel",
+        "18": "definitions",
+        "19": "definitions",
+        "17": "headed-panel",
+        "21": "definitions",
+        "22": "definitions",
+        "20": "headed-panel",
+        "24": "definitions",
+        "25": "definitions",
+        "23": "headed-panel",
+        "27": "definitions",
+        "28": "definitions",
+        "26": "headed-panel",
+        "1": "headed-panel",
+        "30": "headed-panel",
+        "31": "headed-panel",
+        "32": "headed-panel",
+        "33": "headed-panel",
+        "34": "headed-panel",
+        "35": "headed-panel",
+        "36": "headed-panel",
+        "29": "headed-panel",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg125.html",
+      "file": "yg125.html",
+      "title": "無限の住人・セッション1日目",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "リプレイ【無限の住人】"
+        ],
+        [
+          "s1",
+          "▼セッション前"
+        ],
+        [
+          "s2",
+          "▼セッション１日目"
+        ],
+        [
+          "s3",
+          "▼バスターＯＰ"
+        ],
+        [
+          "s4",
+          "▼みたまＯＰ"
+        ],
+        [
+          "s5",
+          "▼イリヤＯＰ"
+        ],
+        [
+          "s6",
+          "▼シーン１ 突入"
+        ]
+      ],
+      "tables": {
+        "1": "transcript",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg126.html",
+      "file": "yg126.html",
+      "title": "登場PC：バスターヒーロー",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "ＰＣ/バスターヒーロー"
+        ],
+        [
+          "section-02",
+          "クハハハ！この俺にパワーでかなうものか！"
+        ],
+        [
+          "section-03",
+          "能力"
+        ]
+      ],
+      "tables": {
+        "2": "definitions-with-note",
+        "4": "definitions",
+        "3": "definitions-with-note",
+        "6": "data",
+        "7": "definitions",
+        "8": "definitions",
+        "9": "definitions",
+        "10": "definitions",
+        "11": "definitions",
+        "13": "definitions",
+        "12": "definitions-with-note",
+        "5": "columns",
+        "16": "definitions",
+        "17": "definitions",
+        "18": "definitions",
+        "19": "definitions",
+        "20": "definitions",
+        "21": "definitions",
+        "15": "data",
+        "14": "flow",
+        "23": "flow",
+        "24": "flow",
+        "25": "flow",
+        "22": "columns",
+        "26": "flow",
+        "1": "headed-columns",
+        "0": "flow"
+      },
+      "data_tables": [
+        "6",
+        "15"
+      ]
+    },
+    {
+      "source": "yg127.html",
+      "file": "yg127.html",
+      "title": "登場PC：伊綱乃 御霊",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "ＰＣ/伊綱乃 御霊"
+        ],
+        [
+          "section-02",
+          "、お主、一つ儂と手合わせでもどうかの？"
+        ],
+        [
+          "section-03",
+          "・・・・なんじゃ、その顔は"
+        ],
+        [
+          "section-04",
+          "能力"
+        ],
+        [
+          "section-05",
+          "生命の大樹"
+        ],
+        [
+          "section-06",
+          "応用技"
+        ],
+        [
+          "section-07",
+          "演出技"
+        ]
+      ],
+      "tables": {
+        "2": "definitions-with-note",
+        "4": "definitions",
+        "3": "definitions-with-note",
+        "6": "data",
+        "7": "definitions",
+        "8": "definitions",
+        "9": "definitions",
+        "10": "definitions",
+        "11": "definitions",
+        "13": "definitions",
+        "12": "definitions-with-note",
+        "5": "columns",
+        "16": "definitions",
+        "17": "definitions",
+        "18": "definitions",
+        "19": "definitions",
+        "20": "definitions",
+        "21": "definitions",
+        "15": "data",
+        "14": "flow",
+        "23": "flow",
+        "24": "flow",
+        "25": "flow",
+        "22": "columns",
+        "26": "flow",
+        "28": "data",
+        "29": "data",
+        "30": "data",
+        "31": "data",
+        "32": "data",
+        "33": "data",
+        "34": "data",
+        "35": "data",
+        "36": "definitions",
+        "37": "definitions",
+        "38": "definitions",
+        "39": "definitions",
+        "40": "definitions",
+        "41": "definitions",
+        "42": "definitions",
+        "27": "columns",
+        "44": "definitions-with-note",
+        "45": "definitions-with-note",
+        "46": "definitions-with-note",
+        "47": "definitions-with-note",
+        "48": "definitions-with-note",
+        "49": "definitions-with-note",
+        "50": "definitions-with-note",
+        "43": "flow",
+        "1": "headed-columns",
+        "0": "flow"
+      },
+      "data_tables": [
+        "6",
+        "15",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ]
+    },
+    {
+      "source": "yg128.html",
+      "file": "yg128.html",
+      "title": "登場PC：イリヤ",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "（イリヤ）"
+        ],
+        [
+          "section-02",
+          "ちゃっちゃとやれ。でなければ死ね。"
+        ],
+        [
+          "section-03",
+          "能力"
+        ],
+        [
+          "section-04",
+          "早期警戒・迎撃データリンクシステム"
+        ],
+        [
+          "section-05",
+          "クリーチャー"
+        ]
+      ],
+      "tables": {
+        "2": "definitions-with-note",
+        "4": "definitions",
+        "3": "definitions-with-note",
+        "6": "data",
+        "7": "definitions",
+        "8": "definitions",
+        "9": "definitions",
+        "10": "definitions",
+        "11": "definitions",
+        "13": "definitions",
+        "12": "definitions-with-note",
+        "5": "columns",
+        "16": "definitions",
+        "17": "definitions",
+        "18": "definitions",
+        "19": "definitions",
+        "20": "definitions",
+        "21": "definitions",
+        "15": "data",
+        "14": "flow",
+        "23": "flow",
+        "24": "flow",
+        "25": "flow",
+        "22": "columns",
+        "26": "flow",
+        "28": "data",
+        "29": "data",
+        "30": "data",
+        "31": "data",
+        "32": "data",
+        "33": "definitions",
+        "34": "definitions",
+        "35": "definitions",
+        "36": "definitions",
+        "37": "definitions",
+        "38": "definitions",
+        "39": "definitions",
+        "27": "columns",
+        "41": "flow",
+        "42": "definitions",
+        "43": "flow",
+        "44": "definitions-with-note",
+        "45": "flow",
+        "46": "data",
+        "47": "data",
+        "48": "data",
+        "49": "data",
+        "40": "section-columns",
+        "51": "flow",
+        "52": "definitions",
+        "53": "flow",
+        "54": "definitions-with-note",
+        "55": "flow",
+        "56": "data",
+        "57": "data",
+        "50": "section-columns",
+        "1": "headed-columns",
+        "0": "flow"
+      },
+      "data_tables": [
+        "6",
+        "15",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "46",
+        "47",
+        "48",
+        "49",
+        "56",
+        "57"
+      ]
+    },
+    {
+      "source": "yg129.html",
+      "file": "yg129.html",
+      "title": "無限の住人・シーン目次",
+      "kind": "content",
+      "toc": [],
+      "tables": {
+        "1": "data",
+        "0": "flow"
+      },
+      "data_tables": [
+        "1"
+      ]
+    },
+    {
+      "source": "yg130.html",
+      "file": "yg130.html",
+      "title": "製作者コメント",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "製作者コメント"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg132.html",
+      "file": "yg132.html",
+      "title": "無限の住人・セッション2日目",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "リプレイ【無限の住人】"
+        ],
+        [
+          "s7",
+          "▼セッション２日目"
+        ],
+        [
+          "s8",
+          "▼シーン２ 研究所"
+        ],
+        [
+          "s9",
+          "▼シーン３ 実験ラボ"
+        ],
+        [
+          "s10",
+          "▼シーン４ 研究ラボ"
+        ],
+        [
+          "s11",
+          "▼シーン５ 制御ルーム"
+        ]
+      ],
+      "tables": {
+        "1": "transcript",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg133.html",
+      "file": "yg133.html",
+      "title": "無限の住人・セッション3日目",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "リプレイ【無限の住人】"
+        ],
+        [
+          "s12",
+          "▼セッション３日目"
+        ],
+        [
+          "s13",
+          "▼シーン６ 資料室"
+        ],
+        [
+          "s14",
+          "▼シーン７ 地下実験ラボ"
+        ],
+        [
+          "s15",
+          "▼クライマックス"
+        ]
+      ],
+      "tables": {
+        "1": "transcript",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg134.html",
+      "file": "yg134.html",
+      "title": "無限の住人・クリア処理",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "リプレイ【無限の住人】"
+        ],
+        [
+          "s16",
+          "▼クリア処理"
+        ],
+        [
+          "s17",
+          "▼バスターＥＤ"
+        ],
+        [
+          "s18",
+          "▼みたま＆イリヤ ＥＤ"
+        ],
+        [
+          "s19",
+          "▼反省会"
+        ]
+      ],
+      "tables": {
+        "1": "transcript",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg135.html",
+      "file": "yg135.html",
+      "title": "リプレイ",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "リプレイ"
+        ],
+        [
+          "section-02",
+          "リプレイ"
+        ]
+      ],
+      "tables": {
+        "3": "flow",
+        "4": "flow",
+        "2": "portraits",
+        "1": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg137.html",
+      "file": "yg137.html",
+      "title": "プレイルールの目次",
+      "kind": "content",
+      "toc": [],
+      "tables": {
+        "2": "data",
+        "1": "data",
+        "0": "flow"
+      },
+      "data_tables": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "source": "yg138.html",
+      "file": "yg138.html",
+      "title": "プレイルールの紹介",
+      "kind": "content",
+      "toc": [],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg139.html",
+      "file": "yg139.html",
+      "title": "因子ダイス",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "因子ダイス"
+        ]
+      ],
+      "tables": {
+        "1": "data",
+        "0": "flow"
+      },
+      "data_tables": [
+        "1"
+      ]
+    },
+    {
+      "source": "yg140.html",
+      "file": "yg140.html",
+      "title": "探索",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "探索について"
+        ]
+      ],
+      "tables": {
+        "2": "data",
+        "1": "flow",
+        "0": "flow"
+      },
+      "data_tables": [
+        "2"
+      ]
+    },
+    {
+      "source": "yg142.html",
+      "file": "yg142.html",
+      "title": "応用技の効果対象",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "応用技の効果対象について"
+        ],
+        [
+          "section-02",
+          "【自分＆他対象"
+        ],
+        [
+          "section-03",
+          "補足Ｑ＆Ａ"
+        ],
+        [
+          "section-04",
+          "自分の攻撃力を上げてオールレンジ攻撃する事はできるか？"
+        ]
+      ],
+      "tables": {
+        "2": "flow",
+        "3": "definitions",
+        "1": "flow",
+        "5": "flow",
+        "4": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg143.html",
+      "file": "yg143.html",
+      "title": "レギュラー勢力・エネミー勢力",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "レギュラー勢力について"
+        ],
+        [
+          "section-02",
+          "エネミー勢力について"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg144.html",
+      "file": "yg144.html",
+      "title": "このＴＲＰＧについて",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "TRPG鋼鉄のユグドラシルについて"
+        ],
+        [
+          "section-02",
+          "ＰＣの強さ・立ち位置について"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg145.html",
+      "file": "yg145.html",
+      "title": "バスターライラック",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "民間警備隊【 バスターライラック 】"
+        ],
+        [
+          "section-02",
+          "レオン＝シグルス"
+        ]
+      ],
+      "tables": {
+        "1": "portraits",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg146.html",
+      "file": "yg146.html",
+      "title": "スヴァリン",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "中層管理局【 スヴァリン 】"
+        ],
+        [
+          "section-02",
+          "ミルヴァ＝メルトリア"
+        ]
+      ],
+      "tables": {
+        "1": "portraits",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg147.html",
+      "file": "yg147.html",
+      "title": "モーターソグニル",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "職人組合【 モーターソグニル 】"
+        ],
+        [
+          "section-02",
+          "グリンピース＝ヒースメイル"
+        ]
+      ],
+      "tables": {
+        "1": "portraits",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg148.html",
+      "file": "yg148.html",
+      "title": "ヘル",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "武装親衛隊【 ヘル 】"
+        ],
+        [
+          "section-02",
+          "マチルダ"
+        ]
+      ],
+      "tables": {
+        "1": "portraits",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg149.html",
+      "file": "yg149.html",
+      "title": "ヨルムンガンド",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "情報室【 ヨルムンガンド 】"
+        ],
+        [
+          "section-02",
+          "セラフィーマ"
+        ]
+      ],
+      "tables": {
+        "1": "portraits",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg15.html",
+      "file": "yg15.html",
+      "title": "パラメーター",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "⑤パラメーターを決める。"
+        ]
+      ],
+      "tables": {
+        "1": "flow",
+        "2": "data",
+        "3": "definitions-with-note",
+        "4": "definitions-with-note",
+        "5": "data",
+        "0": "flow"
+      },
+      "data_tables": [
+        "2",
+        "5"
+      ]
+    },
+    {
+      "source": "yg150.html",
+      "file": "yg150.html",
+      "title": "フェンリル",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "特殊部隊【 フェンリル 】"
+        ],
+        [
+          "section-02",
+          "ガラ"
+        ]
+      ],
+      "tables": {
+        "1": "portraits",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg151.html",
+      "file": "yg151.html",
+      "title": "ルーン企業連",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "ルーン企業連"
+        ],
+        [
+          "section-02",
+          "マルクス＝アレキサンダー"
+        ],
+        [
+          "section-03",
+          "エイワズ＝ドライ"
+        ],
+        [
+          "section-04",
+          "ハインケル＝バインドル"
+        ]
+      ],
+      "tables": {
+        "1": "portraits",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg152.html",
+      "file": "yg152.html",
+      "title": "チーム世紀末覇者",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "チーム世紀末覇者"
+        ],
+        [
+          "section-02",
+          "キング"
+        ],
+        [
+          "section-03",
+          "マリー＝ククルシル"
+        ],
+        [
+          "section-04",
+          "ガイ"
+        ],
+        [
+          "section-05",
+          "オーガ"
+        ],
+        [
+          "section-06",
+          "マシュー"
+        ]
+      ],
+      "tables": {
+        "1": "portraits",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg153.html",
+      "file": "yg153.html",
+      "title": "スヴァルトアルフ",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "闇商会【 スヴァルトアルフ 】"
+        ],
+        [
+          "section-02",
+          "マリア＝テレジア"
+        ],
+        [
+          "section-03",
+          "レミエム"
+        ],
+        [
+          "section-04",
+          "クラウン＝クラウン"
+        ]
+      ],
+      "tables": {
+        "1": "portraits",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg154.html",
+      "file": "yg154.html",
+      "title": "全層共通",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "全層共通 関連ワード"
+        ],
+        [
+          "section-02",
+          "ＰＳＹ因子"
+        ],
+        [
+          "section-03",
+          "アンチ能力者"
+        ],
+        [
+          "section-04",
+          "賢者の石"
+        ],
+        [
+          "section-05",
+          "特殊武装"
+        ],
+        [
+          "section-06",
+          "ＹＤＦ"
+        ],
+        [
+          "section-07",
+          "フリーランス"
+        ],
+        [
+          "section-08",
+          "ミュータント"
+        ],
+        [
+          "section-09",
+          "モヒカン"
+        ],
+        [
+          "section-10",
+          "電脳"
+        ],
+        [
+          "section-11",
+          "監視衛星【 YHVH -ヤハウェ- 】"
+        ],
+        [
+          "section-12",
+          "階層エレベーター"
+        ],
+        [
+          "section-13",
+          "階層ゲート"
+        ],
+        [
+          "section-14",
+          "墓地ビル"
+        ],
+        [
+          "section-15",
+          "最下層"
+        ]
+      ],
+      "tables": {
+        "1": "headed-panel",
+        "2": "headed-panel",
+        "3": "flow",
+        "4": "headed-panel",
+        "5": "headed-panel",
+        "6": "headed-panel",
+        "7": "headed-panel",
+        "8": "headed-panel",
+        "9": "headed-panel",
+        "10": "flow",
+        "11": "headed-panel",
+        "12": "headed-panel",
+        "13": "headed-panel",
+        "14": "headed-panel",
+        "15": "headed-panel",
+        "16": "headed-panel",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg16.html",
+      "file": "yg16.html",
+      "title": "キャラ特性",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "⑥キャラ特性を決める。"
+        ],
+        [
+          "section-02",
+          "キャラ特性の作成"
+        ],
+        [
+          "section-03",
+          "特定の項目を１つ＋１するキャラ特性"
+        ],
+        [
+          "section-04",
+          "複数項目、もしくは同項目に重複してプラスするキャラ特性"
+        ],
+        [
+          "section-05",
+          "マイナスはＮＧです。"
+        ]
+      ],
+      "tables": {
+        "1": "flow",
+        "2": "flow",
+        "3": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg17.html",
+      "file": "yg17.html",
+      "title": "能力タイプ",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "④能力タイプを決める。"
+        ],
+        [
+          "section-02",
+          "ノーマル"
+        ],
+        [
+          "section-03",
+          "サイキッカー"
+        ],
+        [
+          "section-04",
+          "エスパー"
+        ],
+        [
+          "section-05",
+          "トランサー"
+        ],
+        [
+          "section-06",
+          "クリエイター"
+        ],
+        [
+          "section-07",
+          "アンノウン"
+        ],
+        [
+          "section-08",
+          "クリエイター諸注意"
+        ]
+      ],
+      "tables": {
+        "1": "headed-panel",
+        "2": "headed-panel",
+        "3": "headed-panel",
+        "4": "headed-panel",
+        "5": "headed-panel",
+        "6": "headed-panel",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg18.html",
+      "file": "yg18.html",
+      "title": "能力タイプ説明",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "能力タイプ"
+        ]
+      ],
+      "tables": {
+        "1": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg19.html",
+      "file": "yg19.html",
+      "title": "活性・身体タイプ",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "③活性タイプと身体タイプを決定する。"
+        ]
+      ],
+      "tables": {
+        "1": "definitions-with-note",
+        "2": "definitions-with-note",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg20.html",
+      "file": "yg20.html",
+      "title": "ステータスを算出",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "⑦ステータスを算出する。"
+        ]
+      ],
+      "tables": {
+        "1": "definitions-with-note",
+        "2": "definitions-with-note",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg21.html",
+      "file": "yg21.html",
+      "title": "探索技能を算出",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "⑧探索技能を算出する。"
+        ],
+        [
+          "section-02",
+          ""
+        ],
+        [
+          "section-03",
+          "基礎技能値が出たら、基礎技能値を÷２します。"
+        ]
+      ],
+      "tables": {
+        "1": "definitions-with-note",
+        "2": "definitions-with-note",
+        "3": "data",
+        "0": "flow"
+      },
+      "data_tables": [
+        "3"
+      ]
+    },
+    {
+      "source": "yg22.html",
+      "file": "yg22.html",
+      "title": "攻撃力を算出",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "⑨攻撃力を算出する。"
+        ],
+        [
+          "section-02",
+          "まずはそれぞれの攻撃力取得点を算出します。"
+        ],
+        [
+          "section-03",
+          "算出した取得点を使ってキャラクターの攻撃力を取得し、決定します。"
+        ],
+        [
+          "section-04",
+          "取得点は要全消費。任意切捨ては不可。●最低１Ｄ６は取得必須。 取得点が足りない場合は以下の取得点移行を行う事。"
+        ],
+        [
+          "section-05",
+          "取得例 ＊＊＊ 取得点８点の場合 ＊＊＊"
+        ]
+      ],
+      "tables": {
+        "1": "definitions",
+        "2": "data",
+        "3": "definitions",
+        "4": "flow",
+        "5": "data",
+        "6": "flow",
+        "0": "flow"
+      },
+      "data_tables": [
+        "2",
+        "5"
+      ]
+    },
+    {
+      "source": "yg23.html",
+      "file": "yg23.html",
+      "title": "固有能力を作成",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "⑩固有の能力を作成する。"
+        ],
+        [
+          "section-02",
+          "能力作成の補足"
+        ],
+        [
+          "section-03",
+          ""
+        ],
+        [
+          "section-08",
+          "世界観に沿った能力を作成しましょう。"
+        ],
+        [
+          "section-04",
+          ""
+        ],
+        [
+          "section-09",
+          "クリエイター諸注意"
+        ],
+        [
+          "section-05",
+          ""
+        ],
+        [
+          "section-10",
+          "他者変化について"
+        ],
+        [
+          "section-06",
+          "技の効果対象の考え方"
+        ],
+        [
+          "section-07",
+          "フレーバー応用技"
+        ]
+      ],
+      "tables": {
+        "2": "flow",
+        "3": "flow",
+        "4": "flow",
+        "5": "flow",
+        "6": "flow",
+        "7": "flow",
+        "8": "flow",
+        "9": "flow",
+        "10": "flow",
+        "11": "flow",
+        "12": "flow",
+        "13": "flow",
+        "14": "flow",
+        "1": "section-columns",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg24.html",
+      "file": "yg24.html",
+      "title": "ＳＯペナルティ表",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "ＳＯペナルティ表"
+        ]
+      ],
+      "tables": {
+        "1": "flow",
+        "2": "data",
+        "3": "data",
+        "4": "data",
+        "5": "data",
+        "6": "data",
+        "0": "flow"
+      },
+      "data_tables": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "source": "yg30.html",
+      "file": "effects.html",
+      "title": "付加効果一覧",
+      "kind": "accepted-two-page",
+      "toc": 18
+    },
+    {
+      "source": "yg31.html",
+      "file": "yg31.html",
+      "title": "サブエフェクト（SE）",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "サブエフェクト【ＳＥ】一覧"
+        ],
+        [
+          "section-02",
+          "ペネトレイション"
+        ],
+        [
+          "section-03",
+          "オールレンジ"
+        ],
+        [
+          "section-04",
+          "テリトリー"
+        ],
+        [
+          "section-05",
+          "コンティニュー"
+        ],
+        [
+          "section-06",
+          "ドレイン"
+        ],
+        [
+          "section-07",
+          "ブレイク"
+        ],
+        [
+          "section-08",
+          "チャージ"
+        ],
+        [
+          "section-09",
+          "リスク"
+        ],
+        [
+          "section-10",
+          "トラップ"
+        ],
+        [
+          "section-11",
+          "オート"
+        ],
+        [
+          "section-12",
+          "セミオート"
+        ],
+        [
+          "section-13",
+          "リフレクション"
+        ],
+        [
+          "section-14",
+          "パーフェクト"
+        ]
+      ],
+      "tables": {
+        "2": "definitions",
+        "4": "definitions",
+        "3": "definitions",
+        "1": "headed-columns",
+        "6": "definitions",
+        "8": "definitions",
+        "7": "definitions",
+        "5": "headed-columns",
+        "10": "definitions",
+        "12": "definitions",
+        "11": "definitions",
+        "9": "headed-columns",
+        "15": "data",
+        "14": "definitions",
+        "17": "definitions",
+        "18": "definitions",
+        "16": "definitions",
+        "13": "headed-columns",
+        "20": "definitions",
+        "22": "definitions",
+        "21": "definitions",
+        "19": "headed-columns",
+        "24": "definitions",
+        "26": "definitions",
+        "25": "definitions",
+        "23": "headed-columns",
+        "29": "definitions",
+        "28": "definitions",
+        "31": "definitions",
+        "32": "definitions",
+        "33": "definitions",
+        "34": "definitions",
+        "35": "definitions",
+        "36": "definitions",
+        "30": "definitions",
+        "27": "headed-columns",
+        "39": "data",
+        "38": "definitions",
+        "41": "definitions",
+        "42": "definitions",
+        "43": "definitions",
+        "44": "definitions",
+        "40": "definitions",
+        "37": "headed-columns",
+        "46": "definitions",
+        "48": "definitions",
+        "49": "data",
+        "50": "definitions",
+        "51": "definitions",
+        "52": "definitions",
+        "53": "definitions",
+        "54": "definitions",
+        "47": "definitions",
+        "45": "headed-columns",
+        "56": "definitions",
+        "58": "data",
+        "59": "definitions",
+        "57": "definitions",
+        "55": "headed-columns",
+        "61": "definitions",
+        "63": "definitions",
+        "62": "definitions",
+        "60": "headed-columns",
+        "65": "definitions",
+        "67": "definitions",
+        "68": "definitions",
+        "66": "definitions",
+        "64": "headed-columns",
+        "70": "definitions",
+        "72": "definitions",
+        "71": "definitions",
+        "69": "headed-columns",
+        "0": "flow"
+      },
+      "data_tables": [
+        "15",
+        "39",
+        "49",
+        "58"
+      ]
+    },
+    {
+      "source": "yg32.html",
+      "file": "yg32.html",
+      "title": "スペシャルエフェクト（SPE）",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "⑪スペシャルエフェクト【ＳＰＥ】を決める。"
+        ],
+        [
+          "section-02",
+          "奇跡"
+        ],
+        [
+          "section-03",
+          "悪運"
+        ],
+        [
+          "section-04",
+          "闘志"
+        ],
+        [
+          "section-05",
+          "リベンジ"
+        ],
+        [
+          "section-06",
+          "リテイク"
+        ],
+        [
+          "section-07",
+          "逆転"
+        ],
+        [
+          "section-08",
+          "絆"
+        ],
+        [
+          "section-09",
+          "激励"
+        ],
+        [
+          "section-10",
+          "不屈"
+        ],
+        [
+          "section-11",
+          "瞑想"
+        ],
+        [
+          "section-12",
+          "鎮静"
+        ],
+        [
+          "section-13",
+          "精神凌駕"
+        ],
+        [
+          "section-14",
+          "愛"
+        ],
+        [
+          "section-15",
+          "瞬動"
+        ],
+        [
+          "section-16",
+          "限界突破"
+        ],
+        [
+          "section-17",
+          "防衛本能"
+        ],
+        [
+          "section-18",
+          "共鳴"
+        ],
+        [
+          "section-19",
+          "パージ"
+        ],
+        [
+          "section-20",
+          "奥義"
+        ],
+        [
+          "section-21",
+          "大器"
+        ],
+        [
+          "section-22",
+          "熟練"
+        ],
+        [
+          "section-23",
+          "エキスパート"
+        ]
+      ],
+      "tables": {
+        "2": "slash-definitions",
+        "3": "slash-definitions",
+        "4": "slash-definitions",
+        "5": "slash-definitions",
+        "6": "slash-definitions",
+        "7": "slash-definitions",
+        "8": "slash-definitions",
+        "9": "slash-definitions",
+        "10": "slash-definitions",
+        "11": "slash-definitions",
+        "12": "slash-definitions",
+        "13": "slash-definitions",
+        "15": "definitions",
+        "14": "slash-definitions",
+        "16": "slash-definitions",
+        "17": "slash-definitions",
+        "18": "slash-definitions",
+        "19": "slash-definitions",
+        "20": "slash-definitions",
+        "21": "slash-definitions",
+        "22": "slash-definitions",
+        "23": "slash-definitions",
+        "24": "slash-definitions",
+        "1": "catalogue",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg33.html",
+      "file": "yg33.html",
+      "title": "所持品・装備",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "⑫所持品・装備を決める。"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg35.html",
+      "file": "yg35.html",
+      "title": "アクションエフェクト（AE）",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "アクションエフェクト【 ＡＥ 】一覧"
+        ],
+        [
+          "section-02",
+          "ＡＥ対抗宣言について"
+        ],
+        [
+          "section-03",
+          "固定値の【コンセ】、ダイスの【ブースト】、応援の【エール】"
+        ],
+        [
+          "section-04",
+          "コンセントレイション"
+        ],
+        [
+          "section-05",
+          "ブースト"
+        ],
+        [
+          "section-06",
+          "エール"
+        ],
+        [
+          "section-07",
+          "死力"
+        ],
+        [
+          "section-08",
+          "特化の切り札！【 置換えＡＥ 】"
+        ],
+        [
+          "section-09",
+          "怪力乱神"
+        ],
+        [
+          "section-10",
+          "臥薪嘗胆"
+        ],
+        [
+          "section-11",
+          "才気煥発"
+        ],
+        [
+          "section-12",
+          "明鏡止水"
+        ],
+        [
+          "section-13",
+          "画竜点睛"
+        ],
+        [
+          "section-14",
+          "電光石火"
+        ],
+        [
+          "section-15",
+          "運否天賦"
+        ],
+        [
+          "section-16",
+          "バトルの戦略をあげるテクニカルＡＥ！"
+        ],
+        [
+          "section-18",
+          "強度感知"
+        ],
+        [
+          "section-19",
+          "不意打ち"
+        ],
+        [
+          "section-20",
+          "待機"
+        ],
+        [
+          "section-21",
+          "回避放棄"
+        ],
+        [
+          "section-22",
+          "重撃"
+        ],
+        [
+          "section-23",
+          "カバーリング"
+        ],
+        [
+          "section-24",
+          "カウンター"
+        ],
+        [
+          "section-25",
+          "ヘッドショット"
+        ],
+        [
+          "section-26",
+          "ホールド"
+        ],
+        [
+          "section-27",
+          "応急処置"
+        ],
+        [
+          "section-28",
+          "蘇生"
+        ],
+        [
+          "section-17",
+          "他にもあるぞ！使うかもしれないＡＥ"
+        ],
+        [
+          "section-29",
+          "行動放棄"
+        ],
+        [
+          "section-30",
+          "離脱"
+        ],
+        [
+          "section-31",
+          "参戦"
+        ],
+        [
+          "section-32",
+          "手加減"
+        ],
+        [
+          "section-33",
+          "ノックアウト"
+        ]
+      ],
+      "tables": {
+        "2": "flow",
+        "1": "flow",
+        "4": "definitions-with-note",
+        "5": "flow",
+        "6": "flow",
+        "7": "data",
+        "8": "flow",
+        "10": "flow",
+        "9": "flow",
+        "11": "definitions-with-note",
+        "12": "flow",
+        "13": "flow",
+        "14": "data",
+        "15": "flow",
+        "17": "flow",
+        "16": "flow",
+        "18": "definitions-with-note",
+        "19": "flow",
+        "20": "flow",
+        "21": "data",
+        "22": "flow",
+        "24": "flow",
+        "23": "flow",
+        "25": "definitions-with-note",
+        "26": "flow",
+        "27": "flow",
+        "29": "flow",
+        "28": "flow",
+        "3": "catalogue",
+        "31": "flow",
+        "30": "flow",
+        "33": "definitions-with-note",
+        "34": "flow",
+        "35": "flow",
+        "36": "data",
+        "37": "flow",
+        "39": "flow",
+        "38": "flow",
+        "32": "catalogue",
+        "41": "flow",
+        "40": "flow",
+        "43": "definitions",
+        "44": "flow",
+        "45": "flow",
+        "46": "flow",
+        "48": "flow",
+        "47": "flow",
+        "49": "definitions",
+        "50": "flow",
+        "51": "flow",
+        "52": "flow",
+        "54": "flow",
+        "53": "flow",
+        "55": "definitions",
+        "56": "flow",
+        "57": "flow",
+        "58": "flow",
+        "60": "flow",
+        "59": "flow",
+        "61": "definitions",
+        "62": "flow",
+        "63": "flow",
+        "64": "flow",
+        "66": "flow",
+        "65": "flow",
+        "67": "definitions",
+        "68": "flow",
+        "69": "flow",
+        "70": "flow",
+        "72": "flow",
+        "71": "flow",
+        "73": "definitions-with-note",
+        "74": "flow",
+        "75": "flow",
+        "76": "flow",
+        "78": "flow",
+        "77": "flow",
+        "79": "definitions",
+        "80": "flow",
+        "81": "flow",
+        "82": "flow",
+        "84": "flow",
+        "83": "flow",
+        "85": "definitions-with-note",
+        "86": "flow",
+        "87": "flow",
+        "88": "flow",
+        "90": "flow",
+        "89": "flow",
+        "91": "definitions-with-note",
+        "92": "flow",
+        "93": "flow",
+        "94": "flow",
+        "95": "flow",
+        "96": "flow",
+        "98": "flow",
+        "97": "flow",
+        "99": "definitions",
+        "100": "flow",
+        "101": "flow",
+        "102": "flow",
+        "103": "definitions",
+        "104": "flow",
+        "106": "flow",
+        "105": "flow",
+        "107": "definitions",
+        "108": "flow",
+        "109": "flow",
+        "110": "flow",
+        "112": "flow",
+        "111": "flow",
+        "42": "catalogue",
+        "114": "flow",
+        "113": "flow",
+        "116": "definitions",
+        "117": "flow",
+        "118": "flow",
+        "119": "flow",
+        "121": "flow",
+        "120": "flow",
+        "122": "definitions",
+        "123": "flow",
+        "124": "flow",
+        "125": "flow",
+        "126": "flow",
+        "128": "flow",
+        "127": "flow",
+        "129": "definitions",
+        "130": "flow",
+        "131": "flow",
+        "132": "flow",
+        "134": "flow",
+        "133": "flow",
+        "135": "definitions",
+        "136": "flow",
+        "137": "flow",
+        "138": "flow",
+        "140": "flow",
+        "139": "flow",
+        "141": "definitions",
+        "142": "flow",
+        "143": "flow",
+        "144": "flow",
+        "145": "flow",
+        "146": "flow",
+        "148": "flow",
+        "147": "flow",
+        "115": "catalogue",
+        "0": "flow"
+      },
+      "data_tables": [
+        "7",
+        "14",
+        "21",
+        "36"
+      ]
+    },
+    {
+      "source": "yg37.html",
+      "file": "index.html",
+      "title": "行為判定",
+      "kind": "accepted-two-page",
+      "toc": 6
+    },
+    {
+      "source": "yg45.html",
+      "file": "yg45.html",
+      "title": "暴走ロールの項",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "暴走ロール"
+        ],
+        [
+          "section-02",
+          "暴走表"
+        ],
+        [
+          "section-03",
+          "暴走表"
+        ]
+      ],
+      "tables": {
+        "1": "flow",
+        "2": "flow",
+        "5": "definitions",
+        "6": "definitions",
+        "4": "flow",
+        "7": "definitions-with-note",
+        "9": "definitions",
+        "10": "definitions",
+        "8": "flow",
+        "11": "data",
+        "13": "definitions",
+        "14": "definitions",
+        "12": "flow",
+        "15": "data",
+        "17": "definitions",
+        "18": "definitions",
+        "19": "flow",
+        "16": "flow",
+        "21": "definitions",
+        "22": "definitions",
+        "20": "flow",
+        "24": "definitions",
+        "25": "definitions",
+        "23": "flow",
+        "26": "data",
+        "28": "definitions",
+        "29": "definitions",
+        "27": "flow",
+        "30": "data",
+        "32": "definitions",
+        "33": "definitions",
+        "31": "flow",
+        "34": "data",
+        "36": "definitions",
+        "37": "definitions",
+        "35": "flow",
+        "38": "flow",
+        "40": "definitions",
+        "41": "definitions",
+        "39": "flow",
+        "42": "flow",
+        "44": "definitions",
+        "45": "definitions",
+        "43": "flow",
+        "3": "flow",
+        "0": "flow"
+      },
+      "data_tables": [
+        "11",
+        "15",
+        "26",
+        "30",
+        "34"
+      ]
+    },
+    {
+      "source": "yg46.html",
+      "file": "yg46.html",
+      "title": "暴走症状表",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "暴走症状表"
+        ],
+        [
+          "section-02",
+          "暴走症状"
+        ]
+      ],
+      "tables": {
+        "2": "slash-definitions",
+        "3": "slash-definitions",
+        "1": "data",
+        "6": "flow",
+        "9": "slash-definitions",
+        "8": "slash-definitions",
+        "10": "slash-definitions",
+        "11": "slash-definitions",
+        "12": "slash-definitions",
+        "13": "slash-definitions",
+        "14": "slash-definitions",
+        "15": "slash-definitions",
+        "16": "slash-definitions",
+        "17": "slash-definitions",
+        "18": "slash-definitions",
+        "7": "definitions-with-note",
+        "5": "flow",
+        "19": "flow",
+        "4": "flow",
+        "0": "flow"
+      },
+      "data_tables": [
+        "1"
+      ]
+    },
+    {
+      "source": "yg50.html",
+      "file": "yg50.html",
+      "title": "ＰＳＹ因子",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "ＰＳＹ因子"
+        ],
+        [
+          "section-02",
+          "バースト現象"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg51.html",
+      "file": "yg51.html",
+      "title": "科学力・電脳世界",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "科学力"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg52.html",
+      "file": "yg52.html",
+      "title": "交通・通貨",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "交通・通貨"
+        ],
+        [
+          "section-02",
+          "通貨"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg53.html",
+      "file": "yg53.html",
+      "title": "法律・社会情勢",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "法律・社会情勢"
+        ],
+        [
+          "section-02",
+          "法律"
+        ],
+        [
+          "section-03",
+          "流通"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg54.html",
+      "file": "yg54.html",
+      "title": "外界との繋がり",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "外界との繋がり"
+        ],
+        [
+          "section-02",
+          "外界の認識・ユグドラシルに入る者たちの認識"
+        ],
+        [
+          "section-03",
+          "懲役・外界生産としての役割"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg56.html",
+      "file": "yg56.html",
+      "title": "クリーチャールール",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "クリーチャールール"
+        ],
+        [
+          "section-02",
+          "クリーチャー使用ルール"
+        ],
+        [
+          "section-03",
+          "クリーチャー行動開始タイミング"
+        ],
+        [
+          "section-04",
+          "クリーチャーの回復"
+        ],
+        [
+          "section-05",
+          "クリーチャーの単独探索"
+        ],
+        [
+          "section-06",
+          "クリーチャー特殊ＡＥ"
+        ],
+        [
+          "section-07",
+          "転 換"
+        ],
+        [
+          "section-08",
+          "解 放"
+        ],
+        [
+          "section-09",
+          "守 護"
+        ],
+        [
+          "section-10",
+          "供 給"
+        ],
+        [
+          "section-11",
+          "クリーチャー特殊ケース"
+        ],
+        [
+          "section-12",
+          "防御発動や付加効果などの併用した【 エンチャント創造 】"
+        ],
+        [
+          "section-13",
+          "クリーチャー技のＳＥ【リスク】やＳＯ発動の【自爆】【崩壊】について"
+        ],
+        [
+          "section-14",
+          "クリーチャーによる【複製系】能力について"
+        ]
+      ],
+      "tables": {
+        "2": "definitions",
+        "1": "flow",
+        "4": "definitions",
+        "3": "flow",
+        "6": "definitions",
+        "5": "flow",
+        "8": "headed-panel",
+        "9": "headed-panel",
+        "10": "headed-panel",
+        "12": "headed-columns",
+        "14": "definitions",
+        "13": "headed-columns",
+        "15": "headed-columns",
+        "16": "headed-columns",
+        "11": "headed-panel",
+        "7": "headed-panel",
+        "18": "headed-panel",
+        "19": "headed-panel",
+        "20": "flow",
+        "22": "flow",
+        "23": "flow",
+        "21": "headed-panel",
+        "17": "headed-panel",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg57.html",
+      "file": "yg57.html",
+      "title": "コラム1：攻撃発動は○○だ！",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "ユグドラシルコラム"
+        ]
+      ],
+      "tables": {
+        "3": "flow",
+        "2": "dialogue",
+        "5": "flow",
+        "4": "dialogue",
+        "7": "flow",
+        "6": "dialogue",
+        "9": "flow",
+        "8": "dialogue",
+        "11": "flow",
+        "10": "dialogue",
+        "13": "flow",
+        "12": "dialogue",
+        "15": "flow",
+        "14": "dialogue",
+        "17": "flow",
+        "16": "dialogue",
+        "19": "flow",
+        "18": "dialogue",
+        "21": "flow",
+        "20": "dialogue",
+        "23": "flow",
+        "22": "dialogue",
+        "25": "flow",
+        "24": "dialogue",
+        "27": "flow",
+        "26": "dialogue",
+        "29": "flow",
+        "28": "dialogue",
+        "31": "flow",
+        "30": "dialogue",
+        "33": "flow",
+        "32": "dialogue",
+        "35": "flow",
+        "34": "dialogue",
+        "37": "flow",
+        "36": "dialogue",
+        "39": "flow",
+        "38": "dialogue",
+        "41": "flow",
+        "40": "dialogue",
+        "43": "flow",
+        "42": "dialogue",
+        "45": "flow",
+        "44": "dialogue",
+        "47": "flow",
+        "46": "dialogue",
+        "49": "flow",
+        "48": "dialogue",
+        "51": "flow",
+        "50": "dialogue",
+        "53": "flow",
+        "52": "dialogue",
+        "55": "flow",
+        "54": "dialogue",
+        "57": "flow",
+        "56": "dialogue",
+        "59": "flow",
+        "58": "dialogue",
+        "61": "flow",
+        "60": "dialogue",
+        "63": "flow",
+        "62": "dialogue",
+        "65": "flow",
+        "64": "dialogue",
+        "67": "flow",
+        "66": "dialogue",
+        "69": "flow",
+        "68": "dialogue",
+        "71": "flow",
+        "70": "dialogue",
+        "73": "flow",
+        "72": "dialogue",
+        "75": "flow",
+        "74": "dialogue",
+        "77": "flow",
+        "76": "dialogue",
+        "79": "flow",
+        "78": "dialogue",
+        "81": "flow",
+        "80": "dialogue",
+        "1": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg58.html",
+      "file": "yg58.html",
+      "title": "コラム",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "ユグドラシルコラム"
+        ]
+      ],
+      "tables": {
+        "3": "flow",
+        "2": "portraits",
+        "1": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg61.html",
+      "file": "yg61.html",
+      "title": "コラム2：精神発動は第六感で避けろ！",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "ユグドラシルコラム"
+        ]
+      ],
+      "tables": {
+        "3": "flow",
+        "2": "dialogue",
+        "5": "flow",
+        "4": "dialogue",
+        "7": "flow",
+        "6": "dialogue",
+        "9": "flow",
+        "8": "dialogue",
+        "11": "flow",
+        "10": "dialogue",
+        "13": "flow",
+        "12": "dialogue",
+        "15": "flow",
+        "14": "dialogue",
+        "17": "flow",
+        "16": "dialogue",
+        "19": "flow",
+        "18": "dialogue",
+        "21": "flow",
+        "20": "dialogue",
+        "23": "flow",
+        "22": "dialogue",
+        "25": "flow",
+        "24": "dialogue",
+        "27": "flow",
+        "26": "dialogue",
+        "29": "flow",
+        "28": "dialogue",
+        "31": "flow",
+        "30": "dialogue",
+        "33": "flow",
+        "32": "dialogue",
+        "35": "flow",
+        "34": "dialogue",
+        "37": "flow",
+        "36": "dialogue",
+        "39": "flow",
+        "38": "dialogue",
+        "41": "flow",
+        "40": "dialogue",
+        "43": "flow",
+        "42": "dialogue",
+        "45": "flow",
+        "44": "dialogue",
+        "47": "flow",
+        "46": "dialogue",
+        "49": "flow",
+        "48": "dialogue",
+        "51": "flow",
+        "50": "dialogue",
+        "53": "flow",
+        "52": "dialogue",
+        "55": "flow",
+        "54": "dialogue",
+        "57": "flow",
+        "56": "dialogue",
+        "59": "flow",
+        "58": "dialogue",
+        "61": "flow",
+        "60": "dialogue",
+        "63": "flow",
+        "62": "dialogue",
+        "65": "flow",
+        "64": "dialogue",
+        "67": "flow",
+        "66": "dialogue",
+        "69": "flow",
+        "68": "dialogue",
+        "71": "flow",
+        "70": "dialogue",
+        "1": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg62.html",
+      "file": "yg62.html",
+      "title": "使用可能素材",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "使用可能素材"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg63.html",
+      "file": "yg63.html",
+      "title": "活性化",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "活性化"
+        ]
+      ],
+      "tables": {
+        "2": "data",
+        "1": "definitions-with-note",
+        "4": "flow",
+        "5": "flow",
+        "6": "flow",
+        "3": "flow",
+        "7": "flow",
+        "8": "flow",
+        "0": "flow"
+      },
+      "data_tables": [
+        "2"
+      ]
+    },
+    {
+      "source": "yg64.html",
+      "file": "yg64.html",
+      "title": "クリエイターへの諸注意",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "クリエイター諸注意"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg65.html",
+      "file": "yg65.html",
+      "title": "力技",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "探索技能【 力技 】について"
+        ]
+      ],
+      "tables": {
+        "1": "definitions-with-note",
+        "2": "flow",
+        "3": "definitions-with-note",
+        "4": "definitions-with-note",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg66.html",
+      "file": "yg66.html",
+      "title": "威圧",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "探索技能【 威圧 】について"
+        ]
+      ],
+      "tables": {
+        "1": "definitions-with-note",
+        "2": "definitions-with-note",
+        "3": "definitions-with-note",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg67.html",
+      "file": "yg67.html",
+      "title": "観察眼",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "探索技能【 観察眼 】について"
+        ]
+      ],
+      "tables": {
+        "1": "data",
+        "2": "definitions-with-note",
+        "0": "flow"
+      },
+      "data_tables": [
+        "1"
+      ]
+    },
+    {
+      "source": "yg68.html",
+      "file": "yg68.html",
+      "title": "察知",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "探索技能【 察知 】について"
+        ]
+      ],
+      "tables": {
+        "1": "data",
+        "2": "definitions-with-note",
+        "3": "definitions-with-note",
+        "0": "flow"
+      },
+      "data_tables": [
+        "1"
+      ]
+    },
+    {
+      "source": "yg69.html",
+      "file": "yg69.html",
+      "title": "知識",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "探索技能【 知識 】について"
+        ]
+      ],
+      "tables": {
+        "1": "definitions-with-note",
+        "2": "data",
+        "0": "flow"
+      },
+      "data_tables": [
+        "2"
+      ]
+    },
+    {
+      "source": "yg70.html",
+      "file": "yg70.html",
+      "title": "技術",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "探索技能【 技術 】について"
+        ]
+      ],
+      "tables": {
+        "1": "data",
+        "2": "definitions-with-note",
+        "0": "flow"
+      },
+      "data_tables": [
+        "1"
+      ]
+    },
+    {
+      "source": "yg71.html",
+      "file": "yg71.html",
+      "title": "隠密",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "探索技能【 隠密 】について"
+        ]
+      ],
+      "tables": {
+        "1": "data",
+        "2": "definitions-with-note",
+        "3": "definitions-with-note",
+        "0": "flow"
+      },
+      "data_tables": [
+        "1"
+      ]
+    },
+    {
+      "source": "yg72.html",
+      "file": "yg72.html",
+      "title": "俊敏",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "探索技能【 俊敏 】について"
+        ]
+      ],
+      "tables": {
+        "1": "data",
+        "2": "definitions-with-note",
+        "0": "flow"
+      },
+      "data_tables": [
+        "1"
+      ]
+    },
+    {
+      "source": "yg73.html",
+      "file": "yg73.html",
+      "title": "話術",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "探索技能【 話術 】について"
+        ]
+      ],
+      "tables": {
+        "1": "data",
+        "2": "definitions-with-note",
+        "3": "definitions-with-note",
+        "0": "flow"
+      },
+      "data_tables": [
+        "1"
+      ]
+    },
+    {
+      "source": "yg74.html",
+      "file": "yg74.html",
+      "title": "読心",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "探索技能【 読心 】について"
+        ]
+      ],
+      "tables": {
+        "1": "data",
+        "2": "definitions-with-note",
+        "0": "flow"
+      },
+      "data_tables": [
+        "1"
+      ]
+    },
+    {
+      "source": "yg75.html",
+      "file": "yg75.html",
+      "title": "閃き",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "探索技能【 閃き 】について"
+        ]
+      ],
+      "tables": {
+        "1": "data",
+        "0": "flow"
+      },
+      "data_tables": [
+        "1"
+      ]
+    },
+    {
+      "source": "yg76.html",
+      "file": "yg76.html",
+      "title": "幸運",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "探索技能【 幸運 】について"
+        ]
+      ],
+      "tables": {
+        "1": "definitions-with-note",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg77.html",
+      "file": "yg77.html",
+      "title": "能力精度",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "【 能力精度 】について"
+        ]
+      ],
+      "tables": {
+        "1": "definitions-with-note",
+        "2": "definitions-with-note",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg78.html",
+      "file": "yg78.html",
+      "title": "その他",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "その他の判定について"
+        ]
+      ],
+      "tables": {
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg79.html",
+      "file": "yg79.html",
+      "title": "特殊武装",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "⑬特殊武装を追加する。"
+        ],
+        [
+          "section-02",
+          "フレーバー武装【 アタッチメント 】"
+        ],
+        [
+          "section-10",
+          "アタッチメント"
+        ],
+        [
+          "section-03",
+          "一線を画す最強武装【 ロケットランチャー 】"
+        ],
+        [
+          "section-11",
+          "ロケットランチャー"
+        ],
+        [
+          "section-04",
+          "圧迫スペック【 ３ 】の特殊武装"
+        ],
+        [
+          "section-12",
+          "パイルバンカー"
+        ],
+        [
+          "section-13",
+          "荷電粒子砲"
+        ],
+        [
+          "section-14",
+          "手榴弾"
+        ],
+        [
+          "section-15",
+          "ドリル"
+        ],
+        [
+          "section-16",
+          "レールガン"
+        ],
+        [
+          "section-17",
+          "トラップボム"
+        ],
+        [
+          "section-05",
+          "圧迫スペック【 ２ 】の特殊武装"
+        ],
+        [
+          "section-18",
+          "高周波ブレード"
+        ],
+        [
+          "section-19",
+          "ブラスター"
+        ],
+        [
+          "section-20",
+          "火炎放射器"
+        ],
+        [
+          "section-21",
+          "電子ドラッグ"
+        ],
+        [
+          "section-22",
+          "フラッシュガン"
+        ],
+        [
+          "section-06",
+          "圧迫スペック【 １ 】の戦闘用特殊武装"
+        ],
+        [
+          "section-23",
+          "増強アンプル"
+        ],
+        [
+          "section-24",
+          "強化シナプス"
+        ],
+        [
+          "section-25",
+          "スタンガン"
+        ],
+        [
+          "section-26",
+          "ワイヤートラップ"
+        ],
+        [
+          "section-27",
+          "スモーク"
+        ],
+        [
+          "section-28",
+          "アーマー"
+        ],
+        [
+          "section-29",
+          "ブラックボックス"
+        ],
+        [
+          "section-07",
+          "圧迫スペック【 １ 】の無効化武装"
+        ],
+        [
+          "section-30",
+          "サイキックジャミング"
+        ],
+        [
+          "section-31",
+          "神経ジャマー"
+        ],
+        [
+          "section-32",
+          "トランスキャンセラー"
+        ],
+        [
+          "section-33",
+          "クリエイトノイザー"
+        ],
+        [
+          "section-08",
+          "圧迫スペック【 １ 】の探索武装"
+        ],
+        [
+          "section-09",
+          "パワードスーツ"
+        ],
+        [
+          "section-34",
+          "スキャンスコープ"
+        ],
+        [
+          "section-35",
+          "高感度センサー"
+        ],
+        [
+          "section-36",
+          "高演算電脳"
+        ],
+        [
+          "section-37",
+          "高性能マニピュレーター"
+        ],
+        [
+          "section-38",
+          "光学迷彩"
+        ],
+        [
+          "section-39",
+          "高出力ブースター"
+        ],
+        [
+          "section-40",
+          "心拍スカウター"
+        ]
+      ],
+      "tables": {
+        "2": "flow",
+        "4": "flow",
+        "3": "flow",
+        "1": "flow",
+        "6": "flow",
+        "5": "flow",
+        "8": "definitions",
+        "9": "flow",
+        "10": "flow",
+        "11": "flow",
+        "13": "flow",
+        "12": "flow",
+        "7": "catalogue",
+        "15": "flow",
+        "14": "flow",
+        "17": "definitions",
+        "18": "flow",
+        "19": "flow",
+        "20": "flow",
+        "22": "flow",
+        "21": "flow",
+        "16": "catalogue",
+        "24": "flow",
+        "23": "flow",
+        "26": "definitions",
+        "27": "flow",
+        "28": "flow",
+        "29": "flow",
+        "31": "flow",
+        "30": "flow",
+        "32": "definitions",
+        "33": "flow",
+        "34": "flow",
+        "35": "flow",
+        "37": "flow",
+        "36": "flow",
+        "38": "definitions",
+        "39": "flow",
+        "40": "flow",
+        "41": "flow",
+        "43": "flow",
+        "42": "flow",
+        "44": "definitions",
+        "45": "flow",
+        "46": "flow",
+        "48": "flow",
+        "47": "flow",
+        "49": "definitions",
+        "50": "flow",
+        "51": "flow",
+        "53": "flow",
+        "52": "flow",
+        "54": "definitions",
+        "55": "flow",
+        "56": "flow",
+        "57": "flow",
+        "59": "flow",
+        "58": "flow",
+        "25": "catalogue",
+        "61": "flow",
+        "60": "flow",
+        "63": "definitions",
+        "64": "flow",
+        "65": "flow",
+        "67": "flow",
+        "66": "flow",
+        "68": "definitions",
+        "69": "flow",
+        "70": "flow",
+        "72": "flow",
+        "71": "flow",
+        "73": "definitions",
+        "74": "flow",
+        "75": "flow",
+        "76": "flow",
+        "78": "flow",
+        "77": "flow",
+        "79": "definitions",
+        "80": "flow",
+        "81": "flow",
+        "83": "flow",
+        "82": "flow",
+        "84": "definitions",
+        "85": "flow",
+        "86": "flow",
+        "87": "flow",
+        "88": "data",
+        "90": "flow",
+        "89": "flow",
+        "62": "catalogue",
+        "92": "flow",
+        "91": "flow",
+        "94": "definitions",
+        "95": "flow",
+        "96": "flow",
+        "97": "flow",
+        "98": "flow",
+        "100": "flow",
+        "99": "flow",
+        "101": "definitions",
+        "102": "flow",
+        "103": "flow",
+        "104": "flow",
+        "105": "flow",
+        "107": "flow",
+        "106": "flow",
+        "108": "definitions",
+        "109": "flow",
+        "110": "flow",
+        "111": "flow",
+        "112": "data",
+        "113": "flow",
+        "115": "flow",
+        "114": "flow",
+        "116": "definitions",
+        "117": "flow",
+        "118": "flow",
+        "119": "flow",
+        "120": "data",
+        "121": "flow",
+        "123": "flow",
+        "122": "flow",
+        "124": "definitions",
+        "125": "flow",
+        "126": "flow",
+        "127": "flow",
+        "128": "data",
+        "130": "flow",
+        "129": "flow",
+        "131": "definitions",
+        "132": "flow",
+        "133": "flow",
+        "135": "flow",
+        "134": "flow",
+        "136": "definitions",
+        "137": "flow",
+        "138": "flow",
+        "140": "flow",
+        "139": "flow",
+        "93": "catalogue",
+        "142": "flow",
+        "141": "flow",
+        "144": "definitions",
+        "145": "flow",
+        "146": "flow",
+        "148": "flow",
+        "147": "flow",
+        "149": "definitions",
+        "150": "flow",
+        "151": "flow",
+        "153": "flow",
+        "152": "flow",
+        "154": "definitions",
+        "155": "flow",
+        "156": "flow",
+        "158": "flow",
+        "157": "flow",
+        "159": "definitions",
+        "160": "flow",
+        "161": "flow",
+        "163": "flow",
+        "162": "flow",
+        "143": "catalogue",
+        "165": "flow",
+        "164": "flow",
+        "167": "definitions",
+        "168": "flow",
+        "169": "flow",
+        "171": "flow",
+        "170": "flow",
+        "172": "definitions",
+        "173": "flow",
+        "174": "flow",
+        "176": "flow",
+        "175": "flow",
+        "177": "definitions",
+        "178": "flow",
+        "179": "flow",
+        "181": "flow",
+        "180": "flow",
+        "182": "definitions",
+        "183": "flow",
+        "184": "flow",
+        "186": "flow",
+        "185": "flow",
+        "187": "definitions",
+        "188": "flow",
+        "189": "flow",
+        "191": "flow",
+        "190": "flow",
+        "192": "definitions",
+        "193": "flow",
+        "194": "flow",
+        "196": "flow",
+        "195": "flow",
+        "197": "definitions",
+        "198": "flow",
+        "199": "flow",
+        "201": "flow",
+        "200": "flow",
+        "202": "definitions",
+        "203": "flow",
+        "204": "flow",
+        "206": "flow",
+        "205": "flow",
+        "166": "catalogue",
+        "0": "flow"
+      },
+      "data_tables": [
+        "88",
+        "112",
+        "120",
+        "128"
+      ]
+    },
+    {
+      "source": "yg80.html",
+      "file": "yg80.html",
+      "title": "ライフパス",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "②ライフパスを決定する。"
+        ]
+      ],
+      "tables": {
+        "1": "flow",
+        "2": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg82.html",
+      "file": "yg82.html",
+      "title": "Ｌ＆Ｌ表",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "Ｌ＆Ｌ表"
+        ],
+        [
+          "section-02",
+          "ダイス目【１】＊【能力】テーブル"
+        ],
+        [
+          "section-03",
+          "ダイス目【２】＊【過去】テーブル"
+        ],
+        [
+          "section-04",
+          "ダイス目【３】＊【境遇】テーブル"
+        ],
+        [
+          "section-05",
+          "ダイス目【４】＊【社会】テーブル"
+        ],
+        [
+          "section-06",
+          "ダイス目【５】＊【行動】テーブル"
+        ],
+        [
+          "section-07",
+          "ダイス目【６】＊【姿勢】テーブル"
+        ]
+      ],
+      "tables": {
+        "1": "flow",
+        "4": "flow",
+        "5": "data",
+        "6": "flow",
+        "7": "data",
+        "8": "flow",
+        "9": "data",
+        "10": "flow",
+        "11": "data",
+        "12": "flow",
+        "13": "data",
+        "14": "flow",
+        "15": "data",
+        "3": "flow",
+        "2": "flow",
+        "0": "flow"
+      },
+      "data_tables": [
+        "5",
+        "7",
+        "9",
+        "11",
+        "13",
+        "15"
+      ]
+    },
+    {
+      "source": "yg83.html",
+      "file": "yg83.html",
+      "title": "Ｓ＆Ｔ表",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "Ｓ＆Ｔ表"
+        ],
+        [
+          "section-02",
+          "【 テーブルＡ 】 ＜偶数＞"
+        ],
+        [
+          "section-03",
+          "ダイス目【１】＊【義】テーブル"
+        ],
+        [
+          "section-04",
+          "ダイス目【２】＊【性】テーブル"
+        ],
+        [
+          "section-05",
+          "ダイス目【３】＊【明】テーブル"
+        ],
+        [
+          "section-06",
+          "ダイス目【４】＊【柔】テーブル"
+        ],
+        [
+          "section-07",
+          "ダイス目【５】＊【動】テーブル"
+        ],
+        [
+          "section-08",
+          "ダイス目【６】＊【正】テーブル"
+        ],
+        [
+          "section-09",
+          "【 テーブルＢ 】 ＜奇数＞"
+        ],
+        [
+          "section-10",
+          "ダイス目【１】＊【信】テーブル"
+        ],
+        [
+          "section-11",
+          "ダイス目【２】＊【社】テーブル"
+        ],
+        [
+          "section-12",
+          "ダイス目【３】＊【暗】テーブル"
+        ],
+        [
+          "section-13",
+          "ダイス目【４】＊【剛】テーブル"
+        ],
+        [
+          "section-14",
+          "ダイス目【５】＊【静】テーブル"
+        ],
+        [
+          "section-15",
+          "ダイス目【６】＊【堕】テーブル"
+        ]
+      ],
+      "tables": {
+        "1": "flow",
+        "4": "flow",
+        "5": "data",
+        "6": "flow",
+        "7": "data",
+        "8": "flow",
+        "9": "data",
+        "10": "flow",
+        "11": "data",
+        "12": "flow",
+        "13": "data",
+        "14": "flow",
+        "15": "data",
+        "3": "headed-panel",
+        "17": "flow",
+        "18": "data",
+        "19": "flow",
+        "20": "data",
+        "21": "flow",
+        "22": "data",
+        "23": "flow",
+        "24": "data",
+        "25": "flow",
+        "26": "data",
+        "27": "flow",
+        "28": "data",
+        "16": "headed-panel",
+        "2": "flow",
+        "0": "flow"
+      },
+      "data_tables": [
+        "5",
+        "7",
+        "9",
+        "11",
+        "13",
+        "15",
+        "18",
+        "20",
+        "22",
+        "24",
+        "26",
+        "28"
+      ]
+    },
+    {
+      "source": "yg84.html",
+      "file": "yg84.html",
+      "title": "抑制ロール・暴走崩壊",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "抑制ロール"
+        ],
+        [
+          "section-02",
+          "暴走崩壊"
+        ]
+      ],
+      "tables": {
+        "1": "slash-definitions",
+        "3": "slash-definitions",
+        "4": "slash-definitions",
+        "5": "slash-definitions",
+        "6": "slash-definitions",
+        "7": "slash-definitions",
+        "8": "slash-definitions",
+        "9": "slash-definitions",
+        "10": "slash-definitions",
+        "11": "slash-definitions",
+        "12": "slash-definitions",
+        "13": "slash-definitions",
+        "2": "flow",
+        "15": "data",
+        "16": "data",
+        "14": "flow",
+        "0": "flow"
+      },
+      "data_tables": [
+        "15",
+        "16"
+      ]
+    },
+    {
+      "source": "yg86.html",
+      "file": "yg86.html",
+      "title": "プロフィールを作成",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "①プロフィールを決める。"
+        ]
+      ],
+      "tables": {
+        "1": "definitions",
+        "2": "data",
+        "3": "data",
+        "4": "data",
+        "5": "data",
+        "7": "flow",
+        "8": "definitions-with-note",
+        "9": "definitions-with-note",
+        "10": "definitions-with-note",
+        "11": "definitions-with-note",
+        "6": "flow",
+        "0": "flow"
+      },
+      "data_tables": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "source": "yg87.html",
+      "file": "yg87.html",
+      "title": "プレイの流れ",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "プレイの流れ"
+        ],
+        [
+          "section-02",
+          "キャラを作る → ●シナリオをプレイする"
+        ],
+        [
+          "section-03",
+          "ハンドアウト（HO）"
+        ],
+        [
+          "section-04",
+          "シーン制有無"
+        ],
+        [
+          "section-05",
+          "暴走チェック方式選択"
+        ],
+        [
+          "section-06",
+          "コンディション調整"
+        ],
+        [
+          "section-07",
+          "因子ダイス譲渡"
+        ]
+      ],
+      "tables": {
+        "2": "flow",
+        "3": "flow",
+        "4": "flow",
+        "5": "flow",
+        "8": "flow",
+        "7": "flow",
+        "6": "flow",
+        "11": "flow",
+        "10": "flow",
+        "13": "flow",
+        "12": "flow",
+        "9": "flow",
+        "14": "flow",
+        "15": "flow",
+        "18": "flow",
+        "17": "flow",
+        "16": "flow",
+        "19": "flow",
+        "20": "flow",
+        "21": "flow",
+        "22": "flow",
+        "23": "flow",
+        "24": "flow",
+        "27": "flow",
+        "26": "flow",
+        "25": "flow",
+        "28": "flow",
+        "29": "flow",
+        "30": "flow",
+        "31": "flow",
+        "1": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg88.html",
+      "file": "yg88.html",
+      "title": "バトル",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "バトルの流れ"
+        ],
+        [
+          "section-02",
+          "１ラウンドの流れ"
+        ],
+        [
+          "section-03",
+          "イニシアティブフェイズ"
+        ],
+        [
+          "section-04",
+          ""
+        ],
+        [
+          "section-05",
+          ""
+        ],
+        [
+          "section-06",
+          "アクションフェイズ"
+        ],
+        [
+          "section-07",
+          "プリアクション （宣言）"
+        ],
+        [
+          "section-08",
+          "リアクション （対抗）"
+        ],
+        [
+          "section-09",
+          "ＡＥ対抗"
+        ],
+        [
+          "section-10",
+          ""
+        ],
+        [
+          "section-11",
+          "アクション （判定）"
+        ],
+        [
+          "section-12",
+          "命中回避判定"
+        ],
+        [
+          "section-13",
+          "ダメージ処理"
+        ],
+        [
+          "section-14",
+          ""
+        ],
+        [
+          "section-15",
+          "ポストアクション （結果）"
+        ],
+        [
+          "section-16",
+          ""
+        ],
+        [
+          "section-17",
+          ""
+        ],
+        [
+          "section-18",
+          "エンドフェイズ"
+        ],
+        [
+          "section-19",
+          "ＰＰの大量消費などで臨界ロールなど複数回必要になった時"
+        ]
+      ],
+      "tables": {
+        "2": "flow",
+        "1": "headed-panel",
+        "3": "headed-panel",
+        "5": "definitions",
+        "8": "flow",
+        "7": "headed-panel",
+        "10": "headed-panel",
+        "9": "headed-panel",
+        "6": "flow",
+        "14": "definitions",
+        "13": "headed-panel",
+        "16": "slash-definitions",
+        "15": "headed-panel",
+        "19": "definitions",
+        "18": "flow",
+        "20": "flow",
+        "21": "flow",
+        "22": "flow",
+        "23": "flow",
+        "17": "flow",
+        "12": "headed-panel",
+        "11": "flow",
+        "26": "flow",
+        "25": "headed-panel",
+        "24": "flow",
+        "4": "headed-panel",
+        "28": "slash-definitions",
+        "29": "headed-panel",
+        "27": "headed-panel",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg89.html",
+      "file": "yg89.html",
+      "title": "暴走システム",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "暴走システムについて"
+        ],
+        [
+          "section-02",
+          "暴走チェック方式"
+        ],
+        [
+          "section-03",
+          "暴走＆活性"
+        ]
+      ],
+      "tables": {
+        "2": "flow",
+        "1": "headed-panel",
+        "4": "definitions-with-note",
+        "6": "slash-definitions",
+        "8": "flow",
+        "7": "slash-definitions",
+        "9": "slash-definitions",
+        "5": "data",
+        "3": "headed-panel",
+        "0": "flow"
+      },
+      "data_tables": [
+        "5"
+      ]
+    },
+    {
+      "source": "yg90.html",
+      "file": "yg90.html",
+      "title": "バースト",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "バーストシステム"
+        ],
+        [
+          "section-02",
+          "復活バースト / 因子ダイス－３"
+        ],
+        [
+          "section-03",
+          "ダメージバースト / 因子ダイス－２"
+        ],
+        [
+          "section-04",
+          "抑制バースト / 因子ダイス－２"
+        ],
+        [
+          "section-05",
+          "発動バースト / 因子ダイス－１"
+        ],
+        [
+          "section-06",
+          "暴走バースト / 因子ダイス－１"
+        ],
+        [
+          "section-07",
+          "解除バースト / 因子ダイス－１"
+        ],
+        [
+          "section-08",
+          "判定バースト / 因子ダイス－１"
+        ],
+        [
+          "section-09",
+          "連携バースト / 因子ダイス－１"
+        ],
+        [
+          "section-10",
+          "回復バースト / 因子ダイス－１"
+        ]
+      ],
+      "tables": {
+        "3": "headed-panel",
+        "4": "headed-panel",
+        "5": "headed-panel",
+        "6": "headed-panel",
+        "7": "headed-panel",
+        "8": "headed-panel",
+        "9": "headed-panel",
+        "10": "headed-panel",
+        "2": "flow",
+        "1": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg91.html",
+      "file": "yg91.html",
+      "title": "ルールサマリー",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "プレイルールサマリー"
+        ],
+        [
+          "section-02",
+          "探索技能"
+        ],
+        [
+          "section-03",
+          "派生判定"
+        ],
+        [
+          "section-04",
+          "技能目安"
+        ],
+        [
+          "section-05",
+          "判定を補正するＡＥ"
+        ],
+        [
+          "section-06",
+          "バトルの流れ"
+        ],
+        [
+          "section-07",
+          "ＨＰゼロ以下時【 瀕死状態＆即死状態 】"
+        ],
+        [
+          "section-08",
+          "ＰＰゼロ時【 疲労状態 】"
+        ],
+        [
+          "section-09",
+          "気絶時【 気絶状態 】"
+        ],
+        [
+          "section-10",
+          "バースト一覧"
+        ],
+        [
+          "section-11",
+          "回復方法"
+        ],
+        [
+          "section-12",
+          "因子ダイス取得方法"
+        ],
+        [
+          "section-13",
+          "次回セッション・持ち越し要素"
+        ],
+        [
+          "section-14",
+          "暴走＆活性"
+        ]
+      ],
+      "tables": {
+        "4": "data",
+        "3": "flow",
+        "5": "flow",
+        "6": "flow",
+        "7": "flow",
+        "8": "flow",
+        "9": "flow",
+        "10": "flow",
+        "11": "flow",
+        "12": "flow",
+        "13": "flow",
+        "14": "flow",
+        "15": "flow",
+        "16": "flow",
+        "17": "flow",
+        "18": "flow",
+        "19": "flow",
+        "20": "flow",
+        "21": "flow",
+        "22": "flow",
+        "23": "flow",
+        "24": "data",
+        "25": "flow",
+        "26": "flow",
+        "27": "flow",
+        "28": "flow",
+        "29": "flow",
+        "30": "flow",
+        "32": "flow",
+        "31": "flow",
+        "33": "flow",
+        "34": "flow",
+        "35": "flow",
+        "36": "flow",
+        "37": "flow",
+        "38": "flow",
+        "39": "flow",
+        "40": "flow",
+        "41": "flow",
+        "42": "flow",
+        "43": "flow",
+        "44": "flow",
+        "45": "flow",
+        "46": "flow",
+        "47": "flow",
+        "48": "flow",
+        "49": "flow",
+        "50": "flow",
+        "51": "flow",
+        "52": "flow",
+        "53": "flow",
+        "55": "definitions",
+        "54": "flow",
+        "57": "slash-definitions",
+        "56": "flow",
+        "58": "flow",
+        "59": "flow",
+        "60": "flow",
+        "62": "flow",
+        "63": "flow",
+        "64": "flow",
+        "61": "flow",
+        "65": "flow",
+        "67": "definitions",
+        "66": "flow",
+        "2": "section-columns",
+        "1": "flow",
+        "69": "definitions-with-note",
+        "71": "data",
+        "73": "slash-definitions",
+        "72": "data",
+        "74": "data",
+        "70": "data",
+        "68": "headed-panel",
+        "0": "flow"
+      },
+      "data_tables": [
+        "4",
+        "24",
+        "70",
+        "71",
+        "72",
+        "74"
+      ]
+    },
+    {
+      "source": "yg92.html",
+      "file": "yg92.html",
+      "title": "カルマ",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "カルマ一覧"
+        ],
+        [
+          "section-02",
+          "カルマとは"
+        ],
+        [
+          "section-03",
+          "特殊カルマ【昇華者】"
+        ],
+        [
+          "section-04",
+          "昇華者"
+        ],
+        [
+          "section-05",
+          "スタートカルマ"
+        ],
+        [
+          "section-06",
+          "駆け出し"
+        ],
+        [
+          "section-07",
+          "新鋭"
+        ],
+        [
+          "section-08",
+          "初心"
+        ],
+        [
+          "section-09",
+          "伏兵"
+        ],
+        [
+          "section-10",
+          "失敗談"
+        ],
+        [
+          "section-11",
+          "クリアカルマ"
+        ],
+        [
+          "section-12",
+          "クリア条件によって取得できるカルマ"
+        ],
+        [
+          "section-13",
+          "調律者"
+        ],
+        [
+          "section-14",
+          "崩壊者"
+        ],
+        [
+          "section-15",
+          "喪失者"
+        ],
+        [
+          "section-16",
+          "突然変異"
+        ],
+        [
+          "section-17",
+          "覚醒者"
+        ],
+        [
+          "section-18",
+          "探索者"
+        ],
+        [
+          "section-19",
+          "修羅"
+        ],
+        [
+          "section-20",
+          "寵愛"
+        ],
+        [
+          "section-21",
+          "英雄"
+        ],
+        [
+          "section-22",
+          "凡骨"
+        ],
+        [
+          "section-23",
+          "ルール条件によって取得できるカルマ"
+        ],
+        [
+          "section-24",
+          "殺し屋"
+        ],
+        [
+          "section-25",
+          "武器屋"
+        ],
+        [
+          "section-26",
+          "守護者"
+        ],
+        [
+          "section-27",
+          "反撃者"
+        ],
+        [
+          "section-28",
+          "影の者"
+        ],
+        [
+          "section-29",
+          "癒し手"
+        ],
+        [
+          "section-30",
+          "使役者"
+        ],
+        [
+          "section-31",
+          "不幸"
+        ],
+        [
+          "section-32",
+          "抗体"
+        ],
+        [
+          "section-33",
+          "愚者"
+        ],
+        [
+          "section-34",
+          "不死身"
+        ],
+        [
+          "section-35",
+          "奉仕者"
+        ],
+        [
+          "section-36",
+          "闇商人"
+        ],
+        [
+          "section-37",
+          "破壊者"
+        ],
+        [
+          "section-38",
+          "職人"
+        ],
+        [
+          "section-39",
+          "鷹の目"
+        ],
+        [
+          "section-40",
+          "幻影"
+        ],
+        [
+          "section-41",
+          "無血開城"
+        ],
+        [
+          "section-42",
+          "人外"
+        ],
+        [
+          "section-43",
+          "希少種"
+        ],
+        [
+          "section-44",
+          "ＲＰ・行動条件によって取得できるカルマ"
+        ],
+        [
+          "section-45",
+          "勇猛"
+        ],
+        [
+          "section-46",
+          "魔性"
+        ],
+        [
+          "section-47",
+          "下心"
+        ],
+        [
+          "section-48",
+          "献身"
+        ],
+        [
+          "section-49",
+          "孤高"
+        ],
+        [
+          "section-50",
+          "恋愛"
+        ],
+        [
+          "section-51",
+          "交渉人"
+        ],
+        [
+          "section-52",
+          "二枚舌"
+        ],
+        [
+          "section-53",
+          "魔術師"
+        ],
+        [
+          "section-54",
+          "道化師"
+        ],
+        [
+          "section-55",
+          "狂人"
+        ],
+        [
+          "section-56",
+          "風雲児"
+        ],
+        [
+          "section-57",
+          "無頼漢"
+        ],
+        [
+          "section-58",
+          "小心翼翼"
+        ],
+        [
+          "section-59",
+          "芸人"
+        ],
+        [
+          "section-60",
+          "泥酔"
+        ],
+        [
+          "section-61",
+          "自己愛"
+        ],
+        [
+          "section-62",
+          "演技派"
+        ],
+        [
+          "section-63",
+          "中二病"
+        ],
+        [
+          "section-64",
+          "ダイスの 女神様"
+        ]
+      ],
+      "tables": {
+        "2": "flow",
+        "4": "flow",
+        "3": "flow",
+        "1": "flow",
+        "6": "flow",
+        "5": "flow",
+        "8": "definitions",
+        "9": "flow",
+        "10": "flow",
+        "12": "flow",
+        "11": "flow",
+        "7": "catalogue",
+        "14": "flow",
+        "13": "flow",
+        "16": "definitions",
+        "17": "flow",
+        "18": "flow",
+        "20": "flow",
+        "19": "flow",
+        "21": "definitions",
+        "22": "flow",
+        "23": "flow",
+        "25": "flow",
+        "24": "flow",
+        "26": "definitions",
+        "27": "flow",
+        "28": "flow",
+        "30": "flow",
+        "29": "flow",
+        "31": "definitions",
+        "32": "flow",
+        "33": "flow",
+        "35": "flow",
+        "34": "flow",
+        "36": "definitions",
+        "37": "flow",
+        "38": "flow",
+        "40": "flow",
+        "39": "flow",
+        "15": "catalogue",
+        "42": "flow",
+        "41": "flow",
+        "43": "flow",
+        "45": "definitions",
+        "46": "flow",
+        "47": "flow",
+        "49": "flow",
+        "48": "flow",
+        "50": "definitions",
+        "51": "flow",
+        "52": "flow",
+        "54": "flow",
+        "53": "flow",
+        "55": "definitions",
+        "56": "flow",
+        "57": "flow",
+        "59": "flow",
+        "58": "flow",
+        "60": "definitions",
+        "61": "flow",
+        "62": "flow",
+        "64": "flow",
+        "63": "flow",
+        "65": "definitions",
+        "66": "flow",
+        "67": "flow",
+        "69": "flow",
+        "68": "flow",
+        "70": "definitions",
+        "71": "flow",
+        "72": "flow",
+        "74": "flow",
+        "73": "flow",
+        "75": "definitions",
+        "76": "flow",
+        "77": "flow",
+        "79": "flow",
+        "78": "flow",
+        "80": "definitions",
+        "81": "flow",
+        "82": "flow",
+        "84": "flow",
+        "83": "flow",
+        "85": "definitions",
+        "86": "flow",
+        "87": "flow",
+        "89": "flow",
+        "88": "flow",
+        "90": "definitions",
+        "91": "flow",
+        "92": "flow",
+        "94": "flow",
+        "93": "flow",
+        "44": "catalogue",
+        "95": "flow",
+        "97": "definitions",
+        "98": "flow",
+        "99": "flow",
+        "101": "flow",
+        "100": "flow",
+        "102": "definitions",
+        "103": "flow",
+        "104": "flow",
+        "106": "flow",
+        "105": "flow",
+        "107": "definitions",
+        "108": "flow",
+        "109": "flow",
+        "111": "flow",
+        "110": "flow",
+        "112": "definitions",
+        "113": "flow",
+        "114": "flow",
+        "116": "flow",
+        "115": "flow",
+        "117": "definitions",
+        "118": "flow",
+        "119": "flow",
+        "121": "flow",
+        "120": "flow",
+        "122": "definitions",
+        "123": "flow",
+        "124": "flow",
+        "126": "flow",
+        "125": "flow",
+        "127": "definitions",
+        "128": "flow",
+        "129": "flow",
+        "131": "flow",
+        "130": "flow",
+        "132": "definitions",
+        "133": "flow",
+        "134": "flow",
+        "136": "flow",
+        "135": "flow",
+        "137": "definitions",
+        "138": "flow",
+        "139": "flow",
+        "141": "flow",
+        "140": "flow",
+        "142": "definitions",
+        "143": "flow",
+        "144": "flow",
+        "146": "flow",
+        "145": "flow",
+        "147": "definitions",
+        "148": "flow",
+        "149": "flow",
+        "151": "flow",
+        "150": "flow",
+        "152": "definitions",
+        "153": "flow",
+        "154": "flow",
+        "156": "flow",
+        "155": "flow",
+        "157": "definitions",
+        "158": "flow",
+        "159": "flow",
+        "161": "flow",
+        "160": "flow",
+        "162": "definitions",
+        "163": "flow",
+        "164": "flow",
+        "166": "flow",
+        "165": "flow",
+        "167": "definitions",
+        "168": "flow",
+        "169": "flow",
+        "171": "flow",
+        "170": "flow",
+        "172": "definitions",
+        "173": "flow",
+        "174": "flow",
+        "176": "flow",
+        "175": "flow",
+        "177": "definitions",
+        "178": "flow",
+        "179": "flow",
+        "181": "flow",
+        "180": "flow",
+        "182": "definitions",
+        "183": "flow",
+        "184": "flow",
+        "186": "flow",
+        "185": "flow",
+        "187": "definitions",
+        "188": "flow",
+        "189": "flow",
+        "191": "flow",
+        "190": "flow",
+        "192": "definitions",
+        "193": "flow",
+        "194": "flow",
+        "196": "flow",
+        "195": "flow",
+        "96": "catalogue",
+        "197": "flow",
+        "199": "definitions",
+        "200": "flow",
+        "201": "flow",
+        "203": "flow",
+        "202": "flow",
+        "204": "definitions",
+        "205": "flow",
+        "206": "flow",
+        "208": "flow",
+        "207": "flow",
+        "209": "definitions",
+        "210": "flow",
+        "211": "flow",
+        "213": "flow",
+        "212": "flow",
+        "214": "definitions",
+        "215": "flow",
+        "216": "flow",
+        "218": "flow",
+        "217": "flow",
+        "219": "definitions",
+        "220": "flow",
+        "221": "flow",
+        "223": "flow",
+        "222": "flow",
+        "224": "definitions",
+        "225": "flow",
+        "226": "flow",
+        "228": "flow",
+        "227": "flow",
+        "229": "definitions",
+        "230": "flow",
+        "231": "flow",
+        "233": "flow",
+        "232": "flow",
+        "234": "definitions",
+        "235": "flow",
+        "236": "flow",
+        "238": "flow",
+        "237": "flow",
+        "239": "definitions",
+        "240": "flow",
+        "241": "flow",
+        "243": "flow",
+        "242": "flow",
+        "244": "definitions",
+        "245": "flow",
+        "246": "flow",
+        "248": "flow",
+        "247": "flow",
+        "249": "definitions",
+        "250": "flow",
+        "251": "flow",
+        "253": "flow",
+        "252": "flow",
+        "254": "definitions",
+        "255": "flow",
+        "256": "flow",
+        "258": "flow",
+        "257": "flow",
+        "259": "definitions",
+        "260": "flow",
+        "261": "flow",
+        "263": "flow",
+        "262": "flow",
+        "264": "definitions",
+        "265": "flow",
+        "266": "flow",
+        "268": "flow",
+        "267": "flow",
+        "269": "definitions",
+        "270": "flow",
+        "271": "flow",
+        "273": "flow",
+        "272": "flow",
+        "274": "definitions",
+        "275": "flow",
+        "276": "flow",
+        "278": "flow",
+        "277": "flow",
+        "279": "definitions",
+        "280": "flow",
+        "281": "flow",
+        "283": "flow",
+        "282": "flow",
+        "284": "definitions",
+        "285": "flow",
+        "286": "flow",
+        "288": "flow",
+        "287": "flow",
+        "289": "definitions",
+        "290": "flow",
+        "291": "flow",
+        "293": "flow",
+        "292": "flow",
+        "294": "definitions",
+        "295": "flow",
+        "296": "flow",
+        "298": "flow",
+        "297": "flow",
+        "198": "catalogue",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg93.html",
+      "file": "yg93.html",
+      "title": "発動系統",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "発動系統一覧"
+        ],
+        [
+          "section-02",
+          "攻撃発動"
+        ],
+        [
+          "section-03",
+          "精神発動"
+        ],
+        [
+          "section-04",
+          "防御発動"
+        ],
+        [
+          "section-05",
+          "付加発動"
+        ],
+        [
+          "section-06",
+          "行為発動"
+        ],
+        [
+          "section-07",
+          "サブエフェクト（ＳＥ）"
+        ],
+        [
+          "section-08",
+          "【ＡＥ】重撃"
+        ]
+      ],
+      "tables": {
+        "2": "definitions",
+        "4": "definitions",
+        "3": "definitions",
+        "1": "headed-columns",
+        "6": "definitions",
+        "8": "definitions",
+        "9": "definitions",
+        "7": "definitions",
+        "5": "headed-columns",
+        "12": "definitions",
+        "11": "definitions",
+        "14": "definitions",
+        "13": "definitions",
+        "10": "headed-columns",
+        "16": "definitions",
+        "17": "definitions",
+        "15": "headed-columns",
+        "19": "definitions",
+        "21": "definitions",
+        "20": "definitions",
+        "18": "headed-columns",
+        "22": "headed-panel",
+        "24": "definitions",
+        "26": "definitions",
+        "27": "definitions",
+        "25": "definitions",
+        "23": "headed-columns",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg94.html",
+      "file": "yg94.html",
+      "title": "クリア処理・暴走崩壊",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "クリア処理"
+        ],
+        [
+          "section-02",
+          "因子ダイス報酬"
+        ],
+        [
+          "section-03",
+          "抑制ロール"
+        ],
+        [
+          "section-08",
+          "抑制ロール前"
+        ],
+        [
+          "section-09",
+          "抑制ロール実行"
+        ],
+        [
+          "section-10",
+          "因子ダイスのマイナス時"
+        ],
+        [
+          "section-11",
+          "次回セッション影響"
+        ],
+        [
+          "section-04",
+          "カルマ取得"
+        ],
+        [
+          "section-05",
+          "アイテム購入"
+        ],
+        [
+          "section-06",
+          "後日談・アフタープレイ"
+        ],
+        [
+          "section-07",
+          "暴走崩壊"
+        ],
+        [
+          "section-12",
+          "後遺症"
+        ],
+        [
+          "section-13",
+          "崩壊深度"
+        ],
+        [
+          "section-14",
+          "後遺症と崩壊深度の回復"
+        ],
+        [
+          "section-15",
+          "因子変化"
+        ]
+      ],
+      "tables": {
+        "2": "flow",
+        "1": "flow",
+        "3": "definitions",
+        "5": "flow",
+        "4": "flow",
+        "7": "flow",
+        "8": "flow",
+        "9": "definitions",
+        "10": "flow",
+        "11": "flow",
+        "12": "definitions",
+        "6": "flow",
+        "14": "flow",
+        "13": "flow",
+        "16": "flow",
+        "15": "flow",
+        "18": "flow",
+        "17": "flow",
+        "20": "flow",
+        "21": "flow",
+        "22": "data",
+        "23": "flow",
+        "24": "flow",
+        "25": "flow",
+        "26": "data",
+        "27": "definitions",
+        "19": "flow",
+        "0": "flow"
+      },
+      "data_tables": [
+        "22",
+        "26"
+      ]
+    },
+    {
+      "source": "yg95.html",
+      "file": "yg95.html",
+      "title": "スタートカルマ",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "⑭スタートカルマを決定する。"
+        ],
+        [
+          "section-02",
+          "カルマ"
+        ],
+        [
+          "section-03",
+          "スタートカルマ"
+        ],
+        [
+          "section-04",
+          "駆け出し 【ルーキー】"
+        ],
+        [
+          "section-05",
+          "新鋭 【ニューフェイス】"
+        ],
+        [
+          "section-06",
+          "初心 【ビギナーズラック】"
+        ],
+        [
+          "section-07",
+          "失敗談 【ミステイク】"
+        ],
+        [
+          "section-08",
+          "伏兵 【ダークホース】"
+        ]
+      ],
+      "tables": {
+        "2": "flow",
+        "3": "flow",
+        "4": "flow",
+        "6": "slash-definitions",
+        "7": "slash-definitions",
+        "8": "slash-definitions",
+        "9": "slash-definitions",
+        "10": "slash-definitions",
+        "5": "catalogue",
+        "1": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg97.html",
+      "file": "yg97.html",
+      "title": "コラム3：防御発動の堅さは世界一ぃ！",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "ユグドラシルコラム"
+        ]
+      ],
+      "tables": {
+        "3": "flow",
+        "2": "dialogue",
+        "5": "flow",
+        "4": "dialogue",
+        "7": "flow",
+        "6": "dialogue",
+        "9": "flow",
+        "8": "dialogue",
+        "11": "flow",
+        "10": "dialogue",
+        "13": "flow",
+        "12": "dialogue",
+        "15": "flow",
+        "14": "dialogue",
+        "17": "flow",
+        "16": "dialogue",
+        "19": "flow",
+        "18": "dialogue",
+        "21": "flow",
+        "20": "dialogue",
+        "23": "flow",
+        "22": "dialogue",
+        "25": "flow",
+        "24": "dialogue",
+        "27": "flow",
+        "26": "dialogue",
+        "29": "flow",
+        "28": "dialogue",
+        "31": "flow",
+        "30": "dialogue",
+        "33": "flow",
+        "32": "dialogue",
+        "35": "flow",
+        "34": "dialogue",
+        "37": "flow",
+        "36": "dialogue",
+        "39": "flow",
+        "38": "dialogue",
+        "41": "flow",
+        "40": "dialogue",
+        "43": "flow",
+        "42": "dialogue",
+        "45": "flow",
+        "44": "dialogue",
+        "47": "flow",
+        "46": "dialogue",
+        "49": "flow",
+        "48": "dialogue",
+        "51": "flow",
+        "50": "dialogue",
+        "53": "flow",
+        "52": "dialogue",
+        "55": "flow",
+        "54": "dialogue",
+        "57": "flow",
+        "56": "dialogue",
+        "59": "flow",
+        "58": "dialogue",
+        "61": "flow",
+        "60": "dialogue",
+        "63": "flow",
+        "62": "dialogue",
+        "65": "flow",
+        "64": "dialogue",
+        "67": "flow",
+        "66": "dialogue",
+        "69": "flow",
+        "68": "dialogue",
+        "71": "flow",
+        "70": "dialogue",
+        "73": "flow",
+        "72": "dialogue",
+        "75": "flow",
+        "74": "dialogue",
+        "77": "flow",
+        "76": "dialogue",
+        "79": "flow",
+        "78": "dialogue",
+        "81": "flow",
+        "80": "dialogue",
+        "83": "flow",
+        "82": "dialogue",
+        "1": "flow",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg98.html",
+      "file": "yg98.html",
+      "title": "グレイプニル",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "治安維持部隊【 グレイプニル 】"
+        ],
+        [
+          "section-02",
+          "ソール"
+        ]
+      ],
+      "tables": {
+        "1": "portraits",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "yg99.html",
+      "file": "yg99.html",
+      "title": "ニーベルング",
+      "kind": "content",
+      "toc": [
+        [
+          "section-01",
+          "広報部【 ニーベルング 】"
+        ],
+        [
+          "section-02",
+          "ファニー"
+        ]
+      ],
+      "tables": {
+        "1": "portraits",
+        "0": "flow"
+      },
+      "data_tables": []
+    },
+    {
+      "source": "ygplay.html",
+      "file": "ygplay.html",
+      "title": "プレイルールの入口",
+      "kind": "frame-index",
+      "menu_source": "yg137.html",
+      "frame_destinations": [
+        "yg137.html",
+        "yg138.html"
+      ]
+    },
+    {
+      "source": "ygrp01.html",
+      "file": "ygrp01.html",
+      "title": "無限の住人・目次",
+      "kind": "frame-index",
+      "menu_source": "yg129.html",
+      "frame_destinations": [
+        "yg129.html",
+        "yg125.html"
+      ]
+    },
+    {
+      "source": null,
+      "file": "chapter-ability.html",
+      "title": "能力・効果",
+      "kind": "chapter-index"
+    },
+    {
+      "source": null,
+      "file": "chapter-skills.html",
+      "title": "探索技能",
+      "kind": "chapter-index"
+    },
+    {
+      "source": null,
+      "file": "chapter-readings.html",
+      "title": "コラム・リプレイ",
+      "kind": "chapter-index"
+    },
+    {
+      "source": null,
+      "file": "chapter-resources.html",
+      "title": "素材・更新履歴",
+      "kind": "chapter-index"
+    }
+  ],
+  "asset_repairs": [],
+  "missing_assets": [],
+  "table_fallbacks": [],
+  "browser_testing": "Not requested; static content, links, cells and archive integrity are verified.",
+  "navigation": {
+    "contents.html": {
+      "parent": "contents.html",
+      "children": [],
+      "ancestors": []
+    },
+    "chapter-ability.html": {
+      "parent": "contents.html",
+      "children": [
+        "effects.html",
+        "yg93.html",
+        "yg31.html",
+        "yg56.html",
+        "yg35.html",
+        "yg32.html",
+        "yg79.html",
+        "yg92.html",
+        "yg124.html",
+        "yg123.html",
+        "yg142.html",
+        "yg119.html",
+        "yg114.html"
+      ],
+      "ancestors": []
+    },
+    "effects.html": {
+      "parent": "chapter-ability.html",
+      "children": [],
+      "ancestors": [
+        "chapter-ability.html"
+      ]
+    },
+    "yg93.html": {
+      "parent": "chapter-ability.html",
+      "children": [],
+      "ancestors": [
+        "chapter-ability.html"
+      ]
+    },
+    "yg31.html": {
+      "parent": "chapter-ability.html",
+      "children": [
+        "yg115.html",
+        "yg102.html"
+      ],
+      "ancestors": [
+        "chapter-ability.html"
+      ]
+    },
+    "yg115.html": {
+      "parent": "yg31.html",
+      "children": [],
+      "ancestors": [
+        "chapter-ability.html",
+        "yg31.html"
+      ]
+    },
+    "yg102.html": {
+      "parent": "yg31.html",
+      "children": [],
+      "ancestors": [
+        "chapter-ability.html",
+        "yg31.html"
+      ]
+    },
+    "yg56.html": {
+      "parent": "chapter-ability.html",
+      "children": [
+        "yg64.html"
+      ],
+      "ancestors": [
+        "chapter-ability.html"
+      ]
+    },
+    "yg64.html": {
+      "parent": "yg56.html",
+      "children": [],
+      "ancestors": [
+        "chapter-ability.html",
+        "yg56.html"
+      ]
+    },
+    "yg35.html": {
+      "parent": "chapter-ability.html",
+      "children": [],
+      "ancestors": [
+        "chapter-ability.html"
+      ]
+    },
+    "yg32.html": {
+      "parent": "chapter-ability.html",
+      "children": [],
+      "ancestors": [
+        "chapter-ability.html"
+      ]
+    },
+    "yg79.html": {
+      "parent": "chapter-ability.html",
+      "children": [],
+      "ancestors": [
+        "chapter-ability.html"
+      ]
+    },
+    "yg92.html": {
+      "parent": "chapter-ability.html",
+      "children": [],
+      "ancestors": [
+        "chapter-ability.html"
+      ]
+    },
+    "yg124.html": {
+      "parent": "chapter-ability.html",
+      "children": [],
+      "ancestors": [
+        "chapter-ability.html"
+      ]
+    },
+    "yg123.html": {
+      "parent": "chapter-ability.html",
+      "children": [],
+      "ancestors": [
+        "chapter-ability.html"
+      ]
+    },
+    "yg142.html": {
+      "parent": "chapter-ability.html",
+      "children": [],
+      "ancestors": [
+        "chapter-ability.html"
+      ]
+    },
+    "yg119.html": {
+      "parent": "chapter-ability.html",
+      "children": [
+        "yg24.html"
+      ],
+      "ancestors": [
+        "chapter-ability.html"
+      ]
+    },
+    "yg24.html": {
+      "parent": "yg119.html",
+      "children": [],
+      "ancestors": [
+        "chapter-ability.html",
+        "yg119.html"
+      ]
+    },
+    "yg114.html": {
+      "parent": "chapter-ability.html",
+      "children": [],
+      "ancestors": [
+        "chapter-ability.html"
+      ]
+    },
+    "ygplay.html": {
+      "parent": "contents.html",
+      "children": [
+        "yg91.html",
+        "index.html",
+        "yg139.html",
+        "yg87.html",
+        "yg138.html",
+        "yg89.html",
+        "yg90.html",
+        "yg122.html",
+        "yg94.html",
+        "yg82.html",
+        "yg83.html",
+        "yg120.html"
+      ],
+      "ancestors": []
+    },
+    "yg91.html": {
+      "parent": "ygplay.html",
+      "children": [],
+      "ancestors": [
+        "ygplay.html"
+      ]
+    },
+    "index.html": {
+      "parent": "ygplay.html",
+      "children": [],
+      "ancestors": [
+        "ygplay.html"
+      ]
+    },
+    "yg139.html": {
+      "parent": "ygplay.html",
+      "children": [],
+      "ancestors": [
+        "ygplay.html"
+      ]
+    },
+    "yg87.html": {
+      "parent": "ygplay.html",
+      "children": [
+        "yg140.html",
+        "yg88.html"
+      ],
+      "ancestors": [
+        "ygplay.html"
+      ]
+    },
+    "yg140.html": {
+      "parent": "yg87.html",
+      "children": [],
+      "ancestors": [
+        "ygplay.html",
+        "yg87.html"
+      ]
+    },
+    "yg88.html": {
+      "parent": "yg87.html",
+      "children": [],
+      "ancestors": [
+        "ygplay.html",
+        "yg87.html"
+      ]
+    },
+    "yg138.html": {
+      "parent": "ygplay.html",
+      "children": [],
+      "ancestors": [
+        "ygplay.html"
+      ]
+    },
+    "yg89.html": {
+      "parent": "ygplay.html",
+      "children": [
+        "yg45.html",
+        "yg46.html",
+        "yg63.html"
+      ],
+      "ancestors": [
+        "ygplay.html"
+      ]
+    },
+    "yg45.html": {
+      "parent": "yg89.html",
+      "children": [],
+      "ancestors": [
+        "ygplay.html",
+        "yg89.html"
+      ]
+    },
+    "yg46.html": {
+      "parent": "yg89.html",
+      "children": [],
+      "ancestors": [
+        "ygplay.html",
+        "yg89.html"
+      ]
+    },
+    "yg63.html": {
+      "parent": "yg89.html",
+      "children": [],
+      "ancestors": [
+        "ygplay.html",
+        "yg89.html"
+      ]
+    },
+    "yg90.html": {
+      "parent": "ygplay.html",
+      "children": [],
+      "ancestors": [
+        "ygplay.html"
+      ]
+    },
+    "yg122.html": {
+      "parent": "ygplay.html",
+      "children": [],
+      "ancestors": [
+        "ygplay.html"
+      ]
+    },
+    "yg94.html": {
+      "parent": "ygplay.html",
+      "children": [
+        "yg84.html"
+      ],
+      "ancestors": [
+        "ygplay.html"
+      ]
+    },
+    "yg84.html": {
+      "parent": "yg94.html",
+      "children": [],
+      "ancestors": [
+        "ygplay.html",
+        "yg94.html"
+      ]
+    },
+    "yg82.html": {
+      "parent": "ygplay.html",
+      "children": [],
+      "ancestors": [
+        "ygplay.html"
+      ]
+    },
+    "yg83.html": {
+      "parent": "ygplay.html",
+      "children": [],
+      "ancestors": [
+        "ygplay.html"
+      ]
+    },
+    "yg120.html": {
+      "parent": "ygplay.html",
+      "children": [
+        "yg121.html"
+      ],
+      "ancestors": [
+        "ygplay.html"
+      ]
+    },
+    "yg121.html": {
+      "parent": "yg120.html",
+      "children": [],
+      "ancestors": [
+        "ygplay.html",
+        "yg120.html"
+      ]
+    },
+    "chapter-skills.html": {
+      "parent": "contents.html",
+      "children": [
+        "yg65.html",
+        "yg66.html",
+        "yg67.html",
+        "yg68.html",
+        "yg69.html",
+        "yg70.html",
+        "yg71.html",
+        "yg72.html",
+        "yg73.html",
+        "yg74.html",
+        "yg75.html",
+        "yg76.html",
+        "yg77.html",
+        "yg78.html"
+      ],
+      "ancestors": []
+    },
+    "yg65.html": {
+      "parent": "chapter-skills.html",
+      "children": [],
+      "ancestors": [
+        "chapter-skills.html"
+      ]
+    },
+    "yg66.html": {
+      "parent": "chapter-skills.html",
+      "children": [],
+      "ancestors": [
+        "chapter-skills.html"
+      ]
+    },
+    "yg67.html": {
+      "parent": "chapter-skills.html",
+      "children": [],
+      "ancestors": [
+        "chapter-skills.html"
+      ]
+    },
+    "yg68.html": {
+      "parent": "chapter-skills.html",
+      "children": [],
+      "ancestors": [
+        "chapter-skills.html"
+      ]
+    },
+    "yg69.html": {
+      "parent": "chapter-skills.html",
+      "children": [],
+      "ancestors": [
+        "chapter-skills.html"
+      ]
+    },
+    "yg70.html": {
+      "parent": "chapter-skills.html",
+      "children": [],
+      "ancestors": [
+        "chapter-skills.html"
+      ]
+    },
+    "yg71.html": {
+      "parent": "chapter-skills.html",
+      "children": [],
+      "ancestors": [
+        "chapter-skills.html"
+      ]
+    },
+    "yg72.html": {
+      "parent": "chapter-skills.html",
+      "children": [],
+      "ancestors": [
+        "chapter-skills.html"
+      ]
+    },
+    "yg73.html": {
+      "parent": "chapter-skills.html",
+      "children": [],
+      "ancestors": [
+        "chapter-skills.html"
+      ]
+    },
+    "yg74.html": {
+      "parent": "chapter-skills.html",
+      "children": [],
+      "ancestors": [
+        "chapter-skills.html"
+      ]
+    },
+    "yg75.html": {
+      "parent": "chapter-skills.html",
+      "children": [],
+      "ancestors": [
+        "chapter-skills.html"
+      ]
+    },
+    "yg76.html": {
+      "parent": "chapter-skills.html",
+      "children": [],
+      "ancestors": [
+        "chapter-skills.html"
+      ]
+    },
+    "yg77.html": {
+      "parent": "chapter-skills.html",
+      "children": [],
+      "ancestors": [
+        "chapter-skills.html"
+      ]
+    },
+    "yg78.html": {
+      "parent": "chapter-skills.html",
+      "children": [],
+      "ancestors": [
+        "chapter-skills.html"
+      ]
+    },
+    "yg001.html": {
+      "parent": "contents.html",
+      "children": [
+        "yg144.html",
+        "yg001c.html",
+        "yg03.html",
+        "yg50.html",
+        "yg54.html",
+        "yg53.html",
+        "yg52.html",
+        "yg51.html",
+        "yg117.html",
+        "yg143.html",
+        "yg154.html",
+        "yg05.html",
+        "yg06.html",
+        "yg07.html"
+      ],
+      "ancestors": []
+    },
+    "yg144.html": {
+      "parent": "yg001.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html"
+      ]
+    },
+    "yg001c.html": {
+      "parent": "yg001.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html"
+      ]
+    },
+    "yg03.html": {
+      "parent": "yg001.html",
+      "children": [
+        "yg116.html",
+        "yg04.html"
+      ],
+      "ancestors": [
+        "yg001.html"
+      ]
+    },
+    "yg116.html": {
+      "parent": "yg03.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html",
+        "yg03.html"
+      ]
+    },
+    "yg04.html": {
+      "parent": "yg03.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html",
+        "yg03.html"
+      ]
+    },
+    "yg50.html": {
+      "parent": "yg001.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html"
+      ]
+    },
+    "yg54.html": {
+      "parent": "yg001.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html"
+      ]
+    },
+    "yg53.html": {
+      "parent": "yg001.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html"
+      ]
+    },
+    "yg52.html": {
+      "parent": "yg001.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html"
+      ]
+    },
+    "yg51.html": {
+      "parent": "yg001.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html"
+      ]
+    },
+    "yg117.html": {
+      "parent": "yg001.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html"
+      ]
+    },
+    "yg143.html": {
+      "parent": "yg001.html",
+      "children": [
+        "yg08.html",
+        "yg09.html",
+        "yg10.html",
+        "yg151.html",
+        "yg152.html",
+        "yg153.html"
+      ],
+      "ancestors": [
+        "yg001.html"
+      ]
+    },
+    "yg08.html": {
+      "parent": "yg143.html",
+      "children": [
+        "yg98.html",
+        "yg99.html",
+        "yg100.html"
+      ],
+      "ancestors": [
+        "yg001.html",
+        "yg143.html"
+      ]
+    },
+    "yg98.html": {
+      "parent": "yg08.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html",
+        "yg143.html",
+        "yg08.html"
+      ]
+    },
+    "yg99.html": {
+      "parent": "yg08.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html",
+        "yg143.html",
+        "yg08.html"
+      ]
+    },
+    "yg100.html": {
+      "parent": "yg08.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html",
+        "yg143.html",
+        "yg08.html"
+      ]
+    },
+    "yg09.html": {
+      "parent": "yg143.html",
+      "children": [
+        "yg145.html",
+        "yg146.html",
+        "yg147.html"
+      ],
+      "ancestors": [
+        "yg001.html",
+        "yg143.html"
+      ]
+    },
+    "yg145.html": {
+      "parent": "yg09.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html",
+        "yg143.html",
+        "yg09.html"
+      ]
+    },
+    "yg146.html": {
+      "parent": "yg09.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html",
+        "yg143.html",
+        "yg09.html"
+      ]
+    },
+    "yg147.html": {
+      "parent": "yg09.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html",
+        "yg143.html",
+        "yg09.html"
+      ]
+    },
+    "yg10.html": {
+      "parent": "yg143.html",
+      "children": [
+        "yg148.html",
+        "yg149.html",
+        "yg150.html"
+      ],
+      "ancestors": [
+        "yg001.html",
+        "yg143.html"
+      ]
+    },
+    "yg148.html": {
+      "parent": "yg10.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html",
+        "yg143.html",
+        "yg10.html"
+      ]
+    },
+    "yg149.html": {
+      "parent": "yg10.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html",
+        "yg143.html",
+        "yg10.html"
+      ]
+    },
+    "yg150.html": {
+      "parent": "yg10.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html",
+        "yg143.html",
+        "yg10.html"
+      ]
+    },
+    "yg151.html": {
+      "parent": "yg143.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html",
+        "yg143.html"
+      ]
+    },
+    "yg152.html": {
+      "parent": "yg143.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html",
+        "yg143.html"
+      ]
+    },
+    "yg153.html": {
+      "parent": "yg143.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html",
+        "yg143.html"
+      ]
+    },
+    "yg154.html": {
+      "parent": "yg001.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html"
+      ]
+    },
+    "yg05.html": {
+      "parent": "yg001.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html"
+      ]
+    },
+    "yg06.html": {
+      "parent": "yg001.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html"
+      ]
+    },
+    "yg07.html": {
+      "parent": "yg001.html",
+      "children": [],
+      "ancestors": [
+        "yg001.html"
+      ]
+    },
+    "yg002.html": {
+      "parent": "contents.html",
+      "children": [
+        "yg12.html",
+        "yg86.html",
+        "yg80.html",
+        "yg19.html",
+        "yg17.html",
+        "yg15.html",
+        "yg16.html",
+        "yg20.html",
+        "yg21.html",
+        "yg22.html",
+        "yg23.html",
+        "yg33.html",
+        "yg95.html"
+      ],
+      "ancestors": []
+    },
+    "yg12.html": {
+      "parent": "yg002.html",
+      "children": [],
+      "ancestors": [
+        "yg002.html"
+      ]
+    },
+    "yg86.html": {
+      "parent": "yg002.html",
+      "children": [],
+      "ancestors": [
+        "yg002.html"
+      ]
+    },
+    "yg80.html": {
+      "parent": "yg002.html",
+      "children": [],
+      "ancestors": [
+        "yg002.html"
+      ]
+    },
+    "yg19.html": {
+      "parent": "yg002.html",
+      "children": [],
+      "ancestors": [
+        "yg002.html"
+      ]
+    },
+    "yg17.html": {
+      "parent": "yg002.html",
+      "children": [
+        "yg18.html"
+      ],
+      "ancestors": [
+        "yg002.html"
+      ]
+    },
+    "yg18.html": {
+      "parent": "yg17.html",
+      "children": [],
+      "ancestors": [
+        "yg002.html",
+        "yg17.html"
+      ]
+    },
+    "yg15.html": {
+      "parent": "yg002.html",
+      "children": [],
+      "ancestors": [
+        "yg002.html"
+      ]
+    },
+    "yg16.html": {
+      "parent": "yg002.html",
+      "children": [],
+      "ancestors": [
+        "yg002.html"
+      ]
+    },
+    "yg20.html": {
+      "parent": "yg002.html",
+      "children": [],
+      "ancestors": [
+        "yg002.html"
+      ]
+    },
+    "yg21.html": {
+      "parent": "yg002.html",
+      "children": [],
+      "ancestors": [
+        "yg002.html"
+      ]
+    },
+    "yg22.html": {
+      "parent": "yg002.html",
+      "children": [],
+      "ancestors": [
+        "yg002.html"
+      ]
+    },
+    "yg23.html": {
+      "parent": "yg002.html",
+      "children": [],
+      "ancestors": [
+        "yg002.html"
+      ]
+    },
+    "yg33.html": {
+      "parent": "yg002.html",
+      "children": [],
+      "ancestors": [
+        "yg002.html"
+      ]
+    },
+    "yg95.html": {
+      "parent": "yg002.html",
+      "children": [],
+      "ancestors": [
+        "yg002.html"
+      ]
+    },
+    "yg003.html": {
+      "parent": "contents.html",
+      "children": [
+        "yg104.html",
+        "yg105.html",
+        "yg106.html",
+        "yg107.html",
+        "yg109.html"
+      ],
+      "ancestors": []
+    },
+    "yg104.html": {
+      "parent": "yg003.html",
+      "children": [],
+      "ancestors": [
+        "yg003.html"
+      ]
+    },
+    "yg105.html": {
+      "parent": "yg003.html",
+      "children": [],
+      "ancestors": [
+        "yg003.html"
+      ]
+    },
+    "yg106.html": {
+      "parent": "yg003.html",
+      "children": [],
+      "ancestors": [
+        "yg003.html"
+      ]
+    },
+    "yg107.html": {
+      "parent": "yg003.html",
+      "children": [],
+      "ancestors": [
+        "yg003.html"
+      ]
+    },
+    "yg109.html": {
+      "parent": "yg003.html",
+      "children": [
+        "yg110.html",
+        "yg113.html",
+        "yg111.html",
+        "yg112.html"
+      ],
+      "ancestors": [
+        "yg003.html"
+      ]
+    },
+    "yg110.html": {
+      "parent": "yg109.html",
+      "children": [],
+      "ancestors": [
+        "yg003.html",
+        "yg109.html"
+      ]
+    },
+    "yg113.html": {
+      "parent": "yg109.html",
+      "children": [],
+      "ancestors": [
+        "yg003.html",
+        "yg109.html"
+      ]
+    },
+    "yg111.html": {
+      "parent": "yg109.html",
+      "children": [],
+      "ancestors": [
+        "yg003.html",
+        "yg109.html"
+      ]
+    },
+    "yg112.html": {
+      "parent": "yg109.html",
+      "children": [],
+      "ancestors": [
+        "yg003.html",
+        "yg109.html"
+      ]
+    },
+    "chapter-readings.html": {
+      "parent": "contents.html",
+      "children": [
+        "yg58.html",
+        "yg135.html"
+      ],
+      "ancestors": []
+    },
+    "yg58.html": {
+      "parent": "chapter-readings.html",
+      "children": [
+        "yg57.html",
+        "yg61.html",
+        "yg97.html"
+      ],
+      "ancestors": [
+        "chapter-readings.html"
+      ]
+    },
+    "yg57.html": {
+      "parent": "yg58.html",
+      "children": [],
+      "ancestors": [
+        "chapter-readings.html",
+        "yg58.html"
+      ]
+    },
+    "yg61.html": {
+      "parent": "yg58.html",
+      "children": [],
+      "ancestors": [
+        "chapter-readings.html",
+        "yg58.html"
+      ]
+    },
+    "yg97.html": {
+      "parent": "yg58.html",
+      "children": [],
+      "ancestors": [
+        "chapter-readings.html",
+        "yg58.html"
+      ]
+    },
+    "yg135.html": {
+      "parent": "chapter-readings.html",
+      "children": [
+        "ygrp01.html"
+      ],
+      "ancestors": [
+        "chapter-readings.html"
+      ]
+    },
+    "ygrp01.html": {
+      "parent": "yg135.html",
+      "children": [
+        "yg125.html",
+        "yg132.html",
+        "yg133.html",
+        "yg134.html",
+        "yg126.html",
+        "yg127.html",
+        "yg128.html",
+        "yg130.html",
+        "yg129.html"
+      ],
+      "ancestors": [
+        "chapter-readings.html",
+        "yg135.html"
+      ]
+    },
+    "yg125.html": {
+      "parent": "ygrp01.html",
+      "children": [],
+      "ancestors": [
+        "chapter-readings.html",
+        "yg135.html",
+        "ygrp01.html"
+      ]
+    },
+    "yg132.html": {
+      "parent": "ygrp01.html",
+      "children": [],
+      "ancestors": [
+        "chapter-readings.html",
+        "yg135.html",
+        "ygrp01.html"
+      ]
+    },
+    "yg133.html": {
+      "parent": "ygrp01.html",
+      "children": [],
+      "ancestors": [
+        "chapter-readings.html",
+        "yg135.html",
+        "ygrp01.html"
+      ]
+    },
+    "yg134.html": {
+      "parent": "ygrp01.html",
+      "children": [],
+      "ancestors": [
+        "chapter-readings.html",
+        "yg135.html",
+        "ygrp01.html"
+      ]
+    },
+    "yg126.html": {
+      "parent": "ygrp01.html",
+      "children": [],
+      "ancestors": [
+        "chapter-readings.html",
+        "yg135.html",
+        "ygrp01.html"
+      ]
+    },
+    "yg127.html": {
+      "parent": "ygrp01.html",
+      "children": [],
+      "ancestors": [
+        "chapter-readings.html",
+        "yg135.html",
+        "ygrp01.html"
+      ]
+    },
+    "yg128.html": {
+      "parent": "ygrp01.html",
+      "children": [],
+      "ancestors": [
+        "chapter-readings.html",
+        "yg135.html",
+        "ygrp01.html"
+      ]
+    },
+    "yg130.html": {
+      "parent": "ygrp01.html",
+      "children": [],
+      "ancestors": [
+        "chapter-readings.html",
+        "yg135.html",
+        "ygrp01.html"
+      ]
+    },
+    "yg129.html": {
+      "parent": "ygrp01.html",
+      "children": [],
+      "ancestors": [
+        "chapter-readings.html",
+        "yg135.html",
+        "ygrp01.html"
+      ]
+    },
+    "chapter-resources.html": {
+      "parent": "contents.html",
+      "children": [
+        "yg62.html",
+        "yg00.html",
+        "yg02.html",
+        "yg01.html",
+        "yg001b.html",
+        "yg002b.html",
+        "yg003b.html",
+        "yg137.html"
+      ],
+      "ancestors": []
+    },
+    "yg62.html": {
+      "parent": "chapter-resources.html",
+      "children": [],
+      "ancestors": [
+        "chapter-resources.html"
+      ]
+    },
+    "yg00.html": {
+      "parent": "chapter-resources.html",
+      "children": [],
+      "ancestors": [
+        "chapter-resources.html"
+      ]
+    },
+    "yg02.html": {
+      "parent": "chapter-resources.html",
+      "children": [],
+      "ancestors": [
+        "chapter-resources.html"
+      ]
+    },
+    "yg01.html": {
+      "parent": "chapter-resources.html",
+      "children": [],
+      "ancestors": [
+        "chapter-resources.html"
+      ]
+    },
+    "yg001b.html": {
+      "parent": "chapter-resources.html",
+      "children": [],
+      "ancestors": [
+        "chapter-resources.html"
+      ]
+    },
+    "yg002b.html": {
+      "parent": "chapter-resources.html",
+      "children": [],
+      "ancestors": [
+        "chapter-resources.html"
+      ]
+    },
+    "yg003b.html": {
+      "parent": "chapter-resources.html",
+      "children": [],
+      "ancestors": [
+        "chapter-resources.html"
+      ]
+    },
+    "yg137.html": {
+      "parent": "chapter-resources.html",
+      "children": [],
+      "ancestors": [
+        "chapter-resources.html"
+      ]
+    }
+  },
+  "verification": {
+    "mapped_pages": 136,
+    "reachable_pages": 136,
+    "source_cells_checked": 14748,
+    "data_tables_checked": 114,
+    "local_links_and_assets": 41400,
+    "external_links": 1,
+    "original_archive_unchanged": 205,
+    "accepted_two_pages_text_unchanged": true,
+    "accepted_prototype_C_unchanged": true,
+    "errors": [],
+    "source_text_checks": [
+      {
+        "page": "yg00.html",
+        "source_text_characters": 4788,
+        "raw_source_sha256": "d9663b6dc728d82511ad057d497cdf77500ede4413ff7a91c3a9bfcb7ee78d7d"
+      },
+      {
+        "page": "yg001.html",
+        "source_text_characters": 260,
+        "raw_source_sha256": "759ff4798ebec875b4bdc98a9395b879e7525e3b3e25f836026230f9ee2c02a8"
+      },
+      {
+        "page": "yg001b.html",
+        "source_text_characters": 260,
+        "raw_source_sha256": "759ff4798ebec875b4bdc98a9395b879e7525e3b3e25f836026230f9ee2c02a8"
+      },
+      {
+        "page": "yg001c.html",
+        "source_text_characters": 247,
+        "raw_source_sha256": "f2838c5ed94f76b6b19424421c9a51f7d86e096fa9b3bd39779068edb196da09"
+      },
+      {
+        "page": "yg002.html",
+        "source_text_characters": 180,
+        "raw_source_sha256": "c714ad9b3c9b1028285b3080e8e59d8ff612c3e9afd3c41a0ba826d8527d5ec4"
+      },
+      {
+        "page": "yg002b.html",
+        "source_text_characters": 180,
+        "raw_source_sha256": "c714ad9b3c9b1028285b3080e8e59d8ff612c3e9afd3c41a0ba826d8527d5ec4"
+      },
+      {
+        "page": "yg003.html",
+        "source_text_characters": 42,
+        "raw_source_sha256": "f719838ea6f2d2526b210c56435e1ccf6ed614d58acd51d9b72544a68809037b"
+      },
+      {
+        "page": "yg003b.html",
+        "source_text_characters": 42,
+        "raw_source_sha256": "f719838ea6f2d2526b210c56435e1ccf6ed614d58acd51d9b72544a68809037b"
+      },
+      {
+        "page": "yg01.html",
+        "source_text_characters": 344,
+        "raw_source_sha256": "3da99a1bae5bd3d7a769ff09bd78b30a5a3aea2ed47cea11e0b243a9ed2a2c71"
+      },
+      {
+        "page": "yg02.html",
+        "source_text_characters": 21502,
+        "raw_source_sha256": "0eb4042af52db252d4871b05a4ae0267b34f4924243da0914eeba699b83fb262"
+      },
+      {
+        "page": "yg03.html",
+        "source_text_characters": 882,
+        "raw_source_sha256": "7d05a902dc146ec228b40f29b6c1d4e9cc1c9108764bec180e9d394b15be6758"
+      },
+      {
+        "page": "yg04.html",
+        "source_text_characters": 417,
+        "raw_source_sha256": "9248984fdc61f6be61d300e786f701b4e64af02a52640e7c29c95696c5c48481"
+      },
+      {
+        "page": "yg05.html",
+        "source_text_characters": 3850,
+        "raw_source_sha256": "951997e0dd8b1e45266d07203ad197215f8ae3cc96f4e3cc3c895d13821d00d9"
+      },
+      {
+        "page": "yg06.html",
+        "source_text_characters": 3208,
+        "raw_source_sha256": "251a0fc0137065ebdb1f1a6bd3bc202a997a8bf523dbaa037a4648f0124c3621"
+      },
+      {
+        "page": "yg07.html",
+        "source_text_characters": 4055,
+        "raw_source_sha256": "608cada4582f95a4d16a7fd2aceede58873c1812e9759ec90b82ee178f940e1e"
+      },
+      {
+        "page": "yg08.html",
+        "source_text_characters": 826,
+        "raw_source_sha256": "e765ab0fd248543cfe46bfafce8cfdb395c74986aebf997511b13d5f49168f3f"
+      },
+      {
+        "page": "yg09.html",
+        "source_text_characters": 874,
+        "raw_source_sha256": "047b20ed1e8c581d403a63d6f6f28e185aa86dbf2907913204d8ebdaa913c9b1"
+      },
+      {
+        "page": "yg10.html",
+        "source_text_characters": 883,
+        "raw_source_sha256": "81efc51684d8f8c6d8f11ab8d2cda499f78a3c5756ce52331b654fe2d022336d"
+      },
+      {
+        "page": "yg100.html",
+        "source_text_characters": 768,
+        "raw_source_sha256": "e2c9248df716a65fbd73e60eec860c6d10b6f07302b18210b5a033f468f4b636"
+      },
+      {
+        "page": "yg102.html",
+        "source_text_characters": 788,
+        "raw_source_sha256": "aaf6b22b05e37c588f8c7fe793f862c723d159d4bce4a1241e248086311ad071"
+      },
+      {
+        "page": "yg104.html",
+        "source_text_characters": 839,
+        "raw_source_sha256": "17381aeb4ec8e77140a411417b9cc50034e8467be13895a1e28443dd8bc99a74"
+      },
+      {
+        "page": "yg105.html",
+        "source_text_characters": 1749,
+        "raw_source_sha256": "0f2f6869b74ecd1417d15cd605d2df5b2bbee83288ba3bf88d2facecae789b25"
+      },
+      {
+        "page": "yg106.html",
+        "source_text_characters": 2078,
+        "raw_source_sha256": "b638adeca05d6646ce29deafbf8ecb6966ad4b2f136585e8abd7af8c3dfd2329"
+      },
+      {
+        "page": "yg107.html",
+        "source_text_characters": 589,
+        "raw_source_sha256": "3c31ae8e92f8814035bf76ff11c5192cca5bd2943d2ea599ecd2490db88b28c9"
+      },
+      {
+        "page": "yg109.html",
+        "source_text_characters": 865,
+        "raw_source_sha256": "8d95acc6fc86995863b5819ba81d3f659a24545a04a271754e4e18415063c5f7"
+      },
+      {
+        "page": "yg110.html",
+        "source_text_characters": 274,
+        "raw_source_sha256": "2a39c03041b9618f223387fd2a16f27f9b7c5912f78a874b6cd74d4f40e9c796"
+      },
+      {
+        "page": "yg111.html",
+        "source_text_characters": 4661,
+        "raw_source_sha256": "982f15ef17fd766908c7a7c5a2f92f176e4024d8d8912a17665fd08ac6ef0846"
+      },
+      {
+        "page": "yg112.html",
+        "source_text_characters": 2467,
+        "raw_source_sha256": "cd273588d899f5b273c4f4040ec4214499f8bef368202f29cbffd97ec7ff3ea6"
+      },
+      {
+        "page": "yg113.html",
+        "source_text_characters": 805,
+        "raw_source_sha256": "88637dc9effc7d6226027773981dd8a1bd4637a951bdc33cdc6c66b189142c72"
+      },
+      {
+        "page": "yg114.html",
+        "source_text_characters": 1229,
+        "raw_source_sha256": "48894af598199c3f5e4dc2a001b4fe88a6fd429c3a7da3ec3edaa7ff2e7b7e50"
+      },
+      {
+        "page": "yg115.html",
+        "source_text_characters": 611,
+        "raw_source_sha256": "897211a3b4dbab6bd7563134afd3ffde3c56f95a1ddaba193ee846b882fb7496"
+      },
+      {
+        "page": "yg116.html",
+        "source_text_characters": 1133,
+        "raw_source_sha256": "5965f343a031d0ca4dbaa29b1b60b60e44267e4b1983ff6e9d748708b06fc9d2"
+      },
+      {
+        "page": "yg117.html",
+        "source_text_characters": 5869,
+        "raw_source_sha256": "fbce558eaeee8053a3c3937e2d6dd88b19d40226add842fbee9028436167dccc"
+      },
+      {
+        "page": "yg119.html",
+        "source_text_characters": 923,
+        "raw_source_sha256": "f4a9ab4bfefe041346135675798aa1fd3c048ba700ffa1b51b6ffce58007869e"
+      },
+      {
+        "page": "yg12.html",
+        "source_text_characters": 511,
+        "raw_source_sha256": "7ee638a7feaf70e8a99dc2fca1504f3d373868e2c2ec465663a288d3f9c0e836"
+      },
+      {
+        "page": "yg120.html",
+        "source_text_characters": 2726,
+        "raw_source_sha256": "a55d14e9c97f5880d28bb3ac9d1cdd2dc75829d054365d4300fa2ff49094a449"
+      },
+      {
+        "page": "yg121.html",
+        "source_text_characters": 2181,
+        "raw_source_sha256": "f403134fa449c3c1d56e6eea2654bc564eb8e7c48b642f1970041cecd497ca8c"
+      },
+      {
+        "page": "yg122.html",
+        "source_text_characters": 2100,
+        "raw_source_sha256": "1800ccf8666322fc4e3ba4a1939fbfa840eef77b6d8864bafb1d3c08db21fe74"
+      },
+      {
+        "page": "yg123.html",
+        "source_text_characters": 1361,
+        "raw_source_sha256": "43b60ac11c33a431498995e7dc9a2facf4548b47a367457370efc594f51a256c"
+      },
+      {
+        "page": "yg124.html",
+        "source_text_characters": 2504,
+        "raw_source_sha256": "d77339e29183c1ac862964fa5164794b22d8555a3227bc5f9b45c28a465385e2"
+      },
+      {
+        "page": "yg125.html",
+        "source_text_characters": 19407,
+        "raw_source_sha256": "0b07ba8e1a547cc4bbc60faf8a152a632cc93bc359a7562cab8cc2653a8956d5"
+      },
+      {
+        "page": "yg126.html",
+        "source_text_characters": 846,
+        "raw_source_sha256": "79384a1d3a3171097097cf8c46dcef1ed4a73232e7d65e49091361ef36e01356"
+      },
+      {
+        "page": "yg127.html",
+        "source_text_characters": 2512,
+        "raw_source_sha256": "1cc1321e2b13fe0996416713ab57a0f54f090b1c761ad334e0cf8be65337fde3"
+      },
+      {
+        "page": "yg128.html",
+        "source_text_characters": 2692,
+        "raw_source_sha256": "0b19779917c1afa871d25156381d33a53a788fb122222a6545df01ad8d1e123c"
+      },
+      {
+        "page": "yg129.html",
+        "source_text_characters": 185,
+        "raw_source_sha256": "390eab47b8230f5f790c11f90043f1ed2202457e6ae2e97c6be3c70304761f70"
+      },
+      {
+        "page": "yg130.html",
+        "source_text_characters": 1483,
+        "raw_source_sha256": "73de24bfd071c1fdfd7b73a2db10c12a648f8845c367dc204a172d54a43c8210"
+      },
+      {
+        "page": "yg132.html",
+        "source_text_characters": 24935,
+        "raw_source_sha256": "744e4d7bc6121444ff2660fe7145eb9ecc3a2a24b1f7de321e2c1335ca2c5029"
+      },
+      {
+        "page": "yg133.html",
+        "source_text_characters": 54355,
+        "raw_source_sha256": "76caa199a857880d8fd71055896c67b85326f6e89d90ad690b425af74da23e7c"
+      },
+      {
+        "page": "yg134.html",
+        "source_text_characters": 12580,
+        "raw_source_sha256": "60477b75ba4366a3a15b3b4d94ab4cbd4c53e2e4f7df3d73fd95f882561014ca"
+      },
+      {
+        "page": "yg135.html",
+        "source_text_characters": 137,
+        "raw_source_sha256": "ff4c1b98a2168900a4adacc56a5c2edee3de4811da00c0fadf0dd1e3e0981dbe"
+      },
+      {
+        "page": "yg137.html",
+        "source_text_characters": 238,
+        "raw_source_sha256": "4472e9c6ef0cd623f76608bc61efeb597884bdcab6b667b5e50f76236f1eaf77"
+      },
+      {
+        "page": "yg138.html",
+        "source_text_characters": 107,
+        "raw_source_sha256": "f198580e1b16bfd5caabef6a5113582c883e75c337e31c1fef68ba29e1f7617f"
+      },
+      {
+        "page": "yg139.html",
+        "source_text_characters": 697,
+        "raw_source_sha256": "106262b3a1afaefded630a1e01a6689f0ba7b2f28fa0082ebe3d200f5f820179"
+      },
+      {
+        "page": "yg140.html",
+        "source_text_characters": 878,
+        "raw_source_sha256": "1879ba12cd66f15133df69bb092b46076ac6b36a9d2993af35e5889a322da710"
+      },
+      {
+        "page": "yg142.html",
+        "source_text_characters": 914,
+        "raw_source_sha256": "2e1c9314b87ce494b261f8cc7f7d7e62b43353d3b5e473bc44f0ac02410f5823"
+      },
+      {
+        "page": "yg143.html",
+        "source_text_characters": 880,
+        "raw_source_sha256": "f1c3df04bc7b1cfc0ebfefbbf92a55e5326b8669d7de5e34e127a10f578c1fb7"
+      },
+      {
+        "page": "yg144.html",
+        "source_text_characters": 877,
+        "raw_source_sha256": "09f5f97a80069b25140b157c15b8627d74a77f4708071c2c9376bf093bf604c6"
+      },
+      {
+        "page": "yg145.html",
+        "source_text_characters": 524,
+        "raw_source_sha256": "e231e4f49356eac495cd19d3779e65cf744592be3fd15a09d2f9a4f68c7e6206"
+      },
+      {
+        "page": "yg146.html",
+        "source_text_characters": 630,
+        "raw_source_sha256": "f279301d274895f86b4a486e5c5517c4c4b204a40f3502d878f1d346aa63b8ee"
+      },
+      {
+        "page": "yg147.html",
+        "source_text_characters": 653,
+        "raw_source_sha256": "6a992b959e18335af3584cb98e931d40ac709728d3b8dc073b87b5cfbbc5b512"
+      },
+      {
+        "page": "yg148.html",
+        "source_text_characters": 650,
+        "raw_source_sha256": "0e7fb5a7de982ae799a3dbf12dd52281968744e04560bad7622991de26b59242"
+      },
+      {
+        "page": "yg149.html",
+        "source_text_characters": 678,
+        "raw_source_sha256": "129bbb97220a3af04f660975a8e733f67f89de51c37c35223228ac75947921a5"
+      },
+      {
+        "page": "yg15.html",
+        "source_text_characters": 1132,
+        "raw_source_sha256": "68d89cc4fbc57bac940e6e631effdb672a918830b42a24ecbaa246d6729e1970"
+      },
+      {
+        "page": "yg150.html",
+        "source_text_characters": 663,
+        "raw_source_sha256": "f4fce7ccb856e455032e4808030593e44e5112646aade728b175b9129e31a868"
+      },
+      {
+        "page": "yg151.html",
+        "source_text_characters": 1652,
+        "raw_source_sha256": "dc1f3cebeeb3899b0ddd6e716de521c6813646f62744a96084ddde144d7ac8c5"
+      },
+      {
+        "page": "yg152.html",
+        "source_text_characters": 2363,
+        "raw_source_sha256": "f95d58f925005079beecb6ddbcb3fcd7680772e45226a19305e9b036f50bfdf5"
+      },
+      {
+        "page": "yg153.html",
+        "source_text_characters": 1920,
+        "raw_source_sha256": "7bc3e3a92489910e21479091d581021e31ad1a6cf0a05724af2b9296c831b47e"
+      },
+      {
+        "page": "yg154.html",
+        "source_text_characters": 2193,
+        "raw_source_sha256": "c8391868bd54b42eb25a5a4925f6b1f740c35cb37709ebba62f7e06e9b994d1b"
+      },
+      {
+        "page": "yg16.html",
+        "source_text_characters": 778,
+        "raw_source_sha256": "8e72adcd4a56779d741bc838d950aea800f366d7020a67a3691c20adaf26e009"
+      },
+      {
+        "page": "yg17.html",
+        "source_text_characters": 934,
+        "raw_source_sha256": "e94d3870ef650b7ca4f07438654a164f5d34dfbfa1e241af032d7749fcf25e4c"
+      },
+      {
+        "page": "yg18.html",
+        "source_text_characters": 333,
+        "raw_source_sha256": "52756a3cc40774d0d86063c95a96f881c0b9baa9f25cf678942d44f5ce543a45"
+      },
+      {
+        "page": "yg19.html",
+        "source_text_characters": 924,
+        "raw_source_sha256": "4d2a90ea9f4a4a0813da2ca6e23dbfa9f94376ca516328fe682c263ac3cba622"
+      },
+      {
+        "page": "yg20.html",
+        "source_text_characters": 720,
+        "raw_source_sha256": "48d31addf2869d097325bc638b6c20f0a647466b23d51f71af8f569efc10f16f"
+      },
+      {
+        "page": "yg21.html",
+        "source_text_characters": 886,
+        "raw_source_sha256": "2f68d9590ea5fbe7b24b723ba4d9c849e840e33aa257a1104972df58583a42c1"
+      },
+      {
+        "page": "yg22.html",
+        "source_text_characters": 1206,
+        "raw_source_sha256": "28a1786a1e19728f7831a768a1c75e2bbdce9b6d9247b85421b2a2d72d1dc129"
+      },
+      {
+        "page": "yg23.html",
+        "source_text_characters": 2038,
+        "raw_source_sha256": "dace5bac44e720b0bb71859f19d28a19e51e0f61d31dff02cca0ad6580c6e1d7"
+      },
+      {
+        "page": "yg24.html",
+        "source_text_characters": 734,
+        "raw_source_sha256": "1a87373f0cf6cf6a3da500fa048243b0b75fc86874f9e9992694341eaf51f45e"
+      },
+      {
+        "page": "effects.html",
+        "source_text_characters": 7058,
+        "raw_source_sha256": "4204c0ef04d6253b12bfe1697d601f917ebc999ded0eb7d0d639bcc90dace318"
+      },
+      {
+        "page": "yg31.html",
+        "source_text_characters": 5980,
+        "raw_source_sha256": "bf1a544e091d49879ec14cb458849ab4b7ed727aae9ed24dbb01bf06025d04e2"
+      },
+      {
+        "page": "yg32.html",
+        "source_text_characters": 3481,
+        "raw_source_sha256": "4f3665c040d138d8bbec8671c484e6d88e85c73e787311bc8b154cc70487abd1"
+      },
+      {
+        "page": "yg33.html",
+        "source_text_characters": 261,
+        "raw_source_sha256": "eaf87ef44619206f46e5c690625ee29752532e1f68513d3139dfc5a5c4b89fbf"
+      },
+      {
+        "page": "yg35.html",
+        "source_text_characters": 7124,
+        "raw_source_sha256": "8da0153907284e2bca932029b088bdbf2afd436053e89be7cca9d36dfdae32d7"
+      },
+      {
+        "page": "index.html",
+        "source_text_characters": 802,
+        "raw_source_sha256": "4dfbe068ef7fd1befae2ba83fb511a724b7c2f8c368f0cdd8841a642cff02873"
+      },
+      {
+        "page": "yg45.html",
+        "source_text_characters": 3376,
+        "raw_source_sha256": "d4646591935d9de231a91053bd03199780f7fcc99676b17ae99377aeac1537d7"
+      },
+      {
+        "page": "yg46.html",
+        "source_text_characters": 1682,
+        "raw_source_sha256": "c070b45bf138b383373c2096ff78620a3c6015a483779e2d511d88a51cb9b579"
+      },
+      {
+        "page": "yg50.html",
+        "source_text_characters": 717,
+        "raw_source_sha256": "01c8bc6c0e4fa965f1addf5e55831caa8d50606275838cea9219d54868180c2e"
+      },
+      {
+        "page": "yg51.html",
+        "source_text_characters": 662,
+        "raw_source_sha256": "5239d88e585971a1f0fa5c4470752801da639b31a8d00a2f50c79aa249917dde"
+      },
+      {
+        "page": "yg52.html",
+        "source_text_characters": 542,
+        "raw_source_sha256": "75aa2f86b92e39989b63b4fb69702662343cb52c52cb5e6528796818dc884c10"
+      },
+      {
+        "page": "yg53.html",
+        "source_text_characters": 653,
+        "raw_source_sha256": "1f786456b2acd0153f7b023808a41db5e7a5509b3bc71dc41356cbf7774a2531"
+      },
+      {
+        "page": "yg54.html",
+        "source_text_characters": 640,
+        "raw_source_sha256": "3b5ab222ca6dea884a0683d1b8f0f37142fab906f20eecc72d922b55338307f9"
+      },
+      {
+        "page": "yg56.html",
+        "source_text_characters": 2982,
+        "raw_source_sha256": "764c6d06554eebf96fb3bf2e6bbfdd5439fa024f5c4ce50fe31b43b3207f2649"
+      },
+      {
+        "page": "yg57.html",
+        "source_text_characters": 2123,
+        "raw_source_sha256": "deb80677ab4577b3263099af287e1a933cff8b15cfd1f8ec6b92731d01669e9c"
+      },
+      {
+        "page": "yg58.html",
+        "source_text_characters": 158,
+        "raw_source_sha256": "1be32f329434f50bdd233d49bcd20e0637f79f07aae6dbd053e1ae88461e425e"
+      },
+      {
+        "page": "yg61.html",
+        "source_text_characters": 2085,
+        "raw_source_sha256": "6cc601c5f5ea2b331a5ec2436dbb0272d41316e54c447ba9eb4e98c6cab87536"
+      },
+      {
+        "page": "yg62.html",
+        "source_text_characters": 260,
+        "raw_source_sha256": "01ea74418330f22cc9e1ed1914f47515b09ceadd084a1f447b779bc2af31099d"
+      },
+      {
+        "page": "yg63.html",
+        "source_text_characters": 1215,
+        "raw_source_sha256": "4f71051e454ad5b9954c043547d354c6f47096e6393d300f2c221aa71b7a0281"
+      },
+      {
+        "page": "yg64.html",
+        "source_text_characters": 260,
+        "raw_source_sha256": "83f867cf8b9ba09db3604dc09d9123cae38969f7f63f8d07fca6fc69eea17f54"
+      },
+      {
+        "page": "yg65.html",
+        "source_text_characters": 915,
+        "raw_source_sha256": "a7d0bbd74608fe0db153b3d678482baf8f6396a854118e6813d893141a02a438"
+      },
+      {
+        "page": "yg66.html",
+        "source_text_characters": 792,
+        "raw_source_sha256": "d31bb4abe05d0dced0ace86ebb51570804f196f9e0e16c2b59697793cda200e8"
+      },
+      {
+        "page": "yg67.html",
+        "source_text_characters": 548,
+        "raw_source_sha256": "3c86d1f29585be4ec0670083c928286d4815295e4dcfbbd90d9588d2605887ea"
+      },
+      {
+        "page": "yg68.html",
+        "source_text_characters": 614,
+        "raw_source_sha256": "a8ba697c36b3bfe1cdbbfa3b64c14788e5e39ebd83ebfdf714d3b08b896a5769"
+      },
+      {
+        "page": "yg69.html",
+        "source_text_characters": 692,
+        "raw_source_sha256": "97130d72ba0cac237d10e8f8e1a31f908861d9da795cb2b8d81f7aa32c425175"
+      },
+      {
+        "page": "yg70.html",
+        "source_text_characters": 589,
+        "raw_source_sha256": "cc7fc123d948aaa8f80ae35d1e4b48a53245efd95f1458225fde56133d6915d1"
+      },
+      {
+        "page": "yg71.html",
+        "source_text_characters": 644,
+        "raw_source_sha256": "547b79903f0fa1f52d17aa9d0b0f29117710137bd4a2e13be6f6749401400504"
+      },
+      {
+        "page": "yg72.html",
+        "source_text_characters": 631,
+        "raw_source_sha256": "26f8a9a3c4228d99279f04d6bd6b86c5efc29370f766868dabd49044bfe5d2ab"
+      },
+      {
+        "page": "yg73.html",
+        "source_text_characters": 672,
+        "raw_source_sha256": "d35a33ff628c8c2cc60a1ad68e666490862b59135c5d8d93cf06a7ee73103c5b"
+      },
+      {
+        "page": "yg74.html",
+        "source_text_characters": 519,
+        "raw_source_sha256": "99898cafae1a57f52226f107c24f8262d410ea7b637ddce76470231d4ba6e9f0"
+      },
+      {
+        "page": "yg75.html",
+        "source_text_characters": 355,
+        "raw_source_sha256": "68a7abf8fbcca0fa11175db61fceae82727a151e8083a9b0e9d2f9d9334346d6"
+      },
+      {
+        "page": "yg76.html",
+        "source_text_characters": 311,
+        "raw_source_sha256": "bb84815fb135672099e834421eb3c3c18add17ccf4193cc67657421fe4e6d5f8"
+      },
+      {
+        "page": "yg77.html",
+        "source_text_characters": 1109,
+        "raw_source_sha256": "2793ec6a19e4e1154f274b619969314ddc40f5270e2404fe2473e320b36da1b2"
+      },
+      {
+        "page": "yg78.html",
+        "source_text_characters": 123,
+        "raw_source_sha256": "abe92a02d342b2530e67ff8016974103a48ecb77991e7f8243a5fa3da0065e89"
+      },
+      {
+        "page": "yg79.html",
+        "source_text_characters": 8587,
+        "raw_source_sha256": "768fc9eb4e8876a66feb90af43a15ee854282d33ae791873f75f0d999a1e98bd"
+      },
+      {
+        "page": "yg80.html",
+        "source_text_characters": 368,
+        "raw_source_sha256": "5246f328cba0cad484a908d5f01299fa54baee955fb871a11724d4be98eeefe2"
+      },
+      {
+        "page": "yg82.html",
+        "source_text_characters": 1422,
+        "raw_source_sha256": "b459113c606be30e110a869df64d8f3290fbbfde797ea42c0c6bf7a711fba153"
+      },
+      {
+        "page": "yg83.html",
+        "source_text_characters": 2036,
+        "raw_source_sha256": "45e357959ad52774f4730589c242d3e9fdb20324070265d56ddeb55ef165f869"
+      },
+      {
+        "page": "yg84.html",
+        "source_text_characters": 1827,
+        "raw_source_sha256": "c19cca23e2d3a14cdaaa9f8f56ff1f02a7ff2e6736d77a104fb399de8b6d4f4b"
+      },
+      {
+        "page": "yg86.html",
+        "source_text_characters": 6796,
+        "raw_source_sha256": "f1600b0b97380a172b86ebf932c489ef82567c7196ac6901c1d6653f43cbdfa1"
+      },
+      {
+        "page": "yg87.html",
+        "source_text_characters": 2419,
+        "raw_source_sha256": "7efd22a57b9009b97eb0a1bb3e990c956603fe63c8006c36323c4eb17213165a"
+      },
+      {
+        "page": "yg88.html",
+        "source_text_characters": 2661,
+        "raw_source_sha256": "6d8d34a1396a81f2d6c8e60b13a72d60e4ba3b0e83201bb54c7a98068313d6bb"
+      },
+      {
+        "page": "yg89.html",
+        "source_text_characters": 1858,
+        "raw_source_sha256": "3588738ccb0e714956febb4eed1106744f3e0167ec39312cd7c73feb4a80e47d"
+      },
+      {
+        "page": "yg90.html",
+        "source_text_characters": 1826,
+        "raw_source_sha256": "d3ad93d3cab66f6a8cc318f0227e31931fb26a6f32134854284ae7e03c289696"
+      },
+      {
+        "page": "yg91.html",
+        "source_text_characters": 7021,
+        "raw_source_sha256": "1921c00c7191691b8124e815c30b0d62f189be3596bb93a72e4f5b5010b0de54"
+      },
+      {
+        "page": "yg92.html",
+        "source_text_characters": 11579,
+        "raw_source_sha256": "72c391ffc9d5688ed3d3ad684342f183967864d4b51a5a6a1017d3d1c822409e"
+      },
+      {
+        "page": "yg93.html",
+        "source_text_characters": 1636,
+        "raw_source_sha256": "e28a5ee3bcb71678c43515caa5fad30ad964f0387da549ad5b7b045ee82522e3"
+      },
+      {
+        "page": "yg94.html",
+        "source_text_characters": 2940,
+        "raw_source_sha256": "d744f7b7d7f197940cbeb46a0036cedd32766eedcbc4b6ecb65cfba4f8b887fd"
+      },
+      {
+        "page": "yg95.html",
+        "source_text_characters": 724,
+        "raw_source_sha256": "840f19fe02ffc8fd55e84de7547faf3ef773c8d41314ea49529605e7361ce22f"
+      },
+      {
+        "page": "yg97.html",
+        "source_text_characters": 1514,
+        "raw_source_sha256": "ca486a84b8e9838e367d9e43ddac706c6dae614144932a56a85bb92baa611c53"
+      },
+      {
+        "page": "yg98.html",
+        "source_text_characters": 603,
+        "raw_source_sha256": "6ceee1f0ff05e48ed7ef75acf180417e94664ca677de299e048b8779b74f6aec"
+      },
+      {
+        "page": "yg99.html",
+        "source_text_characters": 685,
+        "raw_source_sha256": "6597fefd3d66a0e34a2df8b7fb19b9a917ddcd9eb487a21891f8834e673e516f"
+      },
+      {
+        "page": "ygplay.html",
+        "source_text_characters": 238,
+        "raw_source_sha256": "4472e9c6ef0cd623f76608bc61efeb597884bdcab6b667b5e50f76236f1eaf77"
+      },
+      {
+        "page": "ygrp01.html",
+        "source_text_characters": 185,
+        "raw_source_sha256": "390eab47b8230f5f790c11f90043f1ed2202457e6ae2e97c6be3c70304761f70"
+      }
+    ],
+    "hierarchical_navigation": {
+      "desktop_and_mobile_menus": 272,
+      "all_destinations_linked_from_each_menu": true,
+      "current_branch_open": true,
+      "parent_breadcrumbs_and_footer_links": true,
+      "child_page_links": true
+    }
+  }
+}
